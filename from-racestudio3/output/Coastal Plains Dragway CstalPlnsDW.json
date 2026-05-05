@@ -1,0 +1,52 @@
+{
+  "source_file": "174ct4m1.tkk",
+  "full_name": "Coastal Plains Dragway CstalPlnsDW",
+  "name": "Coastal Plains Dragway",
+  "venue_id": "174ct4m1",
+  "short_name": "CstalPlnsDW",
+  "country": "US",
+  "track_length_m": 418.5,
+  "reference_point": {
+    "lat": 34.8084594,
+    "lon": -77.5000841,
+    "alt_m": 13.0
+  },
+  "start_finish": {
+    "lat": 34.8072151,
+    "lon": -77.5016898
+  },
+  "surface": "asphalt",
+  "timezone": "America/New_York",
+  "timezone_label": "(UTC-05:00) Eastern Time (US & Canada)",
+  "contact": {
+    "city": "Jacksonville",
+    "address": "4744 Richlands Highway",
+    "postal_code": "28540",
+    "phone": "+1 910 347 2200",
+    "url": "http://www.coastalplainsraceway.com/dragway/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 34.8072233,
+      "lon": -77.5018141
+    },
+    "p2": {
+      "lat": 34.8071127,
+      "lon": -77.5016871
+    }
+  },
+  "logo_file": "Coastal Plains Dragway CstalPlnsDW_logo.png",
+  "svg_file": "Coastal Plains Dragway CstalPlnsDW.svg",
+  "gps_points": [
+    {
+      "lat": 34.807168,
+      "lon": -77.5017506,
+      "alt_m": 13.0
+    },
+    {
+      "lat": 34.8097507,
+      "lon": -77.4984175,
+      "alt_m": 11.0
+    }
+  ]
+}

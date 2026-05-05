@@ -1,0 +1,52 @@
+{
+  "source_file": "171j7u57.tkk",
+  "full_name": "Atco Dragway Atco DW",
+  "name": "Atco Dragway",
+  "venue_id": "171j7u57",
+  "short_name": "Atco DW",
+  "country": "US",
+  "track_length_m": 419.5,
+  "reference_point": {
+    "lat": 39.7767363,
+    "lon": -74.8300279,
+    "alt_m": 32.0
+  },
+  "start_finish": {
+    "lat": 39.7749389,
+    "lon": -74.8303745
+  },
+  "surface": "asphalt",
+  "timezone": "America/New_York",
+  "timezone_label": "(UTC-05:00) Eastern Time (US & Canada)",
+  "contact": {
+    "city": "Atco",
+    "address": "1000 Jackson Road",
+    "postal_code": "08004",
+    "phone": "+1 856 768 2167",
+    "url": "http://atcodragway.rocks/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 39.774886,
+      "lon": -74.830521
+    },
+    "p2": {
+      "lat": 39.7748556,
+      "lon": -74.8302542
+    }
+  },
+  "logo_file": "Atco Dragway Atco DW_logo.png",
+  "svg_file": "Atco Dragway Atco DW.svg",
+  "gps_points": [
+    {
+      "lat": 39.7748708,
+      "lon": -74.8303876,
+      "alt_m": 32.0
+    },
+    {
+      "lat": 39.7786018,
+      "lon": -74.8296683,
+      "alt_m": 29.0
+    }
+  ]
+}

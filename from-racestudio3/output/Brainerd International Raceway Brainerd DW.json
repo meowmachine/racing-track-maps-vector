@@ -1,0 +1,52 @@
+{
+  "source_file": "173oydqc.tkk",
+  "full_name": "Brainerd International Raceway Brainerd DW",
+  "name": "Brainerd International Raceway",
+  "venue_id": "173oydqc",
+  "short_name": "Brainerd DW",
+  "country": "US",
+  "track_length_m": 417.9,
+  "reference_point": {
+    "lat": 46.4209831,
+    "lon": -94.2785119,
+    "alt_m": 368.0
+  },
+  "start_finish": {
+    "lat": 46.4218543,
+    "lon": -94.2808133
+  },
+  "surface": "asphalt",
+  "timezone": "America/Chicago",
+  "timezone_label": "(UTC-06:00) Central Time (US & Canada)",
+  "contact": {
+    "city": "Brainerd",
+    "address": "5523 Birchdale Road",
+    "postal_code": "56401",
+    "phone": "+1 866 444 4455",
+    "url": "http://www.brainerdraceway.com/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 46.4219675,
+      "lon": -94.2808366
+    },
+    "p2": {
+      "lat": 46.4218071,
+      "lon": -94.2809644
+    }
+  },
+  "logo_file": "Brainerd International Raceway Brainerd DW_logo.png",
+  "svg_file": "Brainerd International Raceway Brainerd DW.svg",
+  "gps_points": [
+    {
+      "lat": 46.4218873,
+      "lon": -94.2809005,
+      "alt_m": 367.0
+    },
+    {
+      "lat": 46.4200788,
+      "lon": -94.2761233,
+      "alt_m": 369.0
+    }
+  ]
+}

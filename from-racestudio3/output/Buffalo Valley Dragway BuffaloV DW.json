@@ -1,0 +1,52 @@
+{
+  "source_file": "174v6lsc.tkk",
+  "full_name": "Buffalo Valley Dragway BuffaloV DW",
+  "name": "Buffalo Valley Dragway",
+  "venue_id": "174v6lsc",
+  "short_name": "BuffaloV DW",
+  "country": "US",
+  "track_length_m": 216.5,
+  "reference_point": {
+    "lat": 36.1734925,
+    "lon": -85.7544641,
+    "alt_m": 226.0
+  },
+  "start_finish": {
+    "lat": 36.1732346,
+    "lon": -85.7555382
+  },
+  "surface": "asphalt",
+  "timezone": "America/Chicago",
+  "timezone_label": "(UTC-06:00) Central Time (US & Canada)",
+  "contact": {
+    "city": "Buffalo Valley",
+    "address": "680 Rock Springs Road",
+    "postal_code": "38548",
+    "phone": "+1 931 858 2422",
+    "url": "http://www.buffalovalleydragway.com/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 36.1732647,
+      "lon": -85.7556379
+    },
+    "p2": {
+      "lat": 36.1731653,
+      "lon": -85.7556013
+    }
+  },
+  "logo_file": "Buffalo Valley Dragway BuffaloV DW_logo.png",
+  "svg_file": "Buffalo Valley Dragway BuffaloV DW.svg",
+  "gps_points": [
+    {
+      "lat": 36.173215,
+      "lon": -85.7556196,
+      "alt_m": 224.0
+    },
+    {
+      "lat": 36.17377,
+      "lon": -85.7533086,
+      "alt_m": 235.0
+    }
+  ]
+}

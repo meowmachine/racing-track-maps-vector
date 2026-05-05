@@ -1,0 +1,132 @@
+{
+  "source_file": "0rsthsim.tkk",
+  "full_name": "Cumming Fairgrounds CummingFair",
+  "name": "Cumming Fairgrounds",
+  "venue_id": "0rsthsim",
+  "short_name": "CummingFair",
+  "country": "US",
+  "track_length_m": 102.1,
+  "reference_point": {
+    "lat": 34.2035278,
+    "lon": -84.1422835,
+    "alt_m": 352.0
+  },
+  "start_finish": {
+    "lat": 34.2034585,
+    "lon": -84.1423903
+  },
+  "surface": "asphalt",
+  "timezone": "America/New_York",
+  "timezone_label": "(UTC-05:00) Eastern Time (US & Canada)",
+  "contact": {
+    "city": "Cumming",
+    "address": "235 Castleberry Road",
+    "postal_code": "30040",
+    "phone": "+1 770 781 3491",
+    "url": "https://cummingfair.squarespace.com/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 34.2034654,
+      "lon": -84.1423835
+    },
+    "p2": {
+      "lat": 34.2034516,
+      "lon": -84.1423971
+    }
+  },
+  "logo_file": "Cumming Fairgrounds CummingFair_logo.png",
+  "svg_file": "Cumming Fairgrounds CummingFair.svg",
+  "gps_points": [
+    {
+      "lat": 34.2034585,
+      "lon": -84.1423903,
+      "alt_m": 0.0
+    },
+    {
+      "lat": 34.2034279,
+      "lon": -84.1423392,
+      "alt_m": 352.0
+    },
+    {
+      "lat": 34.2034051,
+      "lon": -84.1422846,
+      "alt_m": 352.0
+    },
+    {
+      "lat": 34.2033928,
+      "lon": -84.1422186,
+      "alt_m": 350.0
+    },
+    {
+      "lat": 34.2034067,
+      "lon": -84.1421617,
+      "alt_m": 350.0
+    },
+    {
+      "lat": 34.2034436,
+      "lon": -84.1421036,
+      "alt_m": 350.0
+    },
+    {
+      "lat": 34.2035046,
+      "lon": -84.1420903,
+      "alt_m": 350.0
+    },
+    {
+      "lat": 34.2035553,
+      "lon": -84.1421152,
+      "alt_m": 350.0
+    },
+    {
+      "lat": 34.2035969,
+      "lon": -84.1421495,
+      "alt_m": 350.0
+    },
+    {
+      "lat": 34.2036347,
+      "lon": -84.1421997,
+      "alt_m": 352.0
+    },
+    {
+      "lat": 34.2036562,
+      "lon": -84.1422517,
+      "alt_m": 353.0
+    },
+    {
+      "lat": 34.2036628,
+      "lon": -84.1423092,
+      "alt_m": 353.0
+    },
+    {
+      "lat": 34.203661,
+      "lon": -84.1423724,
+      "alt_m": 353.0
+    },
+    {
+      "lat": 34.2036478,
+      "lon": -84.1424329,
+      "alt_m": 353.0
+    },
+    {
+      "lat": 34.203596,
+      "lon": -84.1424766,
+      "alt_m": 352.0
+    },
+    {
+      "lat": 34.2035388,
+      "lon": -84.142471,
+      "alt_m": 352.0
+    },
+    {
+      "lat": 34.2034951,
+      "lon": -84.1424386,
+      "alt_m": 352.0
+    },
+    {
+      "lat": 34.2034585,
+      "lon": -84.1423903,
+      "alt_m": 0.0
+    }
+  ]
+}

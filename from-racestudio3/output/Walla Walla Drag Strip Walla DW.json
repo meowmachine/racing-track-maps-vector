@@ -1,0 +1,52 @@
+{
+  "source_file": "173qaf84.tkk",
+  "full_name": "Walla Walla Drag Strip Walla DW",
+  "name": "Walla Walla Drag Strip",
+  "venue_id": "173qaf84",
+  "short_name": "Walla DW",
+  "country": "US",
+  "track_length_m": 217.4,
+  "reference_point": {
+    "lat": 46.0926463,
+    "lon": -118.2975989,
+    "alt_m": 343.0
+  },
+  "start_finish": {
+    "lat": 46.0917379,
+    "lon": -118.2975908
+  },
+  "surface": "asphalt",
+  "timezone": "America/Los_Angeles",
+  "timezone_label": "(UTC-08:00) Pacific Time (US & Canada)",
+  "contact": {
+    "city": "Walla Walla",
+    "address": "1212 Middle Waitsburg Road",
+    "postal_code": "99362",
+    "phone": "+1 509 301 9243",
+    "url": "https://wwdragstrip.com/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 46.0916688,
+      "lon": -118.2976685
+    },
+    "p2": {
+      "lat": 46.0916694,
+      "lon": -118.2975119
+    }
+  },
+  "logo_file": null,
+  "svg_file": "Walla Walla Drag Strip Walla DW.svg",
+  "gps_points": [
+    {
+      "lat": 46.0916691,
+      "lon": -118.2975902,
+      "alt_m": 343.0
+    },
+    {
+      "lat": 46.0936235,
+      "lon": -118.2976075,
+      "alt_m": 341.0
+    }
+  ]
+}

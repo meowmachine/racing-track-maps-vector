@@ -1,0 +1,51 @@
+{
+  "source_file": "173p4ajk.tkk",
+  "full_name": "Alaska Raceway Park Alaska DW",
+  "name": "Alaska Raceway Park",
+  "venue_id": "173p4ajk",
+  "short_name": "Alaska DW",
+  "country": "US",
+  "track_length_m": 419.4,
+  "reference_point": {
+    "lat": 61.5234999,
+    "lon": -149.0260327,
+    "alt_m": 0.0
+  },
+  "start_finish": {
+    "lat": 61.5253164,
+    "lon": -149.0260358
+  },
+  "surface": "asphalt",
+  "timezone": "America/Anchorage",
+  "timezone_label": "(UTC-09:00) Alaska",
+  "contact": {
+    "city": "Palmer",
+    "address": "5599 South Race Way",
+    "postal_code": "99645",
+    "url": "http://www.raceak.com/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 61.5253853,
+      "lon": -149.0258162
+    },
+    "p2": {
+      "lat": 61.5253851,
+      "lon": -149.0262556
+    }
+  },
+  "logo_file": "Alaska Raceway Park Alaska DW_logo.png",
+  "svg_file": "Alaska Raceway Park Alaska DW.svg",
+  "gps_points": [
+    {
+      "lat": 61.5253852,
+      "lon": -149.0260359,
+      "alt_m": -32768.0
+    },
+    {
+      "lat": 61.5216145,
+      "lon": -149.0260294,
+      "alt_m": -32768.0
+    }
+  ]
+}

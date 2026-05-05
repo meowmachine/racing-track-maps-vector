@@ -1,0 +1,52 @@
+{
+  "source_file": "1749u8wj.tkk",
+  "full_name": "Prescott Raceway Prescott DW",
+  "name": "Prescott Raceway",
+  "venue_id": "1749u8wj",
+  "short_name": "Prescott DW",
+  "country": "US",
+  "track_length_m": 217.1,
+  "reference_point": {
+    "lat": 33.7877492,
+    "lon": -93.1626205,
+    "alt_m": 53.0
+  },
+  "start_finish": {
+    "lat": 33.7881044,
+    "lon": -93.1616158
+  },
+  "surface": "asphalt",
+  "timezone": "America/Chicago",
+  "timezone_label": "(UTC-06:00) Central Time (US & Canada)",
+  "contact": {
+    "city": "Prescott",
+    "address": "5121 AR-53",
+    "postal_code": "71857",
+    "phone": "+1 870 887 3984",
+    "url": "http://www.prescottraceway.net/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 33.7880854,
+      "lon": -93.1615162
+    },
+    "p2": {
+      "lat": 33.7881772,
+      "lon": -93.1615632
+    }
+  },
+  "logo_file": "Prescott Raceway Prescott DW_logo.png",
+  "svg_file": "Prescott Raceway Prescott DW.svg",
+  "gps_points": [
+    {
+      "lat": 33.7881313,
+      "lon": -93.1615397,
+      "alt_m": 56.0
+    },
+    {
+      "lat": 33.787367,
+      "lon": -93.1637012,
+      "alt_m": 58.0
+    }
+  ]
+}

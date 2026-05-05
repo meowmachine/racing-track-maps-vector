@@ -1,0 +1,52 @@
+{
+  "source_file": "1749moge.tkk",
+  "full_name": "HockenheimRing HockenheimDW",
+  "name": "HockenheimRing",
+  "venue_id": "1749moge",
+  "short_name": "HockenheimDW",
+  "country": "DE",
+  "track_length_m": 417.8,
+  "reference_point": {
+    "lat": 49.3265172,
+    "lon": 8.5707443,
+    "alt_m": 107.0
+  },
+  "start_finish": {
+    "lat": 49.3255202,
+    "lon": 8.568427
+  },
+  "surface": "asphalt",
+  "timezone": "Europe/Berlin",
+  "timezone_label": "(UTC+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna",
+  "contact": {
+    "city": "Hockenheim",
+    "address": "Am Motodrom",
+    "postal_code": "68766",
+    "phone": "+49 0 6205 95 00",
+    "url": "https://www.hockenheimring.de/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 49.3255551,
+      "lon": 8.5682656
+    },
+    "p2": {
+      "lat": 49.3254097,
+      "lon": 8.5684128
+    }
+  },
+  "logo_file": "HockenheimRing HockenheimDW_logo.png",
+  "svg_file": "HockenheimRing HockenheimDW.svg",
+  "gps_points": [
+    {
+      "lat": 49.3254824,
+      "lon": 8.5683392,
+      "alt_m": 107.0
+    },
+    {
+      "lat": 49.327552,
+      "lon": 8.5731493,
+      "alt_m": 102.0
+    }
+  ]
+}

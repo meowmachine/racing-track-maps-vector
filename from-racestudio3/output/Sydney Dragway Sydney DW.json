@@ -1,0 +1,52 @@
+{
+  "source_file": "175dqriu.tkk",
+  "full_name": "Sydney Dragway Sydney DW",
+  "name": "Sydney Dragway",
+  "venue_id": "175dqriu",
+  "short_name": "Sydney DW",
+  "country": "AU",
+  "track_length_m": 419.4,
+  "reference_point": {
+    "lat": -33.8139432,
+    "lon": 150.8714386,
+    "alt_m": 69.0
+  },
+  "start_finish": {
+    "lat": -33.8121466,
+    "lon": 150.8717592
+  },
+  "surface": "asphalt",
+  "timezone": "Australia/Sydney",
+  "timezone_label": "(UTC+10:00) Canberra, Melbourne, Sydney",
+  "contact": {
+    "city": "Eastern Creek",
+    "address": "Ferrers Road",
+    "postal_code": "2766",
+    "phone": "+61 02 9421 0700",
+    "url": "http://www.sydneydragway.com.au/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": -33.8120937,
+      "lon": 150.8718947
+    },
+    "p2": {
+      "lat": -33.8120633,
+      "lon": 150.8716481
+    }
+  },
+  "logo_file": "Sydney Dragway Sydney DW_logo.png",
+  "svg_file": "Sydney Dragway Sydney DW.svg",
+  "gps_points": [
+    {
+      "lat": -33.8120785,
+      "lon": 150.8717714,
+      "alt_m": 77.0
+    },
+    {
+      "lat": -33.815808,
+      "lon": 150.8711058,
+      "alt_m": 69.0
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "source_file": "174c0qdo.tkk",
+  "full_name": "State Capitol Raceway StateCap DW",
+  "name": "State Capitol Raceway",
+  "venue_id": "174c0qdo",
+  "short_name": "StateCap DW",
+  "country": "US",
+  "track_length_m": 419.2,
+  "reference_point": {
+    "lat": 30.5299627,
+    "lon": -91.3871887,
+    "alt_m": 5.0
+  },
+  "start_finish": {
+    "lat": 30.528147,
+    "lon": -91.3871636
+  },
+  "surface": "asphalt",
+  "timezone": "America/Chicago",
+  "timezone_label": "(UTC-06:00) Central Time (US & Canada)",
+  "contact": {
+    "city": "Port Allen",
+    "address": "11436 Highway 190 West",
+    "postal_code": "70767",
+    "phone": "+1 225 627 4574",
+    "url": "https://www.statecapitolraceway.com/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 30.528077,
+      "lon": -91.3872842
+    },
+    "p2": {
+      "lat": 30.5280794,
+      "lon": -91.3870412
+    }
+  },
+  "logo_file": "State Capitol Raceway StateCap DW_logo.png",
+  "svg_file": "State Capitol Raceway StateCap DW.svg",
+  "gps_points": [
+    {
+      "lat": 30.5280782,
+      "lon": -91.3871627,
+      "alt_m": 5.0
+    },
+    {
+      "lat": 30.5318472,
+      "lon": -91.3872147,
+      "alt_m": 9.0
+    }
+  ]
+}

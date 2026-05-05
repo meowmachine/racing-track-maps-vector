@@ -1,0 +1,52 @@
+{
+  "source_file": "1722mh02.tkk",
+  "full_name": "Coles County Dragway USA ColesCountyD",
+  "name": "Coles County Dragway USA",
+  "venue_id": "1722mh02",
+  "short_name": "ColesCountyD",
+  "country": "US",
+  "track_length_m": 217.4,
+  "reference_point": {
+    "lat": 39.5022785,
+    "lon": -88.2405164,
+    "alt_m": 200.0
+  },
+  "start_finish": {
+    "lat": 39.5031869,
+    "lon": -88.2405302
+  },
+  "surface": "asphalt",
+  "timezone": "America/Chicago",
+  "timezone_label": "(UTC-06:00) Central Time (US & Canada)",
+  "contact": {
+    "city": "Charleston",
+    "address": "4700 West State Street",
+    "postal_code": "61920",
+    "phone": "+1 217 345 7777",
+    "url": "http://colescountydragwayusa.com/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 39.5032563,
+      "lon": -88.2404608
+    },
+    "p2": {
+      "lat": 39.5032551,
+      "lon": -88.2406016
+    }
+  },
+  "logo_file": "Coles County Dragway USA ColesCountyD_logo.png",
+  "svg_file": "Coles County Dragway USA ColesCountyD.svg",
+  "gps_points": [
+    {
+      "lat": 39.5032557,
+      "lon": -88.2405312,
+      "alt_m": 200.0
+    },
+    {
+      "lat": 39.5013013,
+      "lon": -88.2405016,
+      "alt_m": 202.0
+    }
+  ]
+}

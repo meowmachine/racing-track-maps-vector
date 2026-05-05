@@ -1,0 +1,52 @@
+{
+  "source_file": "174uzwo1.tkk",
+  "full_name": "Thunder Valley Dragways SD ThunderDW",
+  "name": "Thunder Valley Dragways",
+  "venue_id": "174uzwo1",
+  "short_name": "SD ThunderDW",
+  "country": "US",
+  "track_length_m": 417.7,
+  "reference_point": {
+    "lat": 43.4145855,
+    "lon": -97.2094578,
+    "alt_m": 411.0
+  },
+  "start_finish": {
+    "lat": 43.4145155,
+    "lon": -97.206969
+  },
+  "surface": "asphalt",
+  "timezone": "America/Chicago",
+  "timezone_label": "(UTC-06:00) Central Time (US & Canada)",
+  "contact": {
+    "city": "Parker",
+    "address": "27417 Thunder Valley Ave Parker",
+    "postal_code": "57053",
+    "phone": "+1 605 648 3605",
+    "url": "http://www.thundervalleydragways.com/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 43.4144086,
+      "lon": -97.2068803
+    },
+    "p2": {
+      "lat": 43.414617,
+      "lon": -97.2068691
+    }
+  },
+  "logo_file": null,
+  "svg_file": "Thunder Valley Dragways SD ThunderDW.svg",
+  "gps_points": [
+    {
+      "lat": 43.4145128,
+      "lon": -97.2068747,
+      "alt_m": 413.0
+    },
+    {
+      "lat": 43.4146582,
+      "lon": -97.2120408,
+      "alt_m": 417.0
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "source_file": "173pxta9.tkk",
+  "full_name": "Pacific Raceways Pacific DW",
+  "name": "Pacific Raceways",
+  "venue_id": "173pxta9",
+  "short_name": "Pacific DW",
+  "country": "US",
+  "track_length_m": 418.1,
+  "reference_point": {
+    "lat": 47.3204802,
+    "lon": -122.1410961,
+    "alt_m": 90.0
+  },
+  "start_finish": {
+    "lat": 47.3202939,
+    "lon": -122.1384391
+  },
+  "surface": "asphalt",
+  "timezone": "America/Los_Angeles",
+  "timezone_label": "(UTC-08:00) Pacific Time (US & Canada)",
+  "contact": {
+    "city": "Kent",
+    "address": "31001 144th Ave SE",
+    "postal_code": "98042",
+    "phone": "+1 253 639 5927",
+    "url": "https://pacificraceways.com/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 47.3201835,
+      "lon": -122.1383543
+    },
+    "p2": {
+      "lat": 47.3203901,
+      "lon": -122.1383227
+    }
+  },
+  "logo_file": "Pacific Raceways Pacific DW_logo.png",
+  "svg_file": "Pacific Raceways Pacific DW.svg",
+  "gps_points": [
+    {
+      "lat": 47.3202868,
+      "lon": -122.1383385,
+      "alt_m": 91.0
+    },
+    {
+      "lat": 47.3206736,
+      "lon": -122.1438536,
+      "alt_m": 90.0
+    }
+  ]
+}

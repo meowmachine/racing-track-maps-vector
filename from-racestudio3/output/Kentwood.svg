@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="800.0" height="478.7"
+     viewBox="0 0 800.0 478.7">
+  <rect width="100%" height="100%" fill="#1a1a2e"/>
+  <!-- Track outline -->
+  <polyline points="320.43,42.21 290.58,43.57 208.17,45.77 129.69,49.51 55.29,82.96 40.00,160.23 77.13,235.62 131.15,299.13 205.99,348.04 287.81,382.85 364.11,408.32 444.34,429.04 540.87,438.72 628.38,427.85 697.83,391.51 745.29,325.28 760.00,245.30 740.78,185.02 684.58,119.13 610.76,70.06 530.82,47.81 452.93,40.68 369.93,40.00 320.43,42.21"
+        fill="none"
+        stroke="#e94560"
+        stroke-width="8.0"
+        stroke-linejoin="round"
+        stroke-linecap="round"/>
+  <!-- Start/finish line -->
+  <line x1="321.33" y1="62.19" x2="319.53" y2="22.23"
+        stroke="#f5f5f5" stroke-width="9.6"
+        stroke-linecap="round"/>
+</svg>

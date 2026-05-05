@@ -1,0 +1,52 @@
+{
+  "source_file": "173p6uyx.tkk",
+  "full_name": "Castrol Raceway Castrol DW",
+  "name": "Castrol Raceway",
+  "venue_id": "173p6uyx",
+  "short_name": "Castrol DW",
+  "country": "CA",
+  "track_length_m": 418.6,
+  "reference_point": {
+    "lat": 53.332727,
+    "lon": -113.5936414,
+    "alt_m": 699.0
+  },
+  "start_finish": {
+    "lat": 53.3319502,
+    "lon": -113.5908984
+  },
+  "surface": "asphalt",
+  "timezone": "America/Edmonton",
+  "timezone_label": "(UTC-07:00) Mountain Time (US & Canada)",
+  "contact": {
+    "city": "Leduc County",
+    "address": "50342 Range Road 253, Edmonton International Airport",
+    "postal_code": "T9E 0V6",
+    "phone": "+1 780 461 5801",
+    "url": "https://www.castrolraceway.com/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 53.3318355,
+      "lon": -113.5908623
+    },
+    "p2": {
+      "lat": 53.3320061,
+      "lon": -113.5907267
+    }
+  },
+  "logo_file": "Castrol Raceway Castrol DW_logo.png",
+  "svg_file": "Castrol Raceway Castrol DW.svg",
+  "gps_points": [
+    {
+      "lat": 53.3319208,
+      "lon": -113.5907945,
+      "alt_m": 700.0
+    },
+    {
+      "lat": 53.3335332,
+      "lon": -113.5964883,
+      "alt_m": 701.0
+    }
+  ]
+}

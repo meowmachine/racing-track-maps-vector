@@ -1,0 +1,52 @@
+{
+  "source_file": "1723499b.tkk",
+  "full_name": "Pacemakers Dragway Park PacemakersDW",
+  "name": "Pacemakers Dragway Park",
+  "venue_id": "1723499b",
+  "short_name": "PacemakersDW",
+  "country": "US",
+  "track_length_m": 217.5,
+  "reference_point": {
+    "lat": 40.3630666,
+    "lon": -82.5154158,
+    "alt_m": 318.0
+  },
+  "start_finish": {
+    "lat": 40.3638145,
+    "lon": -82.5147382
+  },
+  "surface": "asphalt",
+  "timezone": "America/New_York",
+  "timezone_label": "(UTC-05:00) Eastern Time (US & Canada)",
+  "contact": {
+    "city": "Mount Vernon",
+    "address": "8926 Columbus Road",
+    "postal_code": "43050",
+    "phone": "+1 740 358 0001",
+    "url": "https://www.pacemakersdragwaypark.com/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 40.3638457,
+      "lon": -82.5146386
+    },
+    "p2": {
+      "lat": 40.3638965,
+      "lon": -82.5147352
+    }
+  },
+  "logo_file": "Pacemakers Dragway Park PacemakersDW_logo.png",
+  "svg_file": "Pacemakers Dragway Park PacemakersDW.svg",
+  "gps_points": [
+    {
+      "lat": 40.3638711,
+      "lon": -82.5146869,
+      "alt_m": 316.0
+    },
+    {
+      "lat": 40.3622621,
+      "lon": -82.5161446,
+      "alt_m": 326.0
+    }
+  ]
+}

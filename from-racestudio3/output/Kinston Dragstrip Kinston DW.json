@@ -1,0 +1,52 @@
+{
+  "source_file": "174cue2w.tkk",
+  "full_name": "Kinston Dragstrip Kinston DW",
+  "name": "Kinston Dragstrip",
+  "venue_id": "174cue2w",
+  "short_name": "Kinston DW",
+  "country": "US",
+  "track_length_m": 216.9,
+  "reference_point": {
+    "lat": 35.2344181,
+    "lon": -77.6319939,
+    "alt_m": 12.0
+  },
+  "start_finish": {
+    "lat": 35.2350186,
+    "lon": -77.631163
+  },
+  "surface": "asphalt",
+  "timezone": "America/New_York",
+  "timezone_label": "(UTC-05:00) Eastern Time (US & Canada)",
+  "contact": {
+    "city": "Kinston",
+    "address": "Highway 11-55 South",
+    "postal_code": "28504",
+    "phone": "+1 252 527 4337",
+    "url": "http://www.kdsmotorsports.com/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 35.2350337,
+      "lon": -77.6310671
+    },
+    "p2": {
+      "lat": 35.2350945,
+      "lon": -77.6311329
+    }
+  },
+  "logo_file": "Kinston Dragstrip Kinston DW_logo.png",
+  "svg_file": "Kinston Dragstrip Kinston DW.svg",
+  "gps_points": [
+    {
+      "lat": 35.2350641,
+      "lon": -77.6311,
+      "alt_m": 11.0
+    },
+    {
+      "lat": 35.233772,
+      "lon": -77.6328877,
+      "alt_m": 11.0
+    }
+  ]
+}

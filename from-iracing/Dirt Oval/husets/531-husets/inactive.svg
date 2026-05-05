@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Inactive_Configs" data-name="Inactive Configs" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 1080">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #a7a9ac;
+        stroke-miterlimit: 10;
+        stroke-width: 60px;
+      }
+    </style>
+  </defs>
+  <rect class="cls-1" x="712.34" y="439" width="448" height="270" rx="135" ry="135" transform="translate(-19.91 33.82) rotate(-2.05)"/>
+</svg>

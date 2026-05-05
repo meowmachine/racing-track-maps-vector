@@ -1,0 +1,52 @@
+{
+  "source_file": "1721diyt.tkk",
+  "full_name": "Silver Dollar Motorsports Park SilverDollar",
+  "name": "Silver Dollar Motorsports Park",
+  "venue_id": "1721diyt",
+  "short_name": "SilverDollar",
+  "country": "US",
+  "track_length_m": 418.8,
+  "reference_point": {
+    "lat": 32.5574983,
+    "lon": -84.1214145,
+    "alt_m": 137.0
+  },
+  "start_finish": {
+    "lat": 32.5575234,
+    "lon": -84.1235663
+  },
+  "surface": "asphalt",
+  "timezone": "America/New_York",
+  "timezone_label": "(UTC-05:00) Eastern Time (US & Canada)",
+  "contact": {
+    "city": "Reynolds",
+    "address": "42 Raceway Drive",
+    "postal_code": "31076",
+    "phone": "+1 478 847 4414",
+    "url": "http://silverdollarraceway.com/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 32.557629,
+      "lon": -84.1236461
+    },
+    "p2": {
+      "lat": 32.5574198,
+      "lon": -84.1236495
+    }
+  },
+  "logo_file": "Silver Dollar Motorsports Park SilverDollar_logo.png",
+  "svg_file": "Silver Dollar Motorsports Park SilverDollar.svg",
+  "gps_points": [
+    {
+      "lat": 32.5575244,
+      "lon": -84.1236478,
+      "alt_m": 137.0
+    },
+    {
+      "lat": 32.5574722,
+      "lon": -84.1191811,
+      "alt_m": 141.0
+    }
+  ]
+}

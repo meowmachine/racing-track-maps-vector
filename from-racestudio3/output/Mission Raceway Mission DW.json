@@ -1,0 +1,52 @@
+{
+  "source_file": "173pbnp3.tkk",
+  "full_name": "Mission Raceway Mission DW",
+  "name": "Mission Raceway",
+  "venue_id": "173pbnp3",
+  "short_name": "Mission DW",
+  "country": "CA",
+  "track_length_m": 417.6,
+  "reference_point": {
+    "lat": 49.1248169,
+    "lon": -122.3196878,
+    "alt_m": 7.0
+  },
+  "start_finish": {
+    "lat": 49.1240281,
+    "lon": -122.3172006
+  },
+  "surface": "asphalt",
+  "timezone": "America/Vancouver",
+  "timezone_label": "(UTC-08:00) Pacific Time (US & Canada)",
+  "contact": {
+    "city": "Mission",
+    "address": "32670 Dyke Road",
+    "postal_code": "V2V 4J5",
+    "phone": "+1 604 826 6315",
+    "url": "https://missionraceway.com/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 49.1239137,
+      "lon": -122.3171689
+    },
+    "p2": {
+      "lat": 49.1240827,
+      "lon": -122.3170439
+    }
+  },
+  "logo_file": "Mission Raceway Mission DW_logo.png",
+  "svg_file": "Mission Raceway Mission DW.svg",
+  "gps_points": [
+    {
+      "lat": 49.1239982,
+      "lon": -122.3171064,
+      "alt_m": 9.0
+    },
+    {
+      "lat": 49.1256355,
+      "lon": -122.3222691,
+      "alt_m": 9.0
+    }
+  ]
+}

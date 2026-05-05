@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Background_Details" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" viewBox="0 0 1920 1080" style="enable-background:new 0 0 1920 1080;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#636466;}
+	.st1{fill:#C7C8CA;}
+</style>
+<g id="Pavement">
+	<path class="st0" d="M730.3,6.3l556.5,28.4l80.4,16l64.9,24.9l65.8,36.4l121.3,92.4l87.1,121.8l49.3,148l4.4,151.1l-48.9,175.1
+		l-54.2,85.8l-36.9-24.4l-32,50.2l-117.3,83.6l-70.7,36l-69.8,22.2l-76,10.2l-555.5-1.8V1033l-56,0.4L447.2,899.7l-49.3-48.5
+		l-46.7-60.9L317.4,725l-23.5-72l-10.7-71.6l0.5-74.2l14.7-75.6l25.3-68.9l33.3-59.6l48-60.9l54.1-54.5L626.8,68.1l100.4,1.8
+		L730.3,6.3z"/>
+</g>
+<g id="Buildings">
+	<polygon class="st1" points="785.6,1076.7 803.1,1076.7 803.1,1049.7 785.6,1049.7 	"/>
+	<rect x="1114.8" y="1050.6" class="st1" width="18.7" height="27.6"/>
+	<polygon class="st1" points="798.6,18.6 837.2,20.4 837.7,0.3 798.9,0.6 	"/>
+	<rect x="1218.8" y="501" class="st1" width="14.8" height="65.2"/>
+	<polygon class="st1" points="1096.7,25.4 1111.8,26 1112.1,34.3 1150.9,36.4 1151.8,27.5 1167.2,28.1 1168.1,4.7 1097.6,1.4 	"/>
+	<polygon class="st1" points="509.7,166.2 494,144.8 478,155.5 494.3,177.2 	"/>
+	<polygon class="st1" points="487.2,944 501.7,953.8 517.7,932.2 501.4,921.4 	"/>
+	<rect x="596.6" y="603.2" class="st1" width="30.8" height="37"/>
+	<polygon class="st1" points="607.4,515.1 696.1,516.1 698.1,448.3 609.4,446.3 	"/>
+	<polygon class="st1" points="1478.3,977.4 1494.3,997 1509,986.3 1493.4,965.4 	"/>
+	<polygon class="st1" points="1508.6,96.3 1443.4,58 1428,83.2 1462.6,104 1466.2,97.2 1498.5,115.6 	"/>
+	<polygon class="st1" points="1732.9,363.5 1720.7,367.3 1726.4,384.5 1738.8,380.1 	"/>
+	<polygon class="st1" points="1737.7,711.3 1732.3,729.1 1744.5,733.3 1749.4,714.9 	"/>
+	<rect x="1176.1" y="628.1" class="st1" width="22.5" height="30.2"/>
+	<rect x="1218.2" y="569.7" class="st1" width="26.1" height="34.1"/>
+	<rect x="1261.2" y="561.7" class="st1" width="10.1" height="39.1"/>
+	<polygon class="st1" points="1296.7,581.3 1327.2,581.3 1327.3,552.3 1296.7,552.3 	"/>
+	<rect x="1330.6" y="574.5" class="st1" width="21.9" height="6.5"/>
+</g>
+</svg>

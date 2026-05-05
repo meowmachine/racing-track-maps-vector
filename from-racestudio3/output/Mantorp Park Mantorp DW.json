@@ -1,0 +1,52 @@
+{
+  "source_file": "179angv0.tkk",
+  "full_name": "Mantorp Park Mantorp DW",
+  "name": "Mantorp Park",
+  "venue_id": "179angv0",
+  "short_name": "Mantorp DW",
+  "country": "SE",
+  "track_length_m": 417.6,
+  "reference_point": {
+    "lat": 58.3690886,
+    "lon": 15.2863377,
+    "alt_m": 88.0
+  },
+  "start_finish": {
+    "lat": 58.3698734,
+    "lon": 15.2894451
+  },
+  "surface": "asphalt",
+  "timezone": "Europe/Stockholm",
+  "timezone_label": "(UTC+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna",
+  "contact": {
+    "city": "Mantorp",
+    "address": "Parisvägen 8",
+    "postal_code": "59017",
+    "phone": "+46 142 29 88 50",
+    "url": "http://www.mantorppark.com/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 58.3698184,
+      "lon": 15.2896405
+    },
+    "p2": {
+      "lat": 58.3699878,
+      "lon": 15.2894851
+    }
+  },
+  "logo_file": "Mantorp Park Mantorp DW_logo.png",
+  "svg_file": "Mantorp Park Mantorp DW.svg",
+  "gps_points": [
+    {
+      "lat": 58.3699031,
+      "lon": 15.2895628,
+      "alt_m": 90.0
+    },
+    {
+      "lat": 58.368274,
+      "lon": 15.2831126,
+      "alt_m": 94.0
+    }
+  ]
+}

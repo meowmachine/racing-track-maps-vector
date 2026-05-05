@@ -1,0 +1,52 @@
+{
+  "source_file": "1721t5ey.tkk",
+  "full_name": "Piedmont Dragway Piedmont DW",
+  "name": "Piedmont Dragway",
+  "venue_id": "1721t5ey",
+  "short_name": "Piedmont DW",
+  "country": "US",
+  "track_length_m": 217.9,
+  "reference_point": {
+    "lat": 35.9953723,
+    "lon": -79.5920158,
+    "alt_m": 215.0
+  },
+  "start_finish": {
+    "lat": 35.9958922,
+    "lon": -79.5929399
+  },
+  "surface": "asphalt",
+  "timezone": "America/New_York",
+  "timezone_label": "(UTC-05:00) Eastern Time (US & Canada)",
+  "contact": {
+    "city": "Julian",
+    "address": "6750 Holts Store Road",
+    "postal_code": "27283",
+    "phone": "+1 336 449 7411",
+    "url": "http://www.piedmontdragway.com/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 35.9959683,
+      "lon": -79.5929784
+    },
+    "p2": {
+      "lat": 35.9958949,
+      "lon": -79.5930414
+    }
+  },
+  "logo_file": "Piedmont Dragway Piedmont DW_logo.png",
+  "svg_file": "Piedmont Dragway Piedmont DW.svg",
+  "gps_points": [
+    {
+      "lat": 35.9959316,
+      "lon": -79.5930099,
+      "alt_m": 216.0
+    },
+    {
+      "lat": 35.9948129,
+      "lon": -79.5910216,
+      "alt_m": 214.0
+    }
+  ]
+}

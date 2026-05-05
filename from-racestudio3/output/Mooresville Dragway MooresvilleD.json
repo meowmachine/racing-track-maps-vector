@@ -1,0 +1,52 @@
+{
+  "source_file": "1721scg0.tkk",
+  "full_name": "Mooresville Dragway MooresvilleD",
+  "name": "Mooresville Dragway",
+  "venue_id": "1721scg0",
+  "short_name": "MooresvilleD",
+  "country": "US",
+  "track_length_m": 217.9,
+  "reference_point": {
+    "lat": 35.5635396,
+    "lon": -80.7337715,
+    "alt_m": 238.0
+  },
+  "start_finish": {
+    "lat": 35.5644287,
+    "lon": -80.7340116
+  },
+  "surface": "asphalt",
+  "timezone": "America/New_York",
+  "timezone_label": "(UTC-05:00) Eastern Time (US & Canada)",
+  "contact": {
+    "city": "Mooresville",
+    "address": "1255 Wilkinson Road",
+    "postal_code": "28115",
+    "phone": "+1 704 662 9527",
+    "url": "https://mooresvilledragstrip.com/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 35.5645075,
+      "lon": -80.733966
+    },
+    "p2": {
+      "lat": 35.5644847,
+      "lon": -80.7340936
+    }
+  },
+  "logo_file": "Mooresville Dragway MooresvilleD_logo.png",
+  "svg_file": "Mooresville Dragway MooresvilleD.svg",
+  "gps_points": [
+    {
+      "lat": 35.5644961,
+      "lon": -80.7340298,
+      "alt_m": 238.0
+    },
+    {
+      "lat": 35.562583,
+      "lon": -80.7335131,
+      "alt_m": 239.0
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "source_file": "171kmq87.tkk",
+  "full_name": "Samoa Dragstrip Samoa DW",
+  "name": "Samoa Dragstrip",
+  "venue_id": "171kmq87",
+  "short_name": "Samoa DW",
+  "country": "US",
+  "track_length_m": 418.9,
+  "reference_point": {
+    "lat": 40.7827374,
+    "lon": -124.2107225,
+    "alt_m": 1.0
+  },
+  "start_finish": {
+    "lat": 40.7809231,
+    "lon": -124.2107414
+  },
+  "surface": "asphalt",
+  "timezone": "America/Los_Angeles",
+  "timezone_label": "(UTC-08:00) Pacific Time (US & Canada)",
+  "contact": {
+    "city": "Eureka",
+    "address": "New Navy Base Road",
+    "postal_code": "95564",
+    "phone": "+1 707 845 5755",
+    "url": "http://www.samoadragstrip.com/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 40.7808552,
+      "lon": -124.2108803
+    },
+    "p2": {
+      "lat": 40.7808536,
+      "lon": -124.2106039
+    }
+  },
+  "logo_file": "Samoa Dragstrip Samoa DW_logo.png",
+  "svg_file": "Samoa Dragstrip Samoa DW.svg",
+  "gps_points": [
+    {
+      "lat": 40.7808544,
+      "lon": -124.2107421,
+      "alt_m": 1.0
+    },
+    {
+      "lat": 40.7846204,
+      "lon": -124.2107029,
+      "alt_m": 4.0
+    }
+  ]
+}

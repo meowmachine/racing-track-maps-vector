@@ -1,0 +1,52 @@
+{
+  "source_file": "174wg1ms.tkk",
+  "full_name": "St. Thomas Dragway St Thomas DW",
+  "name": "St. Thomas Dragway",
+  "venue_id": "174wg1ms",
+  "short_name": "St Thomas DW",
+  "country": "CA",
+  "track_length_m": 217.4,
+  "reference_point": {
+    "lat": 42.7011481,
+    "lon": -81.0999388,
+    "alt_m": 0.0
+  },
+  "start_finish": {
+    "lat": 42.7020561,
+    "lon": -81.0998934
+  },
+  "surface": "asphalt",
+  "timezone": "America/Toronto",
+  "timezone_label": "(UTC-05:00) Eastern Time (US & Canada)",
+  "contact": {
+    "city": "St. Thomas",
+    "address": "45633 RR#4",
+    "postal_code": "N5P 3S8",
+    "phone": "+1 519 775 001",
+    "url": "http://www.stthomasdragway.ca/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 42.7021229,
+      "lon": -81.0998162
+    },
+    "p2": {
+      "lat": 42.7021269,
+      "lon": -81.0999638
+    }
+  },
+  "logo_file": "St. Thomas Dragway St Thomas DW_logo.png",
+  "svg_file": "St. Thomas Dragway St Thomas DW.svg",
+  "gps_points": [
+    {
+      "lat": 42.7021249,
+      "lon": -81.09989,
+      "alt_m": -32768.0
+    },
+    {
+      "lat": 42.7001712,
+      "lon": -81.0999875,
+      "alt_m": -32768.0
+    }
+  ]
+}

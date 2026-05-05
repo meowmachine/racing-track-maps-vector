@@ -1,0 +1,52 @@
+{
+  "source_file": "179a1vs5.tkk",
+  "full_name": "NitrOlympX",
+  "name": "NitrOlympX",
+  "venue_id": "179a1vs5",
+  "short_name": "NitrOlympX",
+  "country": "DE",
+  "track_length_m": 417.8,
+  "reference_point": {
+    "lat": 49.3265172,
+    "lon": 8.5707461,
+    "alt_m": 107.0
+  },
+  "start_finish": {
+    "lat": 49.3255208,
+    "lon": 8.5684282
+  },
+  "surface": "asphalt",
+  "timezone": "Europe/Berlin",
+  "timezone_label": "(UTC+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna",
+  "contact": {
+    "city": "Hockenheim",
+    "address": "Hockenheimring",
+    "postal_code": "68766",
+    "phone": "+49 6205 950 170",
+    "url": "https://www.nitrolympx.de/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 49.3255557,
+      "lon": 8.5682668
+    },
+    "p2": {
+      "lat": 49.3254103,
+      "lon": 8.568414
+    }
+  },
+  "logo_file": "NitrOlympX_logo.png",
+  "svg_file": "NitrOlympX.svg",
+  "gps_points": [
+    {
+      "lat": 49.325483,
+      "lon": 8.5683404,
+      "alt_m": 107.0
+    },
+    {
+      "lat": 49.3275515,
+      "lon": 8.5731518,
+      "alt_m": 102.0
+    }
+  ]
+}

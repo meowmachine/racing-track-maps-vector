@@ -1,0 +1,52 @@
+{
+  "source_file": "179vt6ix.tkk",
+  "full_name": "Rivanazzano Dragway",
+  "name": "Rivanazzano Dragway",
+  "venue_id": "179vt6ix",
+  "short_name": "Rivanazzano",
+  "country": "IT",
+  "track_length_m": 418.9,
+  "reference_point": {
+    "lat": 44.9536964,
+    "lon": 9.0157767,
+    "alt_m": 122.0
+  },
+  "start_finish": {
+    "lat": 44.9554007,
+    "lon": 9.0148984
+  },
+  "surface": "asphalt",
+  "timezone": "Europe/Rome",
+  "timezone_label": "(UTC+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna",
+  "contact": {
+    "city": "Rivanazzano Terme (Pavia)",
+    "address": "Vicolo Francesco Baracca 8",
+    "postal_code": "27058",
+    "phone": "+39 347 83 97 132",
+    "url": "https://www.rivanazzanodragway.it/en/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 44.955499,
+      "lon": 9.0149956
+    },
+    "p2": {
+      "lat": 44.9554316,
+      "lon": 9.0147346
+    }
+  },
+  "logo_file": "Rivanazzano Dragway_logo.png",
+  "svg_file": "Rivanazzano Dragway.svg",
+  "gps_points": [
+    {
+      "lat": 44.9554653,
+      "lon": 9.0148651,
+      "alt_m": 122.0
+    },
+    {
+      "lat": 44.9519275,
+      "lon": 9.0166883,
+      "alt_m": 126.0
+    }
+  ]
+}

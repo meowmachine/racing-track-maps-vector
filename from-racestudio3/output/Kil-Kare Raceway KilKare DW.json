@@ -1,0 +1,52 @@
+{
+  "source_file": "17232lug.tkk",
+  "full_name": "Kil-Kare Raceway KilKare DW",
+  "name": "Kil-Kare Raceway",
+  "venue_id": "17232lug",
+  "short_name": "KilKare DW",
+  "country": "US",
+  "track_length_m": 418.4,
+  "reference_point": {
+    "lat": 39.7051096,
+    "lon": -83.9689884,
+    "alt_m": 248.0
+  },
+  "start_finish": {
+    "lat": 39.7039501,
+    "lon": -83.9671783
+  },
+  "surface": "asphalt",
+  "timezone": "America/New_York",
+  "timezone_label": "(UTC-05:00) Eastern Time (US & Canada)",
+  "contact": {
+    "city": "Xenia",
+    "address": "1166 Dayton Xenia Road",
+    "postal_code": "45385",
+    "phone": "+1 937 429 2961",
+    "url": "https://www.kilkare.com/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 39.7038445,
+      "lon": -83.9671765
+    },
+    "p2": {
+      "lat": 39.7039679,
+      "lon": -83.9670429
+    }
+  },
+  "logo_file": "Kil-Kare Raceway KilKare DW_logo.png",
+  "svg_file": "Kil-Kare Raceway KilKare DW.svg",
+  "gps_points": [
+    {
+      "lat": 39.7039062,
+      "lon": -83.9671097,
+      "alt_m": 248.0
+    },
+    {
+      "lat": 39.706313,
+      "lon": -83.9708671,
+      "alt_m": 245.0
+    }
+  ]
+}

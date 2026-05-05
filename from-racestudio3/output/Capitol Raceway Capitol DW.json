@@ -1,0 +1,52 @@
+{
+  "source_file": "174c3d55.tkk",
+  "full_name": "Capitol Raceway Capitol DW",
+  "name": "Capitol Raceway",
+  "venue_id": "174c3d55",
+  "short_name": "Capitol DW",
+  "country": "US",
+  "track_length_m": 418.8,
+  "reference_point": {
+    "lat": 39.0327382,
+    "lon": -76.7017026,
+    "alt_m": 39.0
+  },
+  "start_finish": {
+    "lat": 39.0312451,
+    "lon": -76.700377
+  },
+  "surface": "asphalt",
+  "timezone": "America/New_York",
+  "timezone_label": "(UTC-05:00) Eastern Time (US & Canada)",
+  "contact": {
+    "city": "Gambrills",
+    "address": "1451 Capitol Raceway Road",
+    "postal_code": "21054",
+    "phone": "+1 410 721 6200",
+    "url": "http://capitolraceway.com/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 39.0311396,
+      "lon": -76.7004179
+    },
+    "p2": {
+      "lat": 39.0312374,
+      "lon": -76.7002355
+    }
+  },
+  "logo_file": "Capitol Raceway Capitol DW_logo.png",
+  "svg_file": "Capitol Raceway Capitol DW.svg",
+  "gps_points": [
+    {
+      "lat": 39.0311885,
+      "lon": -76.7003267,
+      "alt_m": 39.0
+    },
+    {
+      "lat": 39.034288,
+      "lon": -76.7030785,
+      "alt_m": 41.0
+    }
+  ]
+}

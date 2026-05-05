@@ -1,0 +1,52 @@
+{
+  "source_file": "1722p426.tkk",
+  "full_name": "Crossroads Dragway",
+  "name": "Crossroads Dragway",
+  "venue_id": "1722p426",
+  "short_name": "Crossroads D",
+  "country": "US",
+  "track_length_m": 217.0,
+  "reference_point": {
+    "lat": 39.4218904,
+    "lon": -87.4199325,
+    "alt_m": 146.0
+  },
+  "start_finish": {
+    "lat": 39.4219408,
+    "lon": -87.4187605
+  },
+  "surface": "asphalt",
+  "timezone": "America/Indiana/Indianapolis",
+  "timezone_label": "(UTC-05:00) Indiana (East)",
+  "contact": {
+    "city": "Terre Haute",
+    "address": "3701 South US Highway 41",
+    "postal_code": "47802",
+    "phone": "+1 812 229 2167",
+    "url": "https://www.crossroadsdragway.com/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 39.4218906,
+      "lon": -87.4186678
+    },
+    "p2": {
+      "lat": 39.4219986,
+      "lon": -87.4186756
+    }
+  },
+  "logo_file": "Crossroads Dragway_logo.png",
+  "svg_file": "Crossroads Dragway.svg",
+  "gps_points": [
+    {
+      "lat": 39.4219446,
+      "lon": -87.4186717,
+      "alt_m": 146.0
+    },
+    {
+      "lat": 39.4218362,
+      "lon": -87.4211932,
+      "alt_m": 148.0
+    }
+  ]
+}

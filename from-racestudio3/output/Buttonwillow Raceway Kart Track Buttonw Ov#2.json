@@ -1,0 +1,197 @@
+{
+  "source_file": "1dfsq06p.tkk",
+  "full_name": "Buttonwillow Raceway Kart Track Buttonw Ov#2",
+  "name": "Buttonwillow Raceway Kart Track",
+  "venue_id": "1dfsq06p",
+  "short_name": "Buttonw Ov#2",
+  "country": "US",
+  "track_length_m": 353.5,
+  "reference_point": {
+    "lat": 35.4920279,
+    "lon": -119.5428877,
+    "alt_m": 78.0
+  },
+  "start_finish": {
+    "lat": 35.4922053,
+    "lon": -119.5432092
+  },
+  "surface": "asphalt",
+  "timezone": "America/Los_Angeles",
+  "timezone_label": "(UTC-08:00) Pacific Time (US & Canada)",
+  "contact": {
+    "city": "Buttonwillow",
+    "address": "24551 Lerdo Hwy",
+    "postal_code": "93206",
+    "phone": "+1 661 764 5333",
+    "url": "http://www.buttonwillowraceway.com"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 35.4921684,
+      "lon": -119.5432054
+    },
+    "p2": {
+      "lat": 35.4922422,
+      "lon": -119.543213
+    }
+  },
+  "logo_file": "Buttonwillow Raceway Kart Track Buttonw Ov#2_logo.png",
+  "svg_file": "Buttonwillow Raceway Kart Track Buttonw Ov#2.svg",
+  "gps_points": [
+    {
+      "lat": 35.4922053,
+      "lon": -119.5432092,
+      "alt_m": 0.0
+    },
+    {
+      "lat": 35.4921763,
+      "lon": -119.5436339,
+      "alt_m": 79.0
+    },
+    {
+      "lat": 35.4921724,
+      "lon": -119.5436602,
+      "alt_m": 79.0
+    },
+    {
+      "lat": 35.4921655,
+      "lon": -119.5436791,
+      "alt_m": 79.0
+    },
+    {
+      "lat": 35.4921497,
+      "lon": -119.5436929,
+      "alt_m": 79.0
+    },
+    {
+      "lat": 35.4921273,
+      "lon": -119.5437033,
+      "alt_m": 79.0
+    },
+    {
+      "lat": 35.4920936,
+      "lon": -119.5437062,
+      "alt_m": 79.0
+    },
+    {
+      "lat": 35.4918598,
+      "lon": -119.5436888,
+      "alt_m": 79.0
+    },
+    {
+      "lat": 35.4918268,
+      "lon": -119.5436853,
+      "alt_m": 79.0
+    },
+    {
+      "lat": 35.4918113,
+      "lon": -119.5436769,
+      "alt_m": 79.0
+    },
+    {
+      "lat": 35.4917994,
+      "lon": -119.5436624,
+      "alt_m": 79.0
+    },
+    {
+      "lat": 35.4917891,
+      "lon": -119.5436466,
+      "alt_m": 79.0
+    },
+    {
+      "lat": 35.4917826,
+      "lon": -119.543623,
+      "alt_m": 79.0
+    },
+    {
+      "lat": 35.4917815,
+      "lon": -119.5435761,
+      "alt_m": 77.0
+    },
+    {
+      "lat": 35.491818,
+      "lon": -119.5429153,
+      "alt_m": 78.0
+    },
+    {
+      "lat": 35.4918237,
+      "lon": -119.5427876,
+      "alt_m": 78.0
+    },
+    {
+      "lat": 35.4918278,
+      "lon": -119.542717,
+      "alt_m": 78.0
+    },
+    {
+      "lat": 35.4918381,
+      "lon": -119.542645,
+      "alt_m": 78.0
+    },
+    {
+      "lat": 35.4918575,
+      "lon": -119.5425775,
+      "alt_m": 78.0
+    },
+    {
+      "lat": 35.4919066,
+      "lon": -119.5424946,
+      "alt_m": 78.0
+    },
+    {
+      "lat": 35.4919774,
+      "lon": -119.5423951,
+      "alt_m": 78.0
+    },
+    {
+      "lat": 35.492167,
+      "lon": -119.5421422,
+      "alt_m": 78.0
+    },
+    {
+      "lat": 35.4921891,
+      "lon": -119.5421147,
+      "alt_m": 78.0
+    },
+    {
+      "lat": 35.4922104,
+      "lon": -119.5420909,
+      "alt_m": 78.0
+    },
+    {
+      "lat": 35.4922341,
+      "lon": -119.5420692,
+      "alt_m": 78.0
+    },
+    {
+      "lat": 35.4922544,
+      "lon": -119.5420705,
+      "alt_m": 78.0
+    },
+    {
+      "lat": 35.4922707,
+      "lon": -119.542082,
+      "alt_m": 78.0
+    },
+    {
+      "lat": 35.4922742,
+      "lon": -119.5421111,
+      "alt_m": 78.0
+    },
+    {
+      "lat": 35.4922631,
+      "lon": -119.5423321,
+      "alt_m": 78.0
+    },
+    {
+      "lat": 35.4922501,
+      "lon": -119.5425501,
+      "alt_m": 78.0
+    },
+    {
+      "lat": 35.4922053,
+      "lon": -119.5432092,
+      "alt_m": 77.0
+    }
+  ]
+}

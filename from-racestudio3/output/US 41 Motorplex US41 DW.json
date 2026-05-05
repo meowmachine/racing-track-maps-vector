@@ -1,0 +1,52 @@
+{
+  "source_file": "174b9n4q.tkk",
+  "full_name": "US 41 Motorplex US41 DW",
+  "name": "US 41 Motorplex",
+  "venue_id": "174b9n4q",
+  "short_name": "US41 DW",
+  "country": "US",
+  "track_length_m": 418.9,
+  "reference_point": {
+    "lat": 40.9891258,
+    "lon": -87.4442092,
+    "alt_m": 207.0
+  },
+  "start_finish": {
+    "lat": 40.9909403,
+    "lon": -87.4442282
+  },
+  "surface": "asphalt",
+  "timezone": "America/Chicago",
+  "timezone_label": "(UTC-06:00) Central Time (US & Canada)",
+  "contact": {
+    "city": "Morocco",
+    "address": "2695 West 50 South",
+    "postal_code": "47963",
+    "phone": "+1 219 869 1320",
+    "url": "http://us41dragstrip.net/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 40.9910098,
+      "lon": -87.4440903
+    },
+    "p2": {
+      "lat": 40.9910082,
+      "lon": -87.4443675
+    }
+  },
+  "logo_file": "US 41 Motorplex US41 DW_logo.png",
+  "svg_file": "US 41 Motorplex US41 DW.svg",
+  "gps_points": [
+    {
+      "lat": 40.991009,
+      "lon": -87.4442289,
+      "alt_m": 207.0
+    },
+    {
+      "lat": 40.9872425,
+      "lon": -87.4441894,
+      "alt_m": 206.0
+    }
+  ]
+}

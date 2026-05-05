@@ -1,0 +1,52 @@
+{
+  "source_file": "174afu4i.tkk",
+  "full_name": "Immokalee Regional Raceway Immokalee DW",
+  "name": "Immokalee Regional Raceway",
+  "venue_id": "174afu4i",
+  "short_name": "Immokalee DW",
+  "country": "US",
+  "track_length_m": 217.9,
+  "reference_point": {
+    "lat": 26.4289851,
+    "lon": -81.4025569,
+    "alt_m": 14.0
+  },
+  "start_finish": {
+    "lat": 26.4282502,
+    "lon": -81.4031574
+  },
+  "surface": "asphalt",
+  "timezone": "America/New_York",
+  "timezone_label": "(UTC-05:00) Eastern Time (US & Canada)",
+  "contact": {
+    "city": "Immokalee",
+    "address": "205 Airpark Boulevard",
+    "postal_code": "34142",
+    "phone": "+1 800 826 1947",
+    "url": "https://www.immraceway.com/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 26.4282204,
+      "lon": -81.4032425
+    },
+    "p2": {
+      "lat": 26.4281686,
+      "lon": -81.4031633
+    }
+  },
+  "logo_file": "Immokalee Regional Raceway Immokalee DW_logo.png",
+  "svg_file": "Immokalee Regional Raceway Immokalee DW.svg",
+  "gps_points": [
+    {
+      "lat": 26.4281945,
+      "lon": -81.4032029,
+      "alt_m": 14.0
+    },
+    {
+      "lat": 26.4297757,
+      "lon": -81.4019108,
+      "alt_m": 13.0
+    }
+  ]
+}

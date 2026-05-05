@@ -1,0 +1,52 @@
+{
+  "source_file": "171jd8hf.tkk",
+  "full_name": "Island Dragway Island DW",
+  "name": "Island Dragway",
+  "venue_id": "171jd8hf",
+  "short_name": "Island DW",
+  "country": "US",
+  "track_length_m": 417.8,
+  "reference_point": {
+    "lat": 40.8793627,
+    "lon": -74.9148571,
+    "alt_m": 158.0
+  },
+  "start_finish": {
+    "lat": 40.8799832,
+    "lon": -74.9171055
+  },
+  "surface": "asphalt",
+  "timezone": "America/New_York",
+  "timezone_label": "(UTC-05:00) Eastern Time (US & Canada)",
+  "contact": {
+    "city": "Great Meadows",
+    "address": "20 Island Road",
+    "postal_code": "07838",
+    "phone": "+1 908 637 6060",
+    "url": "https://www.islanddragway.com/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 40.8800988,
+      "lon": -74.9171462
+    },
+    "p2": {
+      "lat": 40.8799146,
+      "lon": -74.9172352
+    }
+  },
+  "logo_file": "Island Dragway Island DW_logo.png",
+  "svg_file": "Island Dragway Island DW.svg",
+  "gps_points": [
+    {
+      "lat": 40.8800067,
+      "lon": -74.9171907,
+      "alt_m": 158.0
+    },
+    {
+      "lat": 40.8787187,
+      "lon": -74.9125235,
+      "alt_m": 155.0
+    }
+  ]
+}

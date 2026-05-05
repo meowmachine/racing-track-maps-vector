@@ -1,0 +1,52 @@
+{
+  "source_file": "170e2o9g.tkk",
+  "full_name": "Tucson Dragway TucsonDrag",
+  "name": "Tucson Dragway",
+  "venue_id": "170e2o9g",
+  "short_name": "TucsonDrag",
+  "country": "US",
+  "track_length_m": 419.9,
+  "reference_point": {
+    "lat": 32.0374411,
+    "lon": -110.7752489,
+    "alt_m": 937.0
+  },
+  "start_finish": {
+    "lat": 32.0356223,
+    "lon": -110.7752697
+  },
+  "surface": "asphalt",
+  "timezone": "America/Phoenix",
+  "timezone_label": "(UTC-07:00) Arizona",
+  "contact": {
+    "city": "Tucson",
+    "address": "12000 S Houghton Road",
+    "postal_code": "85747",
+    "phone": "+1 520 762 9700",
+    "url": "https://www.tucsondragway.com/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 32.0355544,
+      "lon": -110.7753942
+    },
+    "p2": {
+      "lat": 32.0355524,
+      "lon": -110.7751468
+    }
+  },
+  "logo_file": "Tucson Dragway TucsonDrag_logo.png",
+  "svg_file": "Tucson Dragway TucsonDrag.svg",
+  "gps_points": [
+    {
+      "lat": 32.0355534,
+      "lon": -110.7752705,
+      "alt_m": 939.0
+    },
+    {
+      "lat": 32.0393288,
+      "lon": -110.7752273,
+      "alt_m": 947.0
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "source_file": "173pyfen.tkk",
+  "full_name": "Renegade Raceway Renegade DW",
+  "name": "Renegade Raceway",
+  "venue_id": "173pyfen",
+  "short_name": "Renegade DW",
+  "country": "US",
+  "track_length_m": 419.1,
+  "reference_point": {
+    "lat": 46.4934545,
+    "lon": -120.4462127,
+    "alt_m": 273.0
+  },
+  "start_finish": {
+    "lat": 46.4952578,
+    "lon": -120.4465128
+  },
+  "surface": "asphalt",
+  "timezone": "America/Los_Angeles",
+  "timezone_label": "(UTC-08:00) Pacific Time (US & Canada)",
+  "contact": {
+    "city": "Wapato",
+    "address": "1395 North Track Road",
+    "postal_code": "98951",
+    "phone": "+1 509 877 4621",
+    "url": "http://renegaderaceway.com/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 46.4953379,
+      "lon": -120.4463741
+    },
+    "p2": {
+      "lat": 46.4953143,
+      "lon": -120.4466743
+    }
+  },
+  "logo_file": "Renegade Raceway Renegade DW_logo.png",
+  "svg_file": "Renegade Raceway Renegade DW.svg",
+  "gps_points": [
+    {
+      "lat": 46.4953261,
+      "lon": -120.4465242,
+      "alt_m": 273.0
+    },
+    {
+      "lat": 46.4915829,
+      "lon": -120.4459011,
+      "alt_m": 269.0
+    }
+  ]
+}

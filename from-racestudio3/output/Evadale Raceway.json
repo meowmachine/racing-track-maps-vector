@@ -1,0 +1,51 @@
+{
+  "source_file": "174vfhah.tkk",
+  "full_name": "Evadale Raceway",
+  "name": "Evadale Raceway",
+  "venue_id": "174vfhah",
+  "short_name": "Evadale",
+  "country": "US",
+  "track_length_m": 419.6,
+  "reference_point": {
+    "lat": 30.3246396,
+    "lon": -94.0754353,
+    "alt_m": 11.0
+  },
+  "start_finish": {
+    "lat": 30.3262857,
+    "lon": -94.0763274
+  },
+  "surface": "asphalt",
+  "timezone": "America/Chicago",
+  "timezone_label": "(UTC-06:00) Central Time (US & Canada)",
+  "contact": {
+    "city": "Evadale",
+    "address": "2364 FM 105",
+    "postal_code": "77656",
+    "phone": "+1 409 276 1910"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 30.3263883,
+      "lon": -94.0762616
+    },
+    "p2": {
+      "lat": 30.3263079,
+      "lon": -94.0764608
+    }
+  },
+  "logo_file": "Evadale Raceway_logo.png",
+  "svg_file": "Evadale Raceway.svg",
+  "gps_points": [
+    {
+      "lat": 30.3263481,
+      "lon": -94.0763612,
+      "alt_m": 19.0
+    },
+    {
+      "lat": 30.3229311,
+      "lon": -94.0745093,
+      "alt_m": 17.0
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "source_file": "171j6elu.tkk",
+  "full_name": "Miramichi Dragway Park Miramichi DW",
+  "name": "Miramichi Dragway Park",
+  "venue_id": "171j6elu",
+  "short_name": "Miramichi DW",
+  "country": "CA",
+  "track_length_m": 417.7,
+  "reference_point": {
+    "lat": 47.0045963,
+    "lon": -65.4464301,
+    "alt_m": 30.0
+  },
+  "start_finish": {
+    "lat": 47.0058238,
+    "lon": -65.4483792
+  },
+  "surface": "asphalt",
+  "timezone": "America/Moncton",
+  "timezone_label": "(UTC-04:00) Atlantic Time (Canada)",
+  "contact": {
+    "city": "Miramichi",
+    "address": "940 North Napan Road",
+    "postal_code": "E1N 5E4",
+    "phone": "+1 506 624 7989",
+    "url": "https://www.miramichidragwaypark.com/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 47.0059266,
+      "lon": -65.4483768
+    },
+    "p2": {
+      "lat": 47.005814,
+      "lon": -65.4485292
+    }
+  },
+  "logo_file": "Miramichi Dragway Park Miramichi DW_logo.png",
+  "svg_file": "Miramichi Dragway Park Miramichi DW.svg",
+  "gps_points": [
+    {
+      "lat": 47.0058703,
+      "lon": -65.448453,
+      "alt_m": 27.0
+    },
+    {
+      "lat": 47.0033222,
+      "lon": -65.4444072,
+      "alt_m": 24.0
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "source_file": "174v7cec.tkk",
+  "full_name": "Cherokee Race Park Cherokee DW",
+  "name": "Cherokee Race Park",
+  "venue_id": "174v7cec",
+  "short_name": "Cherokee DW",
+  "country": "US",
+  "track_length_m": 216.4,
+  "reference_point": {
+    "lat": 36.3899526,
+    "lon": -83.0865142,
+    "alt_m": 336.0
+  },
+  "start_finish": {
+    "lat": 36.3897087,
+    "lon": -83.087596
+  },
+  "surface": "asphalt",
+  "timezone": "America/New_York",
+  "timezone_label": "(UTC-05:00) Eastern Time (US & Canada)",
+  "contact": {
+    "city": "Rogersville",
+    "address": "154 Race Track Road",
+    "postal_code": "37857",
+    "phone": "+1 423 272 2555",
+    "url": "https://www.cherokeeracepark.com/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 36.3897403,
+      "lon": -83.0876954
+    },
+    "p2": {
+      "lat": 36.3896401,
+      "lon": -83.0876606
+    }
+  },
+  "logo_file": "Cherokee Race Park Cherokee DW_logo.png",
+  "svg_file": "Cherokee Race Park Cherokee DW.svg",
+  "gps_points": [
+    {
+      "lat": 36.3896902,
+      "lon": -83.087678,
+      "alt_m": 336.0
+    },
+    {
+      "lat": 36.390215,
+      "lon": -83.0853504,
+      "alt_m": 337.0
+    }
+  ]
+}

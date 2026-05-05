@@ -1,0 +1,52 @@
+{
+  "source_file": "174cphjt.tkk",
+  "full_name": "Empire Dragway Empire DW",
+  "name": "Empire Dragway",
+  "venue_id": "174cphjt",
+  "short_name": "Empire DW",
+  "country": "US",
+  "track_length_m": 417.8,
+  "reference_point": {
+    "lat": 42.7975189,
+    "lon": -77.9336185,
+    "alt_m": 280.0
+  },
+  "start_finish": {
+    "lat": 42.7979259,
+    "lon": -77.9360214
+  },
+  "surface": "asphalt",
+  "timezone": "America/New_York",
+  "timezone_label": "(UTC-05:00) Eastern Time (US & Canada)",
+  "contact": {
+    "city": "Leicester",
+    "address": "2011 New Road",
+    "postal_code": "14481",
+    "phone": "+1 585 382 3030",
+    "url": "http://www.empiredragway.com/index.html"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 42.7980404,
+      "lon": -77.9360812
+    },
+    "p2": {
+      "lat": 42.7978422,
+      "lon": -77.9361436
+    }
+  },
+  "logo_file": "Empire Dragway Empire DW_logo.png",
+  "svg_file": "Empire Dragway Empire DW.svg",
+  "gps_points": [
+    {
+      "lat": 42.7979413,
+      "lon": -77.9361124,
+      "alt_m": 280.0
+    },
+    {
+      "lat": 42.7970965,
+      "lon": -77.9311245,
+      "alt_m": 275.0
+    }
+  ]
+}

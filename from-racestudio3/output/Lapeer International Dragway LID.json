@@ -1,0 +1,52 @@
+{
+  "source_file": "174c8b8c.tkk",
+  "full_name": "Lapeer International Dragway LID",
+  "name": "Lapeer International Dragway",
+  "venue_id": "174c8b8c",
+  "short_name": "LID",
+  "country": "US",
+  "track_length_m": 216.9,
+  "reference_point": {
+    "lat": 43.1072892,
+    "lon": -83.281028,
+    "alt_m": 252.0
+  },
+  "start_finish": {
+    "lat": 43.1076136,
+    "lon": -83.2798688
+  },
+  "surface": "asphalt",
+  "timezone": "America/Detroit",
+  "timezone_label": "(UTC-05:00) Eastern Time (US & Canada)",
+  "contact": {
+    "city": "Lapeer",
+    "address": "2691 Roods Lake Road",
+    "postal_code": "48446",
+    "phone": "+1 810 664 4772",
+    "url": "http://www.lapeerinternationaldragway.com/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 43.107591,
+      "lon": -83.2797562
+    },
+    "p2": {
+      "lat": 43.1076854,
+      "lon": -83.2798058
+    }
+  },
+  "logo_file": "Lapeer International Dragway LID_logo.png",
+  "svg_file": "Lapeer International Dragway LID.svg",
+  "gps_points": [
+    {
+      "lat": 43.1076382,
+      "lon": -83.279781,
+      "alt_m": 252.0
+    },
+    {
+      "lat": 43.1069403,
+      "lon": -83.282275,
+      "alt_m": 250.0
+    }
+  ]
+}

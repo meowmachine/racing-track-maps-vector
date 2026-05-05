@@ -1,0 +1,52 @@
+{
+  "source_file": "171jrmb0.tkk",
+  "full_name": "Numidia Dragway Numidia DW",
+  "name": "Numidia Dragway",
+  "venue_id": "171jrmb0",
+  "short_name": "Numidia DW",
+  "country": "US",
+  "track_length_m": 419.9,
+  "reference_point": {
+    "lat": 40.8906064,
+    "lon": -76.4005796,
+    "alt_m": 287.0
+  },
+  "start_finish": {
+    "lat": 40.8888568,
+    "lon": -76.3999218
+  },
+  "surface": "asphalt",
+  "timezone": "America/New_York",
+  "timezone_label": "(UTC-05:00) Eastern Time (US & Canada)",
+  "contact": {
+    "city": "Catawissa",
+    "address": "10 Dragstrip Road",
+    "postal_code": "17820",
+    "phone": "+1 570 799 5090",
+    "url": "http://www.numidiadragway.com/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 40.8887629,
+      "lon": -76.4000253
+    },
+    "p2": {
+      "lat": 40.8888181,
+      "lon": -76.3997685
+    }
+  },
+  "logo_file": "Numidia Dragway Numidia DW_logo.png",
+  "svg_file": "Numidia Dragway Numidia DW.svg",
+  "gps_points": [
+    {
+      "lat": 40.8887905,
+      "lon": -76.3998969,
+      "alt_m": 287.0
+    },
+    {
+      "lat": 40.8924223,
+      "lon": -76.4012622,
+      "alt_m": 293.0
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "source_file": "174uuycw.tkk",
+  "full_name": "Darlington Dragway DarlingtonDW",
+  "name": "Darlington Dragway",
+  "venue_id": "174uuycw",
+  "short_name": "DarlingtonDW",
+  "country": "US",
+  "track_length_m": 419.8,
+  "reference_point": {
+    "lat": 34.3090421,
+    "lon": -79.9934814,
+    "alt_m": 55.0
+  },
+  "start_finish": {
+    "lat": 34.3072638,
+    "lon": -79.9939417
+  },
+  "surface": "asphalt",
+  "timezone": "America/New_York",
+  "timezone_label": "(UTC-05:00) Eastern Time (US & Canada)",
+  "contact": {
+    "city": "Hartsville",
+    "address": "2056 East Bobo Newsome Highway - SC151",
+    "postal_code": "29550",
+    "phone": "+1 843 383 0008",
+    "url": "http://www.racedarlingtondragway.com/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 34.3072178,
+      "lon": -79.9940805
+    },
+    "p2": {
+      "lat": 34.307175,
+      "lon": -79.9938377
+    }
+  },
+  "logo_file": "Darlington Dragway DarlingtonDW_logo.png",
+  "svg_file": "Darlington Dragway DarlingtonDW.svg",
+  "gps_points": [
+    {
+      "lat": 34.3071964,
+      "lon": -79.9939591,
+      "alt_m": 53.0
+    },
+    {
+      "lat": 34.3108877,
+      "lon": -79.9930036,
+      "alt_m": 56.0
+    }
+  ]
+}

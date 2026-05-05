@@ -1,0 +1,52 @@
+{
+  "source_file": "179wha79.tkk",
+  "full_name": "Malmö Raceway Malmo DW",
+  "name": "Malmö Raceway",
+  "venue_id": "179wha79",
+  "short_name": "Malmo DW",
+  "country": "SE",
+  "track_length_m": 216.6,
+  "reference_point": {
+    "lat": 55.6303746,
+    "lon": 13.0265075,
+    "alt_m": 0.0
+  },
+  "start_finish": {
+    "lat": 55.630495,
+    "lon": 13.0280965
+  },
+  "surface": "asphalt",
+  "timezone": "Europe/Stockholm",
+  "timezone_label": "(UTC+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna",
+  "contact": {
+    "city": "Malmö",
+    "address": "Flintrännegatan 31",
+    "postal_code": "21124",
+    "phone": "+46 40 18 34 00",
+    "url": "http://srif.se/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 55.630451,
+      "lon": 13.0282295
+    },
+    "p2": {
+      "lat": 55.6305572,
+      "lon": 13.0282043
+    }
+  },
+  "logo_file": "Malmö Raceway Malmo DW_logo.png",
+  "svg_file": "Malmö Raceway Malmo DW.svg",
+  "gps_points": [
+    {
+      "lat": 55.6305041,
+      "lon": 13.0282169,
+      "alt_m": 1.0
+    },
+    {
+      "lat": 55.6302451,
+      "lon": 13.024798,
+      "alt_m": -2.0
+    }
+  ]
+}

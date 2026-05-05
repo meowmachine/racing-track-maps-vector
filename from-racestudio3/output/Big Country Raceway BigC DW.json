@@ -1,0 +1,52 @@
+{
+  "source_file": "1723htps.tkk",
+  "full_name": "Big Country Raceway BigC DW",
+  "name": "Big Country Raceway",
+  "venue_id": "1723htps",
+  "short_name": "BigC DW",
+  "country": "US",
+  "track_length_m": 216.8,
+  "reference_point": {
+    "lat": 32.4739091,
+    "lon": -99.7947479,
+    "alt_m": 523.0
+  },
+  "start_finish": {
+    "lat": 32.4736674,
+    "lon": -99.795783
+  },
+  "surface": "asphalt",
+  "timezone": "America/Chicago",
+  "timezone_label": "(UTC-06:00) Central Time (US & Canada)",
+  "contact": {
+    "city": "Abilene",
+    "address": "5601 West Stamford",
+    "postal_code": "79603",
+    "phone": "+1 325 721 2021",
+    "url": "http://bigcountryraceway.com/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 32.4736994,
+      "lon": -99.7958779
+    },
+    "p2": {
+      "lat": 32.4735988,
+      "lon": -99.7958449
+    }
+  },
+  "logo_file": null,
+  "svg_file": "Big Country Raceway BigC DW.svg",
+  "gps_points": [
+    {
+      "lat": 32.4736491,
+      "lon": -99.7958614,
+      "alt_m": 523.0
+    },
+    {
+      "lat": 32.4741691,
+      "lon": -99.7936344,
+      "alt_m": 528.0
+    }
+  ]
+}

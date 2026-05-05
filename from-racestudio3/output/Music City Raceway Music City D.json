@@ -1,0 +1,52 @@
+{
+  "source_file": "1721opdw.tkk",
+  "full_name": "Music City Raceway Music City D",
+  "name": "Music City Raceway",
+  "venue_id": "1721opdw",
+  "short_name": "Music City D",
+  "country": "US",
+  "track_length_m": 217.3,
+  "reference_point": {
+    "lat": 36.349331,
+    "lon": -86.8002032,
+    "alt_m": 280.0
+  },
+  "start_finish": {
+    "lat": 36.3491907,
+    "lon": -86.7990891
+  },
+  "surface": "asphalt",
+  "timezone": "America/Chicago",
+  "timezone_label": "(UTC-06:00) Central Time (US & Canada)",
+  "contact": {
+    "city": "Goodlettsville",
+    "address": "3302 Ivy Point Road",
+    "postal_code": "37072",
+    "phone": "+1 615 876 0981",
+    "url": "https://www.musiccityraceway.com/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 36.3491271,
+      "lon": -86.799015
+    },
+    "p2": {
+      "lat": 36.3492331,
+      "lon": -86.7989944
+    }
+  },
+  "logo_file": "Music City Raceway Music City D_logo.png",
+  "svg_file": "Music City Raceway Music City D.svg",
+  "gps_points": [
+    {
+      "lat": 36.3491801,
+      "lon": -86.7990047,
+      "alt_m": 280.0
+    },
+    {
+      "lat": 36.3494819,
+      "lon": -86.8014017,
+      "alt_m": 276.0
+    }
+  ]
+}

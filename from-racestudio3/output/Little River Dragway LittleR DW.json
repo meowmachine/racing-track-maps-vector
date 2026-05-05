@@ -1,0 +1,52 @@
+{
+  "source_file": "174vg3tz.tkk",
+  "full_name": "Little River Dragway LittleR DW",
+  "name": "Little River Dragway",
+  "venue_id": "174vg3tz",
+  "short_name": "LittleR DW",
+  "country": "US",
+  "track_length_m": 217.9,
+  "reference_point": {
+    "lat": 30.9654397,
+    "lon": -97.3474286,
+    "alt_m": 139.0
+  },
+  "start_finish": {
+    "lat": 30.9662678,
+    "lon": -97.3469876
+  },
+  "surface": "asphalt",
+  "timezone": "America/Chicago",
+  "timezone_label": "(UTC-06:00) Central Time (US & Canada)",
+  "contact": {
+    "city": "Holland",
+    "address": "13550 State Highway 95",
+    "postal_code": "76534",
+    "phone": "+1 254 982 0119",
+    "url": "http://www.littleriverdragway.com/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 30.96631,
+      "lon": -97.3469017
+    },
+    "p2": {
+      "lat": 30.9663512,
+      "lon": -97.3470067
+    }
+  },
+  "logo_file": "Little River Dragway LittleR DW_logo.png",
+  "svg_file": "Little River Dragway LittleR DW.svg",
+  "gps_points": [
+    {
+      "lat": 30.9663306,
+      "lon": -97.3469542,
+      "alt_m": 140.0
+    },
+    {
+      "lat": 30.9645487,
+      "lon": -97.347903,
+      "alt_m": 138.0
+    }
+  ]
+}

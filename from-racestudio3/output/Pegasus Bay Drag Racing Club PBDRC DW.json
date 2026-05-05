@@ -1,0 +1,51 @@
+{
+  "source_file": "174wmjwa.tkk",
+  "full_name": "Pegasus Bay Drag Racing Club PBDRC DW",
+  "name": "Pegasus Bay Drag Racing Club",
+  "venue_id": "174wmjwa",
+  "short_name": "PBDRC DW",
+  "country": "NZ",
+  "track_length_m": 417.6,
+  "reference_point": {
+    "lat": -43.5292574,
+    "lon": 172.4781358,
+    "alt_m": 46.0
+  },
+  "start_finish": {
+    "lat": -43.5282968,
+    "lon": 172.4760218
+  },
+  "surface": "asphalt",
+  "timezone": "Pacific/Auckland",
+  "timezone_label": "(UTC+12:00) Auckland, Wellington",
+  "contact": {
+    "city": "Christchurch",
+    "address": "Leggett Road",
+    "postal_code": "7676",
+    "url": "https://www.pbdrc.com/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": -43.5281855,
+      "lon": 172.4760065
+    },
+    "p2": {
+      "lat": -43.5283353,
+      "lon": 172.4758771
+    }
+  },
+  "logo_file": "Pegasus Bay Drag Racing Club PBDRC DW_logo.png",
+  "svg_file": "Pegasus Bay Drag Racing Club PBDRC DW.svg",
+  "gps_points": [
+    {
+      "lat": -43.5282604,
+      "lon": 172.4759418,
+      "alt_m": 47.0
+    },
+    {
+      "lat": -43.5302544,
+      "lon": 172.4803298,
+      "alt_m": 48.0
+    }
+  ]
+}

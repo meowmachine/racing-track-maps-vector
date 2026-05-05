@@ -1,0 +1,53 @@
+{
+  "source_file": "1h4gyob3.tkk",
+  "full_name": "Bruce McLaren Motorsport Park Bruce Drag",
+  "name": "Bruce McLaren Motorsport Park",
+  "venue_id": "1h4gyob3",
+  "short_name": "Bruce Drag.",
+  "country": "NZ",
+  "track_length_m": 401.2,
+  "reference_point": {
+    "lat": -38.6646014,
+    "lon": 176.1471695,
+    "alt_m": 468.0
+  },
+  "start_finish": {
+    "lat": -38.6633008,
+    "lon": 176.1487697
+  },
+  "surface": "asphalt",
+  "timezone": "Pacific/Auckland",
+  "timezone_label": "(UTC+12:00) Auckland, Wellington",
+  "contact": {
+    "city": "Taupo",
+    "address": "463 Broadlands Road",
+    "postal_code": "3378",
+    "phone": "+64 07 376 5033",
+    "url": "https://www.brucemclarenmotorsportpark.com/",
+    "Cmt": "Dragstrip"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": -38.6633509,
+      "lon": 176.1488364
+    },
+    "p2": {
+      "lat": -38.6632507,
+      "lon": 176.148703
+    }
+  },
+  "logo_file": "Bruce McLaren Motorsport Park Bruce Drag_logo.png",
+  "svg_file": "Bruce McLaren Motorsport Park Bruce Drag.svg",
+  "gps_points": [
+    {
+      "lat": -38.6633008,
+      "lon": 176.1487697,
+      "alt_m": 461.0
+    },
+    {
+      "lat": -38.665902,
+      "lon": 176.1455694,
+      "alt_m": 467.0
+    }
+  ]
+}

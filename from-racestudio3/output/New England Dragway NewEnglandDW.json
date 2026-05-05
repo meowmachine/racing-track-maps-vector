@@ -1,0 +1,52 @@
+{
+  "source_file": "171j78ko.tkk",
+  "full_name": "New England Dragway NewEnglandDW",
+  "name": "New England Dragway",
+  "venue_id": "171j78ko",
+  "short_name": "NewEnglandDW",
+  "country": "US",
+  "track_length_m": 418.3,
+  "reference_point": {
+    "lat": 43.0224613,
+    "lon": -71.026569,
+    "alt_m": 37.0
+  },
+  "start_finish": {
+    "lat": 43.0209069,
+    "lon": -71.0278419
+  },
+  "surface": "asphalt",
+  "timezone": "America/New_York",
+  "timezone_label": "(UTC-05:00) Eastern Time (US & Canada)",
+  "contact": {
+    "city": "Epping",
+    "address": "280 Exeter Road",
+    "postal_code": "03042",
+    "phone": "+1 603 679 8001",
+    "url": "https://www.nedragway.com/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 43.0208941,
+      "lon": -71.0279953
+    },
+    "p2": {
+      "lat": 43.0208021,
+      "lon": -71.0277849
+    }
+  },
+  "logo_file": "New England Dragway NewEnglandDW_logo.png",
+  "svg_file": "New England Dragway NewEnglandDW.svg",
+  "gps_points": [
+    {
+      "lat": 43.0208481,
+      "lon": -71.0278901,
+      "alt_m": 37.0
+    },
+    {
+      "lat": 43.0240744,
+      "lon": -71.0252479,
+      "alt_m": 39.0
+    }
+  ]
+}

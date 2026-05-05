@@ -1,0 +1,52 @@
+{
+  "source_file": "1722obh8.tkk",
+  "full_name": "World Wide Technology Raceway at Gateway WWTR Drag",
+  "name": "World Wide Technology Raceway at Gateway",
+  "venue_id": "1722obh8",
+  "short_name": "WWTR Drag",
+  "country": "US",
+  "track_length_m": 419.4,
+  "reference_point": {
+    "lat": 38.6461362,
+    "lon": -90.1366842,
+    "alt_m": 124.0
+  },
+  "start_finish": {
+    "lat": 38.6443844,
+    "lon": -90.1360689
+  },
+  "surface": "asphalt",
+  "timezone": "America/Chicago",
+  "timezone_label": "(UTC-06:00) Central Time (US & Canada)",
+  "contact": {
+    "city": "Madison",
+    "address": "700 Raceway Boulevard",
+    "postal_code": "62060",
+    "phone": "+1 618 215 8888",
+    "url": "https://www.wwtraceway.com/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 38.6442913,
+      "lon": -90.1361703
+    },
+    "p2": {
+      "lat": 38.6443447,
+      "lon": -90.1359209
+    }
+  },
+  "logo_file": "World Wide Technology Raceway at Gateway WWTR Drag_logo.png",
+  "svg_file": "World Wide Technology Raceway at Gateway WWTR Drag.svg",
+  "gps_points": [
+    {
+      "lat": 38.644318,
+      "lon": -90.1360456,
+      "alt_m": 122.0
+    },
+    {
+      "lat": 38.6479544,
+      "lon": -90.1373228,
+      "alt_m": 117.0
+    }
+  ]
+}

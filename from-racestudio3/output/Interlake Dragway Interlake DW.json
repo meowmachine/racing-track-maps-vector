@@ -1,0 +1,52 @@
+{
+  "source_file": "174wbl1l.tkk",
+  "full_name": "Interlake Dragway Interlake DW",
+  "name": "Interlake Dragway",
+  "venue_id": "174wbl1l",
+  "short_name": "Interlake DW",
+  "country": "CA",
+  "track_length_m": 418.9,
+  "reference_point": {
+    "lat": 50.6302092,
+    "lon": -97.0519329,
+    "alt_m": 227.0
+  },
+  "start_finish": {
+    "lat": 50.6317827,
+    "lon": -97.0533563
+  },
+  "surface": "asphalt",
+  "timezone": "America/Winnipeg",
+  "timezone_label": "(UTC-06:00) Central Time (US & Canada)",
+  "contact": {
+    "city": "Gimli",
+    "address": "PR 231",
+    "postal_code": "R0C 1B0",
+    "phone": "+1 204 793 5684",
+    "url": "http://interlakedragway.org/cms/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 50.6318875,
+      "lon": -97.0532861
+    },
+    "p2": {
+      "lat": 50.6317971,
+      "lon": -97.0535343
+    }
+  },
+  "logo_file": null,
+  "svg_file": "Interlake Dragway Interlake DW.svg",
+  "gps_points": [
+    {
+      "lat": 50.6318423,
+      "lon": -97.0534102,
+      "alt_m": 228.0
+    },
+    {
+      "lat": 50.628576,
+      "lon": -97.0504555,
+      "alt_m": 228.0
+    }
+  ]
+}

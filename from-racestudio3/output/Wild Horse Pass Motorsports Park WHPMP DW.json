@@ -1,0 +1,52 @@
+{
+  "source_file": "1722auba.tkk",
+  "full_name": "Wild Horse Pass Motorsports Park WHPMP DW",
+  "name": "Wild Horse Pass Motorsports Park",
+  "venue_id": "1722auba",
+  "short_name": "WHPMP DW",
+  "country": "US",
+  "track_length_m": 419.5,
+  "reference_point": {
+    "lat": 33.2690474,
+    "lon": -111.9693327,
+    "alt_m": 348.0
+  },
+  "start_finish": {
+    "lat": 33.2705695,
+    "lon": -111.9705195
+  },
+  "surface": "asphalt",
+  "timezone": "America/Phoenix",
+  "timezone_label": "(UTC-07:00) Arizona",
+  "contact": {
+    "city": "Chandler",
+    "address": "20000 S Maricopa Road",
+    "postal_code": "85226",
+    "phone": "+1 520 796 5601",
+    "url": "https://racewildhorse.com/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 33.2706751,
+      "lon": -111.9704766
+    },
+    "p2": {
+      "lat": 33.2705793,
+      "lon": -111.9706524
+    }
+  },
+  "logo_file": "Wild Horse Pass Motorsports Park WHPMP DW_logo.png",
+  "svg_file": "Wild Horse Pass Motorsports Park WHPMP DW.svg",
+  "gps_points": [
+    {
+      "lat": 33.2706272,
+      "lon": -111.9705645,
+      "alt_m": 345.0
+    },
+    {
+      "lat": 33.2674675,
+      "lon": -111.9681009,
+      "alt_m": 349.0
+    }
+  ]
+}

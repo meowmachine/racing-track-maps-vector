@@ -1,0 +1,52 @@
+{
+  "source_file": "173pd4iu.tkk",
+  "full_name": "Firebird Raceway Firebird DW",
+  "name": "Firebird Raceway",
+  "venue_id": "173pd4iu",
+  "short_name": "Firebird DW",
+  "country": "US",
+  "track_length_m": 418.8,
+  "reference_point": {
+    "lat": 43.7667306,
+    "lon": -116.4676355,
+    "alt_m": 829.0
+  },
+  "start_finish": {
+    "lat": 43.7650159,
+    "lon": -116.4668158
+  },
+  "surface": "asphalt",
+  "timezone": "America/Boise",
+  "timezone_label": "(UTC-07:00) Mountain Time (US & Canada)",
+  "contact": {
+    "city": "Eagle",
+    "address": "8551 Highway 16",
+    "postal_code": "83616",
+    "phone": "+1 208 938 8986",
+    "url": "https://firebirdonline.com/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 43.7649187,
+      "lon": -116.4669142
+    },
+    "p2": {
+      "lat": 43.7649833,
+      "lon": -116.4666554
+    }
+  },
+  "logo_file": "Firebird Raceway Firebird DW_logo.png",
+  "svg_file": "Firebird Raceway Firebird DW.svg",
+  "gps_points": [
+    {
+      "lat": 43.764951,
+      "lon": -116.4667848,
+      "alt_m": 831.0
+    },
+    {
+      "lat": 43.7685101,
+      "lon": -116.4684861,
+      "alt_m": 823.0
+    }
+  ]
+}

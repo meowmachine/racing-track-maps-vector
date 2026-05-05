@@ -1,0 +1,52 @@
+{
+  "source_file": "1721rf5c.tkk",
+  "full_name": "GALOT Motorsports Park GALOT DW",
+  "name": "GALOT Motorsports Park",
+  "venue_id": "1721rf5c",
+  "short_name": "GALOT DW",
+  "country": "US",
+  "track_length_m": 420.3,
+  "reference_point": {
+    "lat": 35.3237826,
+    "lon": -78.5112594,
+    "alt_m": 67.0
+  },
+  "start_finish": {
+    "lat": 35.3255916,
+    "lon": -78.5110088
+  },
+  "surface": "asphalt",
+  "timezone": "America/New_York",
+  "timezone_label": "(UTC-05:00) Eastern Time (US & Canada)",
+  "contact": {
+    "city": "Dunn",
+    "address": "4129 NC Highway 242 South",
+    "postal_code": "28334",
+    "phone": "+1 919 894 1662",
+    "url": "http://www.galotmotorsports.com/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 35.3256484,
+      "lon": -78.5108723
+    },
+    "p2": {
+      "lat": 35.3256718,
+      "lon": -78.5111263
+    }
+  },
+  "logo_file": "GALOT Motorsports Park GALOT DW_logo.png",
+  "svg_file": "GALOT Motorsports Park GALOT DW.svg",
+  "gps_points": [
+    {
+      "lat": 35.3256601,
+      "lon": -78.5109993,
+      "alt_m": 65.0
+    },
+    {
+      "lat": 35.321905,
+      "lon": -78.5115195,
+      "alt_m": 75.0
+    }
+  ]
+}

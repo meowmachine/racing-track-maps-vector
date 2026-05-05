@@ -1,0 +1,52 @@
+{
+  "source_file": "1723cx4z.tkk",
+  "full_name": "Hobbs Airfield Speedway HMP DW",
+  "name": "Hobbs Airfield Speedway",
+  "venue_id": "1723cx4z",
+  "short_name": "HMP DW",
+  "country": "US",
+  "track_length_m": 418.2,
+  "reference_point": {
+    "lat": 32.7581647,
+    "lon": -103.2071873,
+    "alt_m": 1122.0
+  },
+  "start_finish": {
+    "lat": 32.7581562,
+    "lon": -103.2050333
+  },
+  "surface": "asphalt",
+  "timezone": "America/Denver",
+  "timezone_label": "(UTC-07:00) Mountain Time (US & Canada)",
+  "contact": {
+    "city": "Hobbs",
+    "address": "5333 North A Street",
+    "postal_code": "88240",
+    "phone": "+1 575 392 3724",
+    "url": "https://www.hobbsmotorsportspark.com/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 32.7580515,
+      "lon": -103.2049523
+    },
+    "p2": {
+      "lat": 32.7582603,
+      "lon": -103.2049511
+    }
+  },
+  "logo_file": "Hobbs Airfield Speedway HMP DW_logo.png",
+  "svg_file": "Hobbs Airfield Speedway HMP DW.svg",
+  "gps_points": [
+    {
+      "lat": 32.7581559,
+      "lon": -103.2049517,
+      "alt_m": 1122.0
+    },
+    {
+      "lat": 32.7581735,
+      "lon": -103.2094228,
+      "alt_m": 1126.0
+    }
+  ]
+}

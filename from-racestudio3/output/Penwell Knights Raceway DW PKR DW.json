@@ -1,0 +1,50 @@
+{
+  "source_file": "2gdnuugj.tkk",
+  "full_name": "Penwell Knights Raceway DW PKR DW",
+  "name": "Penwell Knights Raceway DW",
+  "venue_id": "2gdnuugj",
+  "short_name": "PKR DW",
+  "country": "US",
+  "track_length_m": 430.5,
+  "reference_point": {
+    "lat": 31.7331121,
+    "lon": -102.5798148,
+    "alt_m": 896.0
+  },
+  "start_finish": {
+    "lat": 31.7327532,
+    "lon": -102.5818083
+  },
+  "surface": "asphalt",
+  "timezone": "America/Chicago",
+  "timezone_label": "(UTC-06:00) Central Time (US & Canada)",
+  "contact": {
+    "city": "Odessa",
+    "address": "FM-1601",
+    "postal_code": "79763"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 31.7328143,
+      "lon": -102.5820664
+    },
+    "p2": {
+      "lat": 31.7326085,
+      "lon": -102.5820152
+    }
+  },
+  "logo_file": "Penwell Knights Raceway DW PKR DW_logo.png",
+  "svg_file": "Penwell Knights Raceway DW PKR DW.svg",
+  "gps_points": [
+    {
+      "lat": 31.7327114,
+      "lon": -102.5820408,
+      "alt_m": 896.0
+    },
+    {
+      "lat": 31.7335128,
+      "lon": -102.5775888,
+      "alt_m": 899.0
+    }
+  ]
+}

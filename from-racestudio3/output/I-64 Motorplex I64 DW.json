@@ -1,0 +1,52 @@
+{
+  "source_file": "174bxj4m.tkk",
+  "full_name": "I-64 Motorplex I64 DW",
+  "name": "I-64 Motorplex",
+  "venue_id": "174bxj4m",
+  "short_name": "I64 DW",
+  "country": "US",
+  "track_length_m": 216.7,
+  "reference_point": {
+    "lat": 38.1373025,
+    "lon": -83.7372265,
+    "alt_m": 210.0
+  },
+  "start_finish": {
+    "lat": 38.137363,
+    "lon": -83.738375
+  },
+  "surface": "asphalt",
+  "timezone": "America/New_York",
+  "timezone_label": "(UTC-05:00) Eastern Time (US & Canada)",
+  "contact": {
+    "city": "Owingsville",
+    "address": "674 Wells Road",
+    "postal_code": "40360",
+    "phone": "+1 606 674 3987",
+    "url": "https://www.i64motorplex.com/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 38.1374215,
+      "lon": -83.7384574
+    },
+    "p2": {
+      "lat": 38.1373137,
+      "lon": -83.7384666
+    }
+  },
+  "logo_file": "I-64 Motorplex I64 DW_logo.png",
+  "svg_file": "I-64 Motorplex I64 DW.svg",
+  "gps_points": [
+    {
+      "lat": 38.1373676,
+      "lon": -83.738462,
+      "alt_m": 210.0
+    },
+    {
+      "lat": 38.1372373,
+      "lon": -83.735991,
+      "alt_m": 209.0
+    }
+  ]
+}

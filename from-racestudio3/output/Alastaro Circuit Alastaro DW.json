@@ -1,0 +1,52 @@
+{
+  "source_file": "1799pidm.tkk",
+  "full_name": "Alastaro Circuit Alastaro DW",
+  "name": "Alastaro Circuit",
+  "venue_id": "1799pidm",
+  "short_name": "Alastaro DW",
+  "country": "FI",
+  "track_length_m": 417.7,
+  "reference_point": {
+    "lat": 60.9743225,
+    "lon": 22.6582644,
+    "alt_m": 0.0
+  },
+  "start_finish": {
+    "lat": 60.972522,
+    "lon": 22.6586325
+  },
+  "surface": "asphalt",
+  "timezone": "Europe/Helsinki",
+  "timezone_label": "(UTC+02:00) Helsinki, Kyiv, Riga, Sofia, Tallinn, Vilnius",
+  "contact": {
+    "city": "Virttaa",
+    "address": "Jarno Saarisentie",
+    "postal_code": "32560",
+    "phone": "+358 50 550 6545",
+    "url": "https://www.alastarocircuit.fi/web/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 60.9724436,
+      "lon": 22.6584335
+    },
+    "p2": {
+      "lat": 60.972464,
+      "lon": 22.6588593
+    }
+  },
+  "logo_file": "Alastaro Circuit Alastaro DW_logo.png",
+  "svg_file": "Alastaro Circuit Alastaro DW.svg",
+  "gps_points": [
+    {
+      "lat": 60.9724538,
+      "lon": 22.6586464,
+      "alt_m": -32768.0
+    },
+    {
+      "lat": 60.9761912,
+      "lon": 22.6578823,
+      "alt_m": -32768.0
+    }
+  ]
+}

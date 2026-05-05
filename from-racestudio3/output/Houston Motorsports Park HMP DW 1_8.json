@@ -1,0 +1,52 @@
+{
+  "source_file": "1723izxd.tkk",
+  "full_name": "Houston Motorsports Park HMP DW 1_8",
+  "name": "Houston Motorsports Park",
+  "venue_id": "1723izxd",
+  "short_name": "HMP DW 1/8",
+  "country": "US",
+  "track_length_m": 220.0,
+  "reference_point": {
+    "lat": 29.8893064,
+    "lon": -95.2288068,
+    "alt_m": 18.0
+  },
+  "start_finish": {
+    "lat": 29.8883872,
+    "lon": -95.2288003
+  },
+  "surface": "asphalt",
+  "timezone": "America/Chicago",
+  "timezone_label": "(UTC-06:00) Central Time (US & Canada)",
+  "contact": {
+    "city": "Houston",
+    "address": "11620 North Lake Houston Parkway",
+    "postal_code": "77044",
+    "phone": "+1 281 458 1972",
+    "url": "http://www.houstonmotorsportspark.com/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 29.8883173,
+      "lon": -95.2288632
+    },
+    "p2": {
+      "lat": 29.8883179,
+      "lon": -95.2287364
+    }
+  },
+  "logo_file": "Houston Motorsports Park HMP DW 1_8_logo.png",
+  "svg_file": "Houston Motorsports Park HMP DW 1_8.svg",
+  "gps_points": [
+    {
+      "lat": 29.8883176,
+      "lon": -95.2287998,
+      "alt_m": 17.0
+    },
+    {
+      "lat": 29.8902952,
+      "lon": -95.2288138,
+      "alt_m": 19.0
+    }
+  ]
+}

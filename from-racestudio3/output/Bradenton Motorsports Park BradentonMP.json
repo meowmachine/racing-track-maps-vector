@@ -1,0 +1,52 @@
+{
+  "source_file": "171h3jpo.tkk",
+  "full_name": "Bradenton Motorsports Park BradentonMP",
+  "name": "Bradenton Motorsports Park",
+  "venue_id": "171h3jpo",
+  "short_name": "BradentonMP",
+  "country": "US",
+  "track_length_m": 419.7,
+  "reference_point": {
+    "lat": 27.4720277,
+    "lon": -82.3266804,
+    "alt_m": 22.0
+  },
+  "start_finish": {
+    "lat": 27.4738453,
+    "lon": -82.3266581
+  },
+  "surface": "asphalt",
+  "timezone": "America/New_York",
+  "timezone_label": "(UTC-05:00) Eastern Time (US & Canada)",
+  "contact": {
+    "city": "Bradenton",
+    "address": "21000 SR. 64",
+    "postal_code": "34212",
+    "phone": "+1 941 748 1320",
+    "url": "http://www.bradentonmotorsports.com/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 27.473913,
+      "lon": -82.3265392
+    },
+    "p2": {
+      "lat": 27.4739152,
+      "lon": -82.3267754
+    }
+  },
+  "logo_file": "Bradenton Motorsports Park BradentonMP_logo.png",
+  "svg_file": "Bradenton Motorsports Park BradentonMP.svg",
+  "gps_points": [
+    {
+      "lat": 27.4739141,
+      "lon": -82.3266573,
+      "alt_m": 22.0
+    },
+    {
+      "lat": 27.4701412,
+      "lon": -82.3267035,
+      "alt_m": 22.0
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "source_file": "173p01e1.tkk",
+  "full_name": "Interstate Raceway InterstateDW",
+  "name": "Interstate Raceway",
+  "venue_id": "173p01e1",
+  "short_name": "InterstateDW",
+  "country": "US",
+  "track_length_m": 417.9,
+  "reference_point": {
+    "lat": 46.8299454,
+    "lon": -96.6555722,
+    "alt_m": 282.0
+  },
+  "start_finish": {
+    "lat": 46.8299544,
+    "lon": -96.6529265
+  },
+  "surface": "asphalt",
+  "timezone": "America/Chicago",
+  "timezone_label": "(UTC-06:00) Central Time (US & Canada)",
+  "contact": {
+    "city": "Glyndon",
+    "address": "4147 70th Street SW",
+    "postal_code": "56547",
+    "phone": "+1 218 236 9461",
+    "url": "http://www.topenddragways.com/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 46.8298503,
+      "lon": -96.6528254
+    },
+    "p2": {
+      "lat": 46.8300591,
+      "lon": -96.652827
+    }
+  },
+  "logo_file": "Interstate Raceway InterstateDW_logo.png",
+  "svg_file": "Interstate Raceway InterstateDW.svg",
+  "gps_points": [
+    {
+      "lat": 46.8299547,
+      "lon": -96.6528262,
+      "alt_m": 282.0
+    },
+    {
+      "lat": 46.8299362,
+      "lon": -96.6583182,
+      "alt_m": 281.0
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "source_file": "174wed9g.tkk",
+  "full_name": "Eastbound International Dragway Eastbound DW",
+  "name": "Eastbound International Dragway",
+  "venue_id": "174wed9g",
+  "short_name": "Eastbound DW",
+  "country": "CA",
+  "track_length_m": 218.6,
+  "reference_point": {
+    "lat": 47.3713272,
+    "lon": -53.2379711,
+    "alt_m": 96.0
+  },
+  "start_finish": {
+    "lat": 47.3705074,
+    "lon": -53.2385663
+  },
+  "surface": "asphalt",
+  "timezone": "America/St_Johns",
+  "timezone_label": "(UTC-03:30) Newfoundland",
+  "contact": {
+    "city": "Avondale",
+    "address": "500 Mill Road",
+    "postal_code": "A0A 1B0",
+    "url": "https://www.eastbounddragway.com/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 47.3704669,
+      "lon": -53.2386763
+    },
+    "p2": {
+      "lat": 47.3704237,
+      "lon": -53.2385465
+    }
+  },
+  "logo_file": "Eastbound International Dragway Eastbound DW_logo.png",
+  "svg_file": "Eastbound International Dragway Eastbound DW.svg",
+  "gps_points": [
+    {
+      "lat": 47.3704453,
+      "lon": -53.2386114,
+      "alt_m": 94.0
+    },
+    {
+      "lat": 47.372209,
+      "lon": -53.2373307,
+      "alt_m": 99.0
+    }
+  ]
+}

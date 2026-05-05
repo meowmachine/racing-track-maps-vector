@@ -1,0 +1,52 @@
+{
+  "source_file": "174b6pjy.tkk",
+  "full_name": "Muncie Dragway Muncie DW",
+  "name": "Muncie Dragway",
+  "venue_id": "174b6pjy",
+  "short_name": "Muncie DW",
+  "country": "US",
+  "track_length_m": 419.1,
+  "reference_point": {
+    "lat": 40.2894105,
+    "lon": -85.2949235,
+    "alt_m": 283.0
+  },
+  "start_finish": {
+    "lat": 40.2912255,
+    "lon": -85.2949101
+  },
+  "surface": "asphalt",
+  "timezone": "America/Indiana/Indianapolis",
+  "timezone_label": "(UTC-05:00) Indiana (East)",
+  "contact": {
+    "city": "Albany",
+    "address": "7901 East State Road 28-67",
+    "postal_code": "47320",
+    "phone": "+1 765 789 8470",
+    "url": "https://www.munciedragway.com/index.html"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 40.2912936,
+      "lon": -85.2947724
+    },
+    "p2": {
+      "lat": 40.2912948,
+      "lon": -85.2950468
+    }
+  },
+  "logo_file": "Muncie Dragway Muncie DW_logo.png",
+  "svg_file": "Muncie Dragway Muncie DW.svg",
+  "gps_points": [
+    {
+      "lat": 40.2912942,
+      "lon": -85.2949096,
+      "alt_m": 283.0
+    },
+    {
+      "lat": 40.2875267,
+      "lon": -85.2949375,
+      "alt_m": 279.0
+    }
+  ]
+}

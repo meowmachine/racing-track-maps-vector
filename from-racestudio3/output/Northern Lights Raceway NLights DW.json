@@ -1,0 +1,52 @@
+{
+  "source_file": "174waojr.tkk",
+  "full_name": "Northern Lights Raceway NLights DW",
+  "name": "Northern Lights Raceway",
+  "venue_id": "174waojr",
+  "short_name": "NLights DW",
+  "country": "CA",
+  "track_length_m": 417.9,
+  "reference_point": {
+    "lat": 56.2405593,
+    "lon": -120.7544062,
+    "alt_m": 675.0
+  },
+  "start_finish": {
+    "lat": 56.2423694,
+    "lon": -120.7544022
+  },
+  "surface": "asphalt",
+  "timezone": "America/Dawson_Creek",
+  "timezone_label": "(UTC-07:00) Arizona",
+  "contact": {
+    "city": "Baldonnel",
+    "address": "242 Road",
+    "postal_code": "V0C 1C0",
+    "phone": "+1 250 262 8064",
+    "url": "http://northernlightsraceway.ca/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 56.2424378,
+      "lon": -120.7542143
+    },
+    "p2": {
+      "lat": 56.242438,
+      "lon": -120.7545899
+    }
+  },
+  "logo_file": "Northern Lights Raceway NLights DW_logo.png",
+  "svg_file": "Northern Lights Raceway NLights DW.svg",
+  "gps_points": [
+    {
+      "lat": 56.2424379,
+      "lon": -120.7544021,
+      "alt_m": 676.0
+    },
+    {
+      "lat": 56.2386806,
+      "lon": -120.7544103,
+      "alt_m": 672.0
+    }
+  ]
+}

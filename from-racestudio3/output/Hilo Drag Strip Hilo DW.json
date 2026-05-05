@@ -1,0 +1,51 @@
+{
+  "source_file": "174aoypy.tkk",
+  "full_name": "Hilo Drag Strip Hilo DW",
+  "name": "Hilo Drag Strip",
+  "venue_id": "174aoypy",
+  "short_name": "Hilo DW",
+  "country": "US",
+  "track_length_m": 419.4,
+  "reference_point": {
+    "lat": 19.6776878,
+    "lon": -155.0278042,
+    "alt_m": 34.0
+  },
+  "start_finish": {
+    "lat": 19.6761564,
+    "lon": -155.0267666
+  },
+  "surface": "asphalt",
+  "timezone": "Pacific/Honolulu",
+  "timezone_label": "(UTC-10:00) Hawaii",
+  "contact": {
+    "city": "Hilo",
+    "address": "Panaewa Drag Strip",
+    "postal_code": "96720",
+    "phone": "+1 808 960 1095"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 19.6760509,
+      "lon": -155.0268064
+    },
+    "p2": {
+      "lat": 19.6761459,
+      "lon": -155.0266482
+    }
+  },
+  "logo_file": "Hilo Drag Strip Hilo DW_logo.png",
+  "svg_file": "Hilo Drag Strip Hilo DW.svg",
+  "gps_points": [
+    {
+      "lat": 19.6760984,
+      "lon": -155.0267273,
+      "alt_m": 36.0
+    },
+    {
+      "lat": 19.6792771,
+      "lon": -155.0288811,
+      "alt_m": 36.0
+    }
+  ]
+}

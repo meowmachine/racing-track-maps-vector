@@ -1,0 +1,52 @@
+{
+  "source_file": "173p2je0.tkk",
+  "full_name": "Sturgis Dragway Sturgis DW",
+  "name": "Sturgis Dragway",
+  "venue_id": "173p2je0",
+  "short_name": "Sturgis DW",
+  "country": "US",
+  "track_length_m": 217.2,
+  "reference_point": {
+    "lat": 44.4264884,
+    "lon": -103.4318862,
+    "alt_m": 965.0
+  },
+  "start_finish": {
+    "lat": 44.4268759,
+    "lon": -103.4307367
+  },
+  "surface": "asphalt",
+  "timezone": "America/Denver",
+  "timezone_label": "(UTC-07:00) Mountain Time (US & Canada)",
+  "contact": {
+    "city": "Sturgis",
+    "address": "20523 SD-79",
+    "postal_code": "57785",
+    "phone": "+1 605 431 0841",
+    "url": "http://www.sturgisdrags.com/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 44.4268609,
+      "lon": -103.4306203
+    },
+    "p2": {
+      "lat": 44.4269497,
+      "lon": -103.4306789
+    }
+  },
+  "logo_file": "Sturgis Dragway Sturgis DW_logo.png",
+  "svg_file": "Sturgis Dragway Sturgis DW.svg",
+  "gps_points": [
+    {
+      "lat": 44.4269053,
+      "lon": -103.4306496,
+      "alt_m": 964.0
+    },
+    {
+      "lat": 44.4260714,
+      "lon": -103.4331227,
+      "alt_m": 964.0
+    }
+  ]
+}

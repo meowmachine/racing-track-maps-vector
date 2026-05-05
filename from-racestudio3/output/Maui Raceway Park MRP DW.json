@@ -1,0 +1,52 @@
+{
+  "source_file": "171ls436.tkk",
+  "full_name": "Maui Raceway Park MRP DW",
+  "name": "Maui Raceway Park",
+  "venue_id": "171ls436",
+  "short_name": "MRP DW",
+  "country": "US",
+  "track_length_m": 419.8,
+  "reference_point": {
+    "lat": 20.8149373,
+    "lon": -156.4589255,
+    "alt_m": 26.0
+  },
+  "start_finish": {
+    "lat": 20.8164639,
+    "lon": -156.4599823
+  },
+  "surface": "asphalt",
+  "timezone": "Pacific/Honolulu",
+  "timezone_label": "(UTC-10:00) Hawaii",
+  "contact": {
+    "city": "Kahului",
+    "address": "Maui Veterans Highway",
+    "postal_code": "96732",
+    "phone": "+1 808 281 1273",
+    "url": "http://www.mrp.org/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 20.8165696,
+      "lon": -156.4599433
+    },
+    "p2": {
+      "lat": 20.816474,
+      "lon": -156.4601015
+    }
+  },
+  "logo_file": null,
+  "svg_file": "Maui Raceway Park MRP DW.svg",
+  "gps_points": [
+    {
+      "lat": 20.8165218,
+      "lon": -156.4600224,
+      "alt_m": 25.0
+    },
+    {
+      "lat": 20.8133527,
+      "lon": -156.4578286,
+      "alt_m": 28.0
+    }
+  ]
+}

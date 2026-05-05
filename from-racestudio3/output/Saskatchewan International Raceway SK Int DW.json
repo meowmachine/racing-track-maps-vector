@@ -1,0 +1,52 @@
+{
+  "source_file": "174wgudj.tkk",
+  "full_name": "Saskatchewan International Raceway SK Int DW",
+  "name": "Saskatchewan International Raceway",
+  "venue_id": "174wgudj",
+  "short_name": "SK Int DW",
+  "country": "CA",
+  "track_length_m": 419.5,
+  "reference_point": {
+    "lat": 51.9727446,
+    "lon": -106.543842,
+    "alt_m": 513.0
+  },
+  "start_finish": {
+    "lat": 51.9710266,
+    "lon": -106.5428814
+  },
+  "surface": "asphalt",
+  "timezone": "America/Regina",
+  "timezone_label": "(UTC-06:00) Saskatchewan",
+  "contact": {
+    "city": "Clavet",
+    "address": "Range Road 3045",
+    "postal_code": "S0K 0Y0",
+    "phone": "+1 306 955 3724",
+    "url": "https://www.racesir.com/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 51.9709293,
+      "lon": -106.542997
+    },
+    "p2": {
+      "lat": 51.9709939,
+      "lon": -106.542693
+    }
+  },
+  "logo_file": "Saskatchewan International Raceway SK Int DW_logo.png",
+  "svg_file": "Saskatchewan International Raceway SK Int DW.svg",
+  "gps_points": [
+    {
+      "lat": 51.9709616,
+      "lon": -106.542845,
+      "alt_m": 513.0
+    },
+    {
+      "lat": 51.9745275,
+      "lon": -106.544839,
+      "alt_m": 514.0
+    }
+  ]
+}

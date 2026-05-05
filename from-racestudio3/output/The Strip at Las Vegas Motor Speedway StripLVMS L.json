@@ -1,0 +1,52 @@
+{
+  "source_file": "171lnmkz.tkk",
+  "full_name": "The Strip at Las Vegas Motor Speedway StripLVMS L",
+  "name": "The Strip at Las Vegas Motor Speedway",
+  "venue_id": "171lnmkz",
+  "short_name": "StripLVMS L",
+  "country": "US",
+  "track_length_m": 419.4,
+  "reference_point": {
+    "lat": 36.279805,
+    "lon": -115.0089906,
+    "alt_m": 620.0
+  },
+  "start_finish": {
+    "lat": 36.2780362,
+    "lon": -115.0095045
+  },
+  "surface": "asphalt",
+  "timezone": "America/Los_Angeles",
+  "timezone_label": "(UTC-08:00) Pacific Time (US & Canada)",
+  "contact": {
+    "city": "Las Vegas",
+    "address": "7000 Las Vegas Boulevard",
+    "postal_code": "89115",
+    "phone": "+1 702 632 8213",
+    "url": "https://www.lvms.com/tracks/drag-strip/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 36.2779925,
+      "lon": -115.0096472
+    },
+    "p2": {
+      "lat": 36.2779459,
+      "lon": -115.0094008
+    }
+  },
+  "logo_file": "The Strip at Las Vegas Motor Speedway StripLVMS L_logo.png",
+  "svg_file": "The Strip at Las Vegas Motor Speedway StripLVMS L.svg",
+  "gps_points": [
+    {
+      "lat": 36.2779692,
+      "lon": -115.009524,
+      "alt_m": 622.0
+    },
+    {
+      "lat": 36.2816407,
+      "lon": -115.0084571,
+      "alt_m": 619.0
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "source_file": "1711qmeo.tkk",
+  "full_name": "Huntsville Dragway HuntsvilleDW",
+  "name": "Huntsville Dragway",
+  "venue_id": "1711qmeo",
+  "short_name": "HuntsvilleDW",
+  "country": "US",
+  "track_length_m": 217.1,
+  "reference_point": {
+    "lat": 34.8535374,
+    "lon": -86.7046734,
+    "alt_m": 247.0
+  },
+  "start_finish": {
+    "lat": 34.8526302,
+    "lon": -86.7046845
+  },
+  "surface": "asphalt",
+  "timezone": "America/Chicago",
+  "timezone_label": "(UTC-06:00) Central Time (US & Canada)",
+  "contact": {
+    "city": "Harvest",
+    "address": "502 Quarter Mountain Road",
+    "postal_code": "35749",
+    "phone": "+1 256 852 4505",
+    "url": "http://www.huntsvilledragway.us/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 34.8525619,
+      "lon": -86.7047514
+    },
+    "p2": {
+      "lat": 34.8525609,
+      "lon": -86.7046192
+    }
+  },
+  "logo_file": "Huntsville Dragway HuntsvilleDW_logo.png",
+  "svg_file": "Huntsville Dragway HuntsvilleDW.svg",
+  "gps_points": [
+    {
+      "lat": 34.8525614,
+      "lon": -86.7046853,
+      "alt_m": 248.0
+    },
+    {
+      "lat": 34.8545134,
+      "lon": -86.7046614,
+      "alt_m": 250.0
+    }
+  ]
+}

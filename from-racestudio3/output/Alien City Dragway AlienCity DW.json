@@ -1,0 +1,52 @@
+{
+  "source_file": "1723c14z.tkk",
+  "full_name": "Alien City Dragway AlienCity DW",
+  "name": "Alien City Dragway",
+  "venue_id": "1723c14z",
+  "short_name": "AlienCity DW",
+  "country": "US",
+  "track_length_m": 419.8,
+  "reference_point": {
+    "lat": 33.3007419,
+    "lon": -104.5074019,
+    "alt_m": 1106.0
+  },
+  "start_finish": {
+    "lat": 33.3025599,
+    "lon": -104.5073938
+  },
+  "surface": "asphalt",
+  "timezone": "America/Denver",
+  "timezone_label": "(UTC-07:00) Mountain Time (US & Canada)",
+  "contact": {
+    "city": "Roswell",
+    "address": "Will Rogers Road",
+    "postal_code": "88202",
+    "phone": "+1 575 208 8488",
+    "url": "https://www.aliencitydragwayllc.com/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 33.3026284,
+      "lon": -104.5072681
+    },
+    "p2": {
+      "lat": 33.3026292,
+      "lon": -104.5075189
+    }
+  },
+  "logo_file": "Alien City Dragway AlienCity DW_logo.png",
+  "svg_file": "Alien City Dragway AlienCity DW.svg",
+  "gps_points": [
+    {
+      "lat": 33.3026288,
+      "lon": -104.5073935,
+      "alt_m": 1106.0
+    },
+    {
+      "lat": 33.2988549,
+      "lon": -104.5074102,
+      "alt_m": 1103.0
+    }
+  ]
+}

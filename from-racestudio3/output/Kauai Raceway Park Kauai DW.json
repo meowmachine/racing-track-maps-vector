@@ -1,0 +1,52 @@
+{
+  "source_file": "171lpwf2.tkk",
+  "full_name": "Kauai Raceway Park Kauai DW",
+  "name": "Kauai Raceway Park",
+  "venue_id": "171lpwf2",
+  "short_name": "Kauai DW",
+  "country": "US",
+  "track_length_m": 417.9,
+  "reference_point": {
+    "lat": 21.9779081,
+    "lon": -159.7475289,
+    "alt_m": 7.0
+  },
+  "start_finish": {
+    "lat": 21.9785527,
+    "lon": -159.7493529
+  },
+  "surface": "asphalt",
+  "timezone": "Pacific/Honolulu",
+  "timezone_label": "(UTC-10:00) Hawaii",
+  "contact": {
+    "city": "Kekaha",
+    "address": "Mana Road",
+    "postal_code": "96752",
+    "phone": "+1 808 652 7140",
+    "url": "https://www.dragracekauai.com/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 21.9786682,
+      "lon": -159.7493845
+    },
+    "p2": {
+      "lat": 21.978486,
+      "lon": -159.7494595
+    }
+  },
+  "logo_file": "Kauai Raceway Park Kauai DW_logo.png",
+  "svg_file": "Kauai Raceway Park Kauai DW.svg",
+  "gps_points": [
+    {
+      "lat": 21.9785771,
+      "lon": -159.749422,
+      "alt_m": 6.0
+    },
+    {
+      "lat": 21.977239,
+      "lon": -159.7456358,
+      "alt_m": 6.0
+    }
+  ]
+}

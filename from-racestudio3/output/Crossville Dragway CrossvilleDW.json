@@ -1,0 +1,52 @@
+{
+  "source_file": "174v7ut4.tkk",
+  "full_name": "Crossville Dragway CrossvilleDW",
+  "name": "Crossville Dragway",
+  "venue_id": "174v7ut4",
+  "short_name": "CrossvilleDW",
+  "country": "US",
+  "track_length_m": 217.7,
+  "reference_point": {
+    "lat": 36.0123701,
+    "lon": -85.0679979,
+    "alt_m": 515.0
+  },
+  "start_finish": {
+    "lat": 36.0132068,
+    "lon": -85.0684386
+  },
+  "surface": "asphalt",
+  "timezone": "America/Chicago",
+  "timezone_label": "(UTC-06:00) Central Time (US & Canada)",
+  "contact": {
+    "city": "Crossville",
+    "address": "1650 Creston Road",
+    "postal_code": "38571",
+    "phone": "+1 931 335 9837",
+    "url": "http://crossvilledragway.com/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 36.0132898,
+      "lon": -85.0684151
+    },
+    "p2": {
+      "lat": 36.0132506,
+      "lon": -85.0685289
+    }
+  },
+  "logo_file": "Crossville Dragway CrossvilleDW_logo.png",
+  "svg_file": "Crossville Dragway CrossvilleDW.svg",
+  "gps_points": [
+    {
+      "lat": 36.0132702,
+      "lon": -85.068472,
+      "alt_m": 515.0
+    },
+    {
+      "lat": 36.01147,
+      "lon": -85.0675237,
+      "alt_m": 516.0
+    }
+  ]
+}

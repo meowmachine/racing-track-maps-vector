@@ -1,0 +1,52 @@
+{
+  "source_file": "174bz2kh.tkk",
+  "full_name": "London Dragway London DW",
+  "name": "London Dragway",
+  "venue_id": "174bz2kh",
+  "short_name": "London DW",
+  "country": "US",
+  "track_length_m": 216.6,
+  "reference_point": {
+    "lat": 37.1143447,
+    "lon": -84.2288852,
+    "alt_m": 352.0
+  },
+  "start_finish": {
+    "lat": 37.1138488,
+    "lon": -84.2298347
+  },
+  "surface": "asphalt",
+  "timezone": "America/New_York",
+  "timezone_label": "(UTC-05:00) Eastern Time (US & Canada)",
+  "contact": {
+    "city": "London",
+    "address": "3835 White Oak Road",
+    "postal_code": "40741",
+    "phone": "+1 606 878 8883",
+    "url": "http://www.londondragway.com/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 37.1138491,
+      "lon": -84.2299378
+    },
+    "p2": {
+      "lat": 37.1137733,
+      "lon": -84.2298756
+    }
+  },
+  "logo_file": "London Dragway London DW_logo.png",
+  "svg_file": "London Dragway London DW.svg",
+  "gps_points": [
+    {
+      "lat": 37.1138112,
+      "lon": -84.2299067,
+      "alt_m": 351.0
+    },
+    {
+      "lat": 37.1148782,
+      "lon": -84.2278638,
+      "alt_m": 346.0
+    }
+  ]
+}

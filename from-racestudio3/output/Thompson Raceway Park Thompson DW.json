@@ -1,0 +1,52 @@
+{
+  "source_file": "174d8rwv.tkk",
+  "full_name": "Thompson Raceway Park Thompson DW",
+  "name": "Thompson Raceway Park",
+  "venue_id": "174d8rwv",
+  "short_name": "Thompson DW",
+  "country": "US",
+  "track_length_m": 417.7,
+  "reference_point": {
+    "lat": 41.6470668,
+    "lon": -81.0136495,
+    "alt_m": 347.0
+  },
+  "start_finish": {
+    "lat": 41.6470785,
+    "lon": -81.0160708
+  },
+  "surface": "asphalt",
+  "timezone": "America/New_York",
+  "timezone_label": "(UTC-05:00) Eastern Time (US & Canada)",
+  "contact": {
+    "city": "Thompson",
+    "address": "8233 Sidley Road",
+    "postal_code": "44086",
+    "phone": "+1 440 298 1350",
+    "url": "https://www.thompsonracewaypark.com/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 41.6471832,
+      "lon": -81.0161616
+    },
+    "p2": {
+      "lat": 41.6469746,
+      "lon": -81.0161634
+    }
+  },
+  "logo_file": "Thompson Raceway Park Thompson DW_logo.png",
+  "svg_file": "Thompson Raceway Park Thompson DW.svg",
+  "gps_points": [
+    {
+      "lat": 41.6470789,
+      "lon": -81.0161625,
+      "alt_m": 346.0
+    },
+    {
+      "lat": 41.6470547,
+      "lon": -81.0111365,
+      "alt_m": 343.0
+    }
+  ]
+}

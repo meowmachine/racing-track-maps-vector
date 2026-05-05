@@ -1,0 +1,52 @@
+{
+  "source_file": "174d737c.tkk",
+  "full_name": "Dragway 42 Dragway42",
+  "name": "Dragway 42",
+  "venue_id": "174d737c",
+  "short_name": "Dragway42",
+  "country": "US",
+  "track_length_m": 418.7,
+  "reference_point": {
+    "lat": 40.9888275,
+    "lon": -82.0954611,
+    "alt_m": 349.0
+  },
+  "start_finish": {
+    "lat": 40.9905648,
+    "lon": -82.0947716
+  },
+  "surface": "asphalt",
+  "timezone": "America/New_York",
+  "timezone_label": "(UTC-05:00) Eastern Time (US & Canada)",
+  "contact": {
+    "city": "West Salem",
+    "address": "9161 Rainbow Highway",
+    "postal_code": "44287",
+    "phone": "+1 419 853 4242",
+    "url": "http://www.dragway42.com/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 40.9906019,
+      "lon": -82.0946184
+    },
+    "p2": {
+      "lat": 40.9906593,
+      "lon": -82.0948726
+    }
+  },
+  "logo_file": "Dragway 42 Dragway42_logo.png",
+  "svg_file": "Dragway 42 Dragway42.svg",
+  "gps_points": [
+    {
+      "lat": 40.9906306,
+      "lon": -82.0947455,
+      "alt_m": 350.0
+    },
+    {
+      "lat": 40.9870243,
+      "lon": -82.0961767,
+      "alt_m": 338.0
+    }
+  ]
+}

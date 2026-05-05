@@ -1,0 +1,52 @@
+{
+  "source_file": "1723g4l0.tkk",
+  "full_name": "Thunder Valley Raceway Park TVRP DW",
+  "name": "Thunder Valley Raceway Park",
+  "venue_id": "1723g4l0",
+  "short_name": "TVRP DW",
+  "country": "US",
+  "track_length_m": 417.6,
+  "reference_point": {
+    "lat": 35.0916908,
+    "lon": -97.3747673,
+    "alt_m": 325.0
+  },
+  "start_finish": {
+    "lat": 35.0913005,
+    "lon": -97.3726088
+  },
+  "surface": "asphalt",
+  "timezone": "America/Chicago",
+  "timezone_label": "(UTC-06:00) Central Time (US & Canada)",
+  "contact": {
+    "city": "Lexington",
+    "address": "10500 48th Street",
+    "postal_code": "73051",
+    "phone": "+1 405 503 6931",
+    "url": "https://www.okthunder.com/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 35.0911863,
+      "lon": -97.372554
+    },
+    "p2": {
+      "lat": 35.0913851,
+      "lon": -97.3725002
+    }
+  },
+  "logo_file": "Thunder Valley Raceway Park TVRP DW_logo.png",
+  "svg_file": "Thunder Valley Raceway Park TVRP DW.svg",
+  "gps_points": [
+    {
+      "lat": 35.0912857,
+      "lon": -97.3725271,
+      "alt_m": 325.0
+    },
+    {
+      "lat": 35.0920959,
+      "lon": -97.3770075,
+      "alt_m": 324.0
+    }
+  ]
+}

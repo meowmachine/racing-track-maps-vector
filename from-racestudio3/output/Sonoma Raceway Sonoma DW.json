@@ -1,0 +1,52 @@
+{
+  "source_file": "171kotkz.tkk",
+  "full_name": "Sonoma Raceway Sonoma DW",
+  "name": "Sonoma Raceway",
+  "venue_id": "171kotkz",
+  "short_name": "Sonoma DW",
+  "country": "US",
+  "track_length_m": 418.7,
+  "reference_point": {
+    "lat": 38.1621081,
+    "lon": -122.4553352,
+    "alt_m": 4.0
+  },
+  "start_finish": {
+    "lat": 38.1609824,
+    "lon": -122.4535271
+  },
+  "surface": "asphalt",
+  "timezone": "America/Los_Angeles",
+  "timezone_label": "(UTC-08:00) Pacific Time (US & Canada)",
+  "contact": {
+    "city": "Sonoma",
+    "address": "29355 Arnold Drive",
+    "postal_code": "95476",
+    "phone": "+1 800 870 7223",
+    "url": "https://www.sonomaraceway.com/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 38.1608754,
+      "lon": -122.4535233
+    },
+    "p2": {
+      "lat": 38.161004,
+      "lon": -122.4533939
+    }
+  },
+  "logo_file": "Sonoma Raceway Sonoma DW_logo.png",
+  "svg_file": "Sonoma Raceway Sonoma DW.svg",
+  "gps_points": [
+    {
+      "lat": 38.1609397,
+      "lon": -122.4534586,
+      "alt_m": 3.0
+    },
+    {
+      "lat": 38.1632765,
+      "lon": -122.4572118,
+      "alt_m": 9.0
+    }
+  ]
+}

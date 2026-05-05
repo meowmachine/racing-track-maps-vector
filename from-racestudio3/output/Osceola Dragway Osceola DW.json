@@ -1,0 +1,52 @@
+{
+  "source_file": "174b8n6z.tkk",
+  "full_name": "Osceola Dragway Osceola DW",
+  "name": "Osceola Dragway",
+  "venue_id": "174b8n6z",
+  "short_name": "Osceola DW",
+  "country": "US",
+  "track_length_m": 216.9,
+  "reference_point": {
+    "lat": 41.6757124,
+    "lon": -86.0587274,
+    "alt_m": 223.0
+  },
+  "start_finish": {
+    "lat": 41.675685,
+    "lon": -86.0599403
+  },
+  "surface": "asphalt",
+  "timezone": "America/Indiana/Indianapolis",
+  "timezone_label": "(UTC-05:00) Indiana (East)",
+  "contact": {
+    "city": "Osceola",
+    "address": "56328 Ash Road",
+    "postal_code": "46561",
+    "phone": "+1 574 674 8400",
+    "url": "http://www.osceoladragway.com/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 41.675737,
+      "lon": -86.0600344
+    },
+    "p2": {
+      "lat": 41.6756288,
+      "lon": -86.06003
+    }
+  },
+  "logo_file": "Osceola Dragway Osceola DW_logo.png",
+  "svg_file": "Osceola Dragway Osceola DW.svg",
+  "gps_points": [
+    {
+      "lat": 41.6756829,
+      "lon": -86.0600322,
+      "alt_m": 224.0
+    },
+    {
+      "lat": 41.6757418,
+      "lon": -86.0574225,
+      "alt_m": 224.0
+    }
+  ]
+}

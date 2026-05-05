@@ -1,0 +1,52 @@
+{
+  "source_file": "174w0ekw.tkk",
+  "full_name": "Richmond Dragway Richmond DW",
+  "name": "Richmond Dragway",
+  "venue_id": "174w0ekw",
+  "short_name": "Richmond DW",
+  "country": "US",
+  "track_length_m": 217.3,
+  "reference_point": {
+    "lat": 37.4874116,
+    "lon": -77.2801627,
+    "alt_m": 46.0
+  },
+  "start_finish": {
+    "lat": 37.487553,
+    "lon": -77.281293
+  },
+  "surface": "asphalt",
+  "timezone": "America/New_York",
+  "timezone_label": "(UTC-05:00) Eastern Time (US & Canada)",
+  "contact": {
+    "city": "Sandston",
+    "address": "1955 Portugee Road",
+    "postal_code": "23150",
+    "phone": "+1 804 737 1193",
+    "url": "http://richmonddragway.com/ver9/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 37.4876166,
+      "lon": -77.2813681
+    },
+    "p2": {
+      "lat": 37.4875108,
+      "lon": -77.2813891
+    }
+  },
+  "logo_file": "Richmond Dragway Richmond DW_logo.png",
+  "svg_file": "Richmond Dragway Richmond DW.svg",
+  "gps_points": [
+    {
+      "lat": 37.4875637,
+      "lon": -77.2813786,
+      "alt_m": 46.0
+    },
+    {
+      "lat": 37.4872594,
+      "lon": -77.2789469,
+      "alt_m": 44.0
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "source_file": "17233i5a.tkk",
+  "full_name": "National Trail Raceway NtlTrailDW",
+  "name": "National Trail Raceway",
+  "venue_id": "17233i5a",
+  "short_name": "NtlTrailDW",
+  "country": "US",
+  "track_length_m": 419.4,
+  "reference_point": {
+    "lat": 39.9601021,
+    "lon": -82.5479726,
+    "alt_m": 272.0
+  },
+  "start_finish": {
+    "lat": 39.958583,
+    "lon": -82.5466728
+  },
+  "surface": "asphalt",
+  "timezone": "America/New_York",
+  "timezone_label": "(UTC-05:00) Eastern Time (US & Canada)",
+  "contact": {
+    "city": "Hebron",
+    "address": "2650 National Road SW",
+    "postal_code": "43025",
+    "url": "https://nationaltrailraceway.com/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 39.9584774,
+      "lon": -82.5467191
+    },
+    "p2": {
+      "lat": 39.9585734,
+      "lon": -82.5465279
+    }
+  },
+  "logo_file": "National Trail Raceway NtlTrailDW_logo.png",
+  "svg_file": "National Trail Raceway NtlTrailDW.svg",
+  "gps_points": [
+    {
+      "lat": 39.9585254,
+      "lon": -82.5466235,
+      "alt_m": 272.0
+    },
+    {
+      "lat": 39.9616787,
+      "lon": -82.5493217,
+      "alt_m": 271.0
+    }
+  ]
+}

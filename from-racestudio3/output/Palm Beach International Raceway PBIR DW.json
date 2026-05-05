@@ -1,0 +1,52 @@
+{
+  "source_file": "174ahgcs.tkk",
+  "full_name": "Palm Beach International Raceway PBIR DW",
+  "name": "Palm Beach International Raceway",
+  "venue_id": "174ahgcs",
+  "short_name": "PBIR DW",
+  "country": "US",
+  "track_length_m": 420.5,
+  "reference_point": {
+    "lat": 26.9194023,
+    "lon": -80.3052329,
+    "alt_m": 13.0
+  },
+  "start_finish": {
+    "lat": 26.9175867,
+    "lon": -80.305391
+  },
+  "surface": "asphalt",
+  "timezone": "America/New_York",
+  "timezone_label": "(UTC-05:00) Eastern Time (US & Canada)",
+  "contact": {
+    "city": "Jupiter",
+    "address": "17047 Beeline Highway",
+    "postal_code": "33478",
+    "phone": "+1 561 622 1400",
+    "url": "http://www.racepbir.com/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 26.917526,
+      "lon": -80.3055141
+    },
+    "p2": {
+      "lat": 26.9175098,
+      "lon": -80.3052799
+    }
+  },
+  "logo_file": "Palm Beach International Raceway PBIR DW_logo.png",
+  "svg_file": "Palm Beach International Raceway PBIR DW.svg",
+  "gps_points": [
+    {
+      "lat": 26.9175179,
+      "lon": -80.305397,
+      "alt_m": 13.0
+    },
+    {
+      "lat": 26.9212867,
+      "lon": -80.3050687,
+      "alt_m": 7.0
+    }
+  ]
+}

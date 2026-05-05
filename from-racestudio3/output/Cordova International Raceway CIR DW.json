@@ -1,0 +1,52 @@
+{
+  "source_file": "174aslrn.tkk",
+  "full_name": "Cordova International Raceway CIR DW",
+  "name": "Cordova International Raceway",
+  "venue_id": "174aslrn",
+  "short_name": "CIR DW",
+  "country": "US",
+  "track_length_m": 417.7,
+  "reference_point": {
+    "lat": 41.7171924,
+    "lon": -90.2958906,
+    "alt_m": 188.0
+  },
+  "start_finish": {
+    "lat": 41.7171452,
+    "lon": -90.2983136
+  },
+  "surface": "asphalt",
+  "timezone": "America/Chicago",
+  "timezone_label": "(UTC-06:00) Central Time (US & Canada)",
+  "contact": {
+    "city": "Cordova",
+    "address": "19425 IL Route 84N",
+    "postal_code": "61242",
+    "phone": "+1 309 654 2110",
+    "url": "http://www.racecir.com/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 41.7172477,
+      "lon": -90.298409
+    },
+    "p2": {
+      "lat": 41.7170391,
+      "lon": -90.2984018
+    }
+  },
+  "logo_file": "Cordova International Raceway CIR DW_logo.png",
+  "svg_file": "Cordova International Raceway CIR DW.svg",
+  "gps_points": [
+    {
+      "lat": 41.7171434,
+      "lon": -90.2984054,
+      "alt_m": 188.0
+    },
+    {
+      "lat": 41.7172414,
+      "lon": -90.2933758,
+      "alt_m": 189.0
+    }
+  ]
+}

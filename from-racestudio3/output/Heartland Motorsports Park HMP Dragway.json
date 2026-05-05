@@ -1,0 +1,52 @@
+{
+  "source_file": "173otp6e.tkk",
+  "full_name": "Heartland Motorsports Park HMP Dragway",
+  "name": "Heartland Motorsports Park",
+  "venue_id": "173otp6e",
+  "short_name": "HMP Dragway",
+  "country": "US",
+  "track_length_m": 419.2,
+  "reference_point": {
+    "lat": 38.9289295,
+    "lon": -95.677452,
+    "alt_m": 332.0
+  },
+  "start_finish": {
+    "lat": 38.930726,
+    "lon": -95.6777901
+  },
+  "surface": "asphalt",
+  "timezone": "America/Chicago",
+  "timezone_label": "(UTC-06:00) Central Time (US & Canada)",
+  "contact": {
+    "city": "Topeka",
+    "address": "7530 SW Topeka Boulevard",
+    "postal_code": "66619",
+    "phone": "+1 785 861 7899",
+    "url": "http://heartlandmotorsports.us/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 38.930809,
+      "lon": -95.6776712
+    },
+    "p2": {
+      "lat": 38.930779,
+      "lon": -95.6779346
+    }
+  },
+  "logo_file": "Heartland Motorsports Park HMP Dragway_logo.png",
+  "svg_file": "Heartland Motorsports Park HMP Dragway.svg",
+  "gps_points": [
+    {
+      "lat": 38.930794,
+      "lon": -95.6778029,
+      "alt_m": 334.0
+    },
+    {
+      "lat": 38.927065,
+      "lon": -95.6771011,
+      "alt_m": 329.0
+    }
+  ]
+}

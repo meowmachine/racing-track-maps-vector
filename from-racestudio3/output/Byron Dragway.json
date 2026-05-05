@@ -1,0 +1,52 @@
+{
+  "source_file": "1722kdge.tkk",
+  "full_name": "Byron Dragway",
+  "name": "Byron Dragway",
+  "venue_id": "1722kdge",
+  "short_name": "Byron Drag",
+  "country": "US",
+  "track_length_m": 419.6,
+  "reference_point": {
+    "lat": 42.1141145,
+    "lon": -89.2741984,
+    "alt_m": 217.0
+  },
+  "start_finish": {
+    "lat": 42.1159318,
+    "lon": -89.2742322
+  },
+  "surface": "asphalt",
+  "timezone": "America/Chicago",
+  "timezone_label": "(UTC-06:00) Central Time (US & Canada)",
+  "contact": {
+    "city": "Byron",
+    "address": "7287 N. River Road",
+    "postal_code": "61010",
+    "phone": "+1 815 391 0000",
+    "url": "http://byrondragway.com/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 42.1160021,
+      "lon": -89.2740923
+    },
+    "p2": {
+      "lat": 42.1159993,
+      "lon": -89.2743747
+    }
+  },
+  "logo_file": "Byron Dragway_logo.png",
+  "svg_file": "Byron Dragway.svg",
+  "gps_points": [
+    {
+      "lat": 42.1160007,
+      "lon": -89.2742335,
+      "alt_m": 216.0
+    },
+    {
+      "lat": 42.1122283,
+      "lon": -89.2741632,
+      "alt_m": 217.0
+    }
+  ]
+}

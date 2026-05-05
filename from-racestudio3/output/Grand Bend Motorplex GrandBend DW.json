@@ -1,0 +1,52 @@
+{
+  "source_file": "174wfl4d.tkk",
+  "full_name": "Grand Bend Motorplex GrandBend DW",
+  "name": "Grand Bend Motorplex",
+  "venue_id": "174wfl4d",
+  "short_name": "GrandBend DW",
+  "country": "CA",
+  "track_length_m": 417.7,
+  "reference_point": {
+    "lat": 43.2921367,
+    "lon": -81.7165089,
+    "alt_m": 194.0
+  },
+  "start_finish": {
+    "lat": 43.2912125,
+    "lon": -81.7143719
+  },
+  "surface": "asphalt",
+  "timezone": "America/Toronto",
+  "timezone_label": "(UTC-05:00) Eastern Time (US & Canada)",
+  "contact": {
+    "city": "Grand Bend",
+    "address": "70292 Grand Bend Line",
+    "postal_code": "N0M 1T0",
+    "phone": "+1 519 238 7223",
+    "url": "http://www.grandbendmotorplex.ca/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 43.2911004,
+      "lon": -81.7143538
+    },
+    "p2": {
+      "lat": 43.2912546,
+      "lon": -81.714228
+    }
+  },
+  "logo_file": "Grand Bend Motorplex GrandBend DW_logo.png",
+  "svg_file": "Grand Bend Motorplex GrandBend DW.svg",
+  "gps_points": [
+    {
+      "lat": 43.2911775,
+      "lon": -81.7142909,
+      "alt_m": 194.0
+    },
+    {
+      "lat": 43.2930959,
+      "lon": -81.718727,
+      "alt_m": 193.0
+    }
+  ]
+}

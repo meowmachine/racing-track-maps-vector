@@ -1,0 +1,52 @@
+{
+  "source_file": "1722suzr.tkk",
+  "full_name": "Lucas Oil Raceway at Indianapolis LucasOilDrag",
+  "name": "Lucas Oil Raceway at Indianapolis",
+  "venue_id": "1722suzr",
+  "short_name": "LucasOilDrag",
+  "country": "US",
+  "track_length_m": 419.2,
+  "reference_point": {
+    "lat": 39.8111897,
+    "lon": -86.3432216,
+    "alt_m": 260.0
+  },
+  "start_finish": {
+    "lat": 39.8093742,
+    "lon": -86.3431824
+  },
+  "surface": "asphalt",
+  "timezone": "America/Indiana/Indianapolis",
+  "timezone_label": "(UTC-05:00) Indiana (East)",
+  "contact": {
+    "city": "Indianapolis",
+    "address": "10267 East U.S. Highway 136",
+    "postal_code": "46234",
+    "phone": "+1 317 969 8600",
+    "url": "http://www.lucasoilraceway.com/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 39.8093038,
+      "lon": -86.3433172
+    },
+    "p2": {
+      "lat": 39.8093072,
+      "lon": -86.3430446
+    }
+  },
+  "logo_file": "Lucas Oil Raceway at Indianapolis LucasOilDrag_logo.png",
+  "svg_file": "Lucas Oil Raceway at Indianapolis LucasOilDrag.svg",
+  "gps_points": [
+    {
+      "lat": 39.8093055,
+      "lon": -86.3431809,
+      "alt_m": 260.0
+    },
+    {
+      "lat": 39.8130739,
+      "lon": -86.3432623,
+      "alt_m": 260.0
+    }
+  ]
+}

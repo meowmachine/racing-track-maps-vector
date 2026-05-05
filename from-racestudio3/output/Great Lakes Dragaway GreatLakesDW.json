@@ -1,0 +1,52 @@
+{
+  "source_file": "174w3pzj.tkk",
+  "full_name": "Great Lakes Dragaway GreatLakesDW",
+  "name": "Great Lakes Dragaway",
+  "venue_id": "174w3pzj",
+  "short_name": "GreatLakesDW",
+  "country": "US",
+  "track_length_m": 419.0,
+  "reference_point": {
+    "lat": 42.6603337,
+    "lon": -88.0323694,
+    "alt_m": 214.0
+  },
+  "start_finish": {
+    "lat": 42.6585189,
+    "lon": -88.032399
+  },
+  "surface": "asphalt",
+  "timezone": "America/Chicago",
+  "timezone_label": "(UTC-06:00) Central Time (US & Canada)",
+  "contact": {
+    "city": "Union Grove",
+    "address": "18411 1st Street",
+    "postal_code": "53182",
+    "phone": "+1 262 878 3783",
+    "url": "https://greatlakesdragaway.com/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 42.6584515,
+      "lon": -88.0325424
+    },
+    "p2": {
+      "lat": 42.6584489,
+      "lon": -88.0322578
+    }
+  },
+  "logo_file": "Great Lakes Dragaway GreatLakesDW_logo.png",
+  "svg_file": "Great Lakes Dragaway GreatLakesDW.svg",
+  "gps_points": [
+    {
+      "lat": 42.6584502,
+      "lon": -88.0324001,
+      "alt_m": 214.0
+    },
+    {
+      "lat": 42.6622172,
+      "lon": -88.0323386,
+      "alt_m": 215.0
+    }
+  ]
+}

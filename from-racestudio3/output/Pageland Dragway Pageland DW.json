@@ -1,0 +1,52 @@
+{
+  "source_file": "174uwdlb.tkk",
+  "full_name": "Pageland Dragway Pageland DW",
+  "name": "Pageland Dragway",
+  "venue_id": "174uwdlb",
+  "short_name": "Pageland DW",
+  "country": "US",
+  "track_length_m": 217.0,
+  "reference_point": {
+    "lat": 34.6931272,
+    "lon": -80.3465797,
+    "alt_m": 141.0
+  },
+  "start_finish": {
+    "lat": 34.6926534,
+    "lon": -80.3475202
+  },
+  "surface": "asphalt",
+  "timezone": "America/New_York",
+  "timezone_label": "(UTC-05:00) Eastern Time (US & Canada)",
+  "contact": {
+    "city": "Jefferson",
+    "address": "3167 Peach Orchard Road",
+    "postal_code": "29718",
+    "phone": "+1 843 658 3556",
+    "url": "https://www.pagelanddragway.com/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 34.6926569,
+      "lon": -80.3476208
+    },
+    "p2": {
+      "lat": 34.6925781,
+      "lon": -80.347562
+    }
+  },
+  "logo_file": "Pageland Dragway Pageland DW_logo.png",
+  "svg_file": "Pageland Dragway Pageland DW.svg",
+  "gps_points": [
+    {
+      "lat": 34.6926175,
+      "lon": -80.3475914,
+      "alt_m": 141.0
+    },
+    {
+      "lat": 34.6936369,
+      "lon": -80.3455681,
+      "alt_m": 142.0
+    }
+  ]
+}

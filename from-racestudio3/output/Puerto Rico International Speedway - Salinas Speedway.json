@@ -1,0 +1,52 @@
+{
+  "source_file": "171k3i2o.tkk",
+  "full_name": "Puerto Rico International Speedway - Salinas Speedway",
+  "name": "Puerto Rico International Speedway - Salinas Speedway",
+  "venue_id": "171k3i2o",
+  "short_name": "Salinas",
+  "country": "US",
+  "track_length_m": 419.7,
+  "reference_point": {
+    "lat": 17.9700237,
+    "lon": -66.2638135,
+    "alt_m": 11.0
+  },
+  "start_finish": {
+    "lat": 17.9696185,
+    "lon": -66.2619508
+  },
+  "surface": "asphalt",
+  "timezone": "America/Puerto_Rico",
+  "timezone_label": "(UTC-04:00) Georgetown, La Paz, Manaus, San Juan",
+  "contact": {
+    "city": "Salinas",
+    "address": "PR-3",
+    "postal_code": "00751",
+    "phone": "+1 787 824 0020",
+    "url": "http://www.salinasspeedway-pr.com/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 17.9695035,
+      "lon": -66.2619041
+    },
+    "p2": {
+      "lat": 17.9697027,
+      "lon": -66.2618563
+    }
+  },
+  "logo_file": "Puerto Rico International Speedway - Salinas Speedway_logo.png",
+  "svg_file": "Puerto Rico International Speedway - Salinas Speedway.svg",
+  "gps_points": [
+    {
+      "lat": 17.9696031,
+      "lon": -66.2618802,
+      "alt_m": 12.0
+    },
+    {
+      "lat": 17.9704443,
+      "lon": -66.2657468,
+      "alt_m": 12.0
+    }
+  ]
+}

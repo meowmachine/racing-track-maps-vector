@@ -1,0 +1,52 @@
+{
+  "source_file": "171jhj5s.tkk",
+  "full_name": "Toronto Motorsports Park TMP Dragway",
+  "name": "Toronto Motorsports Park",
+  "venue_id": "171jhj5s",
+  "short_name": "TMP Dragway",
+  "country": "CA",
+  "track_length_m": 418.1,
+  "reference_point": {
+    "lat": 42.9001458,
+    "lon": -79.8549092,
+    "alt_m": 0.0
+  },
+  "start_finish": {
+    "lat": 42.8987349,
+    "lon": -79.8564591
+  },
+  "surface": "asphalt",
+  "timezone": "America/Toronto",
+  "timezone_label": "(UTC-05:00) Eastern Time (US & Canada)",
+  "contact": {
+    "city": "Cayuga",
+    "address": "1040 Kohler Road",
+    "postal_code": "N0A 1E0",
+    "phone": "+1 866 824 7223",
+    "url": "https://torontomotorsportspark.com/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 42.8987324,
+      "lon": -79.8566043
+    },
+    "p2": {
+      "lat": 42.8986304,
+      "lon": -79.8564313
+    }
+  },
+  "logo_file": "Toronto Motorsports Park TMP Dragway_logo.png",
+  "svg_file": "Toronto Motorsports Park TMP Dragway.svg",
+  "gps_points": [
+    {
+      "lat": 42.8986814,
+      "lon": -79.8565178,
+      "alt_m": -32768.0
+    },
+    {
+      "lat": 42.9016102,
+      "lon": -79.8533005,
+      "alt_m": -32768.0
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "source_file": "171jf7v0.tkk",
+  "full_name": "ESTA Safety Park Dragstrip ESTA DW",
+  "name": "ESTA Safety Park Dragstrip",
+  "venue_id": "171jf7v0",
+  "short_name": "ESTA DW",
+  "country": "US",
+  "track_length_m": 417.9,
+  "reference_point": {
+    "lat": 43.1621114,
+    "lon": -76.0190897,
+    "alt_m": 120.0
+  },
+  "start_finish": {
+    "lat": 43.1621619,
+    "lon": -76.016609
+  },
+  "surface": "asphalt",
+  "timezone": "America/New_York",
+  "timezone_label": "(UTC-05:00) Eastern Time (US & Canada)",
+  "contact": {
+    "city": "Cicero",
+    "address": "8091 Eastwood Road",
+    "postal_code": "13039",
+    "phone": "+1 315 699 7484",
+    "url": "https://www.estadrags.com/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 43.1620595,
+      "lon": -76.016511
+    },
+    "p2": {
+      "lat": 43.1622681,
+      "lon": -76.016519
+    }
+  },
+  "logo_file": "ESTA Safety Park Dragstrip ESTA DW_logo.png",
+  "svg_file": "ESTA Safety Park Dragstrip ESTA DW.svg",
+  "gps_points": [
+    {
+      "lat": 43.1621638,
+      "lon": -76.016515,
+      "alt_m": 119.0
+    },
+    {
+      "lat": 43.1620589,
+      "lon": -76.0216644,
+      "alt_m": 120.0
+    }
+  ]
+}

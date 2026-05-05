@@ -1,0 +1,51 @@
+{
+  "source_file": "173ovvmc.tkk",
+  "full_name": "Mid America Dragway MidAmericaDW",
+  "name": "Mid America Dragway",
+  "venue_id": "173ovvmc",
+  "short_name": "MidAmericaDW",
+  "country": "US",
+  "track_length_m": 217.6,
+  "reference_point": {
+    "lat": 37.051108,
+    "lon": -97.160131,
+    "alt_m": 379.0
+  },
+  "start_finish": {
+    "lat": 37.0520144,
+    "lon": -97.1602248
+  },
+  "surface": "asphalt",
+  "timezone": "America/Chicago",
+  "timezone_label": "(UTC-06:00) Central Time (US & Canada)",
+  "contact": {
+    "city": "Geuda Springs",
+    "address": "1823 East 160th Street South",
+    "postal_code": "67051",
+    "url": "http://www.midamericadragway.com/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 37.0520875,
+      "lon": -97.1601643
+    },
+    "p2": {
+      "lat": 37.0520785,
+      "lon": -97.1602995
+    }
+  },
+  "logo_file": "Mid America Dragway MidAmericaDW_logo.png",
+  "svg_file": "Mid America Dragway MidAmericaDW.svg",
+  "gps_points": [
+    {
+      "lat": 37.052083,
+      "lon": -97.1602319,
+      "alt_m": 378.0
+    },
+    {
+      "lat": 37.0501331,
+      "lon": -97.1600302,
+      "alt_m": 376.0
+    }
+  ]
+}

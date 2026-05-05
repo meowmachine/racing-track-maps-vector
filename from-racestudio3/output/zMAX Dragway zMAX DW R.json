@@ -1,0 +1,52 @@
+{
+  "source_file": "1721wanx.tkk",
+  "full_name": "zMAX Dragway zMAX DW R",
+  "name": "zMAX Dragway",
+  "venue_id": "1721wanx",
+  "short_name": "zMAX DW R",
+  "country": "US",
+  "track_length_m": 418.1,
+  "reference_point": {
+    "lat": 35.3618507,
+    "lon": -80.6845268,
+    "alt_m": 192.0
+  },
+  "start_finish": {
+    "lat": 35.3609658,
+    "lon": -80.6864645
+  },
+  "surface": "asphalt",
+  "timezone": "America/New_York",
+  "timezone_label": "(UTC-05:00) Eastern Time (US & Canada)",
+  "contact": {
+    "city": "Concord",
+    "address": "5555 Concord Parkway South",
+    "postal_code": "28027",
+    "phone": "+1 704 455 3200",
+    "url": "https://www.charlottemotorspeedway.com/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 35.3610118,
+      "lon": -80.6865925
+    },
+    "p2": {
+      "lat": 35.3608528,
+      "lon": -80.6864833
+    }
+  },
+  "logo_file": null,
+  "svg_file": "zMAX Dragway zMAX DW R.svg",
+  "gps_points": [
+    {
+      "lat": 35.3609323,
+      "lon": -80.6865379,
+      "alt_m": 192.0
+    },
+    {
+      "lat": 35.3627691,
+      "lon": -80.6825157,
+      "alt_m": 192.0
+    }
+  ]
+}

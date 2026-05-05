@@ -1,0 +1,52 @@
+{
+  "source_file": "1723gxg4.tkk",
+  "full_name": "Alamo City Motorplex AXMplex DW",
+  "name": "Alamo City Motorplex",
+  "venue_id": "1723gxg4",
+  "short_name": "AXMplex DW",
+  "country": "US",
+  "track_length_m": 418.5,
+  "reference_point": {
+    "lat": 29.5226712,
+    "lon": -98.135936,
+    "alt_m": 190.0
+  },
+  "start_finish": {
+    "lat": 29.5217629,
+    "lon": -98.1377384
+  },
+  "surface": "asphalt",
+  "timezone": "America/Chicago",
+  "timezone_label": "(UTC-06:00) Central Time (US & Canada)",
+  "contact": {
+    "city": "Marion",
+    "address": "3641 S. Santa Clara Road",
+    "postal_code": "78124",
+    "phone": "+1 210 549 9444",
+    "url": "https://acmplex.com/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 29.5218068,
+      "lon": -98.1378588
+    },
+    "p2": {
+      "lat": 29.5216502,
+      "lon": -98.1377546
+    }
+  },
+  "logo_file": "Alamo City Motorplex AXMplex DW_logo.png",
+  "svg_file": "Alamo City Motorplex AXMplex DW.svg",
+  "gps_points": [
+    {
+      "lat": 29.5217285,
+      "lon": -98.1378067,
+      "alt_m": 191.0
+    },
+    {
+      "lat": 29.5236138,
+      "lon": -98.1340652,
+      "alt_m": 189.0
+    }
+  ]
+}

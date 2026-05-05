@@ -1,0 +1,52 @@
+{
+  "source_file": "175drhwo.tkk",
+  "full_name": "Willowbank Raceway WillowbankDW",
+  "name": "Willowbank Raceway",
+  "venue_id": "175drhwo",
+  "short_name": "WillowbankDW",
+  "country": "AU",
+  "track_length_m": 417.8,
+  "reference_point": {
+    "lat": -27.6962095,
+    "lon": 152.6653333,
+    "alt_m": 55.0
+  },
+  "start_finish": {
+    "lat": -27.6965012,
+    "lon": 152.6673503
+  },
+  "surface": "asphalt",
+  "timezone": "Australia/Brisbane",
+  "timezone_label": "(UTC+10:00) Brisbane",
+  "contact": {
+    "city": "Willowbank",
+    "address": "38 Champions Way",
+    "postal_code": "4306",
+    "phone": "+61 07 5461 5461",
+    "url": "https://www.willowbankraceway.com.au/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": -27.6966139,
+      "lon": 152.6674079
+    },
+    "p2": {
+      "lat": -27.6964107,
+      "lon": 152.6674455
+    }
+  },
+  "logo_file": "Willowbank Raceway WillowbankDW_logo.png",
+  "svg_file": "Willowbank Raceway WillowbankDW.svg",
+  "gps_points": [
+    {
+      "lat": -27.6965123,
+      "lon": 152.6674267,
+      "alt_m": 55.0
+    },
+    {
+      "lat": -27.6959067,
+      "lon": 152.6632398,
+      "alt_m": 54.0
+    }
+  ]
+}

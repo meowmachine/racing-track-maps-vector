@@ -1,0 +1,152 @@
+{
+  "source_file": "0rrokeag.tkk",
+  "full_name": "Tucson Quarter Midget Association TQMA",
+  "name": "Tucson Quarter Midget Association",
+  "venue_id": "0rrokeag",
+  "short_name": "TQMA",
+  "country": "US",
+  "track_length_m": 109.4,
+  "reference_point": {
+    "lat": 32.3874746,
+    "lon": -111.1176875,
+    "alt_m": 637.0
+  },
+  "start_finish": {
+    "lat": 32.3876066,
+    "lon": -111.1177108
+  },
+  "surface": "asphalt",
+  "timezone": "America/Phoenix",
+  "timezone_label": "(UTC-07:00) Arizona",
+  "contact": {
+    "city": "Marana",
+    "address": "9975 North Casa Grande Highway",
+    "postal_code": "85704",
+    "phone": "+1 602 570 3991",
+    "url": "http://tucsonquartermidgets.com/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 32.3875969,
+      "lon": -111.1177095
+    },
+    "p2": {
+      "lat": 32.3876163,
+      "lon": -111.1177121
+    }
+  },
+  "logo_file": "Tucson Quarter Midget Association TQMA_logo.png",
+  "svg_file": "Tucson Quarter Midget Association TQMA.svg",
+  "gps_points": [
+    {
+      "lat": 32.3876066,
+      "lon": -111.1177108,
+      "alt_m": 0.0
+    },
+    {
+      "lat": 32.3876047,
+      "lon": -111.1177317,
+      "alt_m": 636.0
+    },
+    {
+      "lat": 32.3875919,
+      "lon": -111.1177869,
+      "alt_m": 637.0
+    },
+    {
+      "lat": 32.3875637,
+      "lon": -111.1178316,
+      "alt_m": 637.0
+    },
+    {
+      "lat": 32.3875233,
+      "lon": -111.1178715,
+      "alt_m": 637.0
+    },
+    {
+      "lat": 32.3874757,
+      "lon": -111.1178964,
+      "alt_m": 638.0
+    },
+    {
+      "lat": 32.3874298,
+      "lon": -111.1178899,
+      "alt_m": 638.0
+    },
+    {
+      "lat": 32.3873911,
+      "lon": -111.1178536,
+      "alt_m": 638.0
+    },
+    {
+      "lat": 32.3873678,
+      "lon": -111.1178031,
+      "alt_m": 638.0
+    },
+    {
+      "lat": 32.3873418,
+      "lon": -111.1177504,
+      "alt_m": 637.0
+    },
+    {
+      "lat": 32.3873416,
+      "lon": -111.1176917,
+      "alt_m": 637.0
+    },
+    {
+      "lat": 32.3873394,
+      "lon": -111.1176358,
+      "alt_m": 637.0
+    },
+    {
+      "lat": 32.3873575,
+      "lon": -111.1175813,
+      "alt_m": 637.0
+    },
+    {
+      "lat": 32.3873799,
+      "lon": -111.1175328,
+      "alt_m": 637.0
+    },
+    {
+      "lat": 32.3874177,
+      "lon": -111.1174924,
+      "alt_m": 634.0
+    },
+    {
+      "lat": 32.3874645,
+      "lon": -111.1174785,
+      "alt_m": 634.0
+    },
+    {
+      "lat": 32.3875105,
+      "lon": -111.117479,
+      "alt_m": 635.0
+    },
+    {
+      "lat": 32.3875483,
+      "lon": -111.1175101,
+      "alt_m": 636.0
+    },
+    {
+      "lat": 32.3875847,
+      "lon": -111.1175716,
+      "alt_m": 636.0
+    },
+    {
+      "lat": 32.3876034,
+      "lon": -111.1176232,
+      "alt_m": 636.0
+    },
+    {
+      "lat": 32.3876097,
+      "lon": -111.1176775,
+      "alt_m": 636.0
+    },
+    {
+      "lat": 32.3876066,
+      "lon": -111.1177108,
+      "alt_m": 0.0
+    }
+  ]
+}

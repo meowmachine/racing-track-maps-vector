@@ -1,0 +1,52 @@
+{
+  "source_file": "173phizd.tkk",
+  "full_name": "Lewistown Raceway Lewistown DW",
+  "name": "Lewistown Raceway",
+  "venue_id": "173phizd",
+  "short_name": "Lewistown DW",
+  "country": "US",
+  "track_length_m": 417.9,
+  "reference_point": {
+    "lat": 47.0416687,
+    "lon": -109.4948715,
+    "alt_m": 1267.0
+  },
+  "start_finish": {
+    "lat": 47.0432918,
+    "lon": -109.496047
+  },
+  "surface": "asphalt",
+  "timezone": "America/Denver",
+  "timezone_label": "(UTC-07:00) Mountain Time (US & Canada)",
+  "contact": {
+    "city": "Lewistown",
+    "address": "Cottonwood Creek Road",
+    "postal_code": "59457",
+    "phone": "+1 406 350 0733",
+    "url": "http://www.lewistowndragracing.com/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 47.0433947,
+      "lon": -109.4959684
+    },
+    "p2": {
+      "lat": 47.0433119,
+      "lon": -109.4962148
+    }
+  },
+  "logo_file": null,
+  "svg_file": "Lewistown Raceway Lewistown DW.svg",
+  "gps_points": [
+    {
+      "lat": 47.0433533,
+      "lon": -109.4960916,
+      "alt_m": 1268.0
+    },
+    {
+      "lat": 47.0399841,
+      "lon": -109.4936514,
+      "alt_m": 1273.0
+    }
+  ]
+}

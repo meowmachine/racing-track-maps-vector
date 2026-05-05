@@ -1,0 +1,51 @@
+{
+  "source_file": "1erjaaa6.tkk",
+  "full_name": "MosAutoSlalom MosAuto DW",
+  "name": "MosAutoSlalom",
+  "venue_id": "1erjaaa6",
+  "short_name": "MosAuto DW",
+  "country": "RU",
+  "track_length_m": 416.8,
+  "reference_point": {
+    "lat": 55.6182133,
+    "lon": 38.053716,
+    "alt_m": 125.0
+  },
+  "start_finish": {
+    "lat": 55.6187971,
+    "lon": 38.0507578
+  },
+  "surface": "asphalt",
+  "timezone": "Europe/Moscow",
+  "timezone_label": "(UTC+03:00) Moscow, St. Petersburg",
+  "contact": {
+    "city": "Vereya",
+    "postal_code": "140153",
+    "phone": "+7 926 135 57 16",
+    "url": "https://mosautoslalom.ru/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 55.6189242,
+      "lon": 38.0506415
+    },
+    "p2": {
+      "lat": 55.6187386,
+      "lon": 38.0505267
+    }
+  },
+  "logo_file": "MosAutoSlalom MosAuto DW_logo.png",
+  "svg_file": "MosAutoSlalom MosAuto DW.svg",
+  "gps_points": [
+    {
+      "lat": 55.6188314,
+      "lon": 38.0505841,
+      "alt_m": 124.0
+    },
+    {
+      "lat": 55.6175951,
+      "lon": 38.0568478,
+      "alt_m": 122.0
+    }
+  ]
+}

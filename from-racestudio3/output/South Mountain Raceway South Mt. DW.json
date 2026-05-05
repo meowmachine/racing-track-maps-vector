@@ -1,0 +1,52 @@
+{
+  "source_file": "171jszt8.tkk",
+  "full_name": "South Mountain Raceway South Mt. DW",
+  "name": "South Mountain Raceway",
+  "venue_id": "171jszt8",
+  "short_name": "South Mt. DW",
+  "country": "US",
+  "track_length_m": 216.9,
+  "reference_point": {
+    "lat": 40.1204255,
+    "lon": -77.1425602,
+    "alt_m": 161.0
+  },
+  "start_finish": {
+    "lat": 40.1213179,
+    "lon": -77.1423533
+  },
+  "surface": "asphalt",
+  "timezone": "America/New_York",
+  "timezone_label": "(UTC-05:00) Eastern Time (US & Canada)",
+  "contact": {
+    "city": "Boiling Springs",
+    "address": "1107 Petersburg Road",
+    "postal_code": "17007",
+    "phone": "+1 717 323 0210",
+    "url": "http://www.southmountainraceway.com/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 40.1213762,
+      "lon": -77.1422689
+    },
+    "p2": {
+      "lat": 40.1213948,
+      "lon": -77.1424063
+    }
+  },
+  "logo_file": "South Mountain Raceway South Mt. DW_logo.png",
+  "svg_file": "South Mountain Raceway South Mt. DW.svg",
+  "gps_points": [
+    {
+      "lat": 40.1213855,
+      "lon": -77.1423376,
+      "alt_m": 164.0
+    },
+    {
+      "lat": 40.1194654,
+      "lon": -77.1427827,
+      "alt_m": 168.0
+    }
+  ]
+}

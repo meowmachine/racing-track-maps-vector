@@ -1,0 +1,52 @@
+{
+  "source_file": "174w9sj8.tkk",
+  "full_name": "Nitro Motorsports Park Nitro DW",
+  "name": "Nitro Motorsports Park",
+  "venue_id": "174w9sj8",
+  "short_name": "Nitro DW",
+  "country": "CA",
+  "track_length_m": 418.1,
+  "reference_point": {
+    "lat": 54.0163016,
+    "lon": -122.949971,
+    "alt_m": 772.0
+  },
+  "start_finish": {
+    "lat": 54.0144911,
+    "lon": -122.9500436
+  },
+  "surface": "asphalt",
+  "timezone": "America/Vancouver",
+  "timezone_label": "(UTC-08:00) Pacific Time (US & Canada)",
+  "contact": {
+    "city": "Prince George",
+    "address": "9285 Raceway Road",
+    "postal_code": "V2K 5K2",
+    "phone": "+1 778 675 3654",
+    "url": "https://nitromotorsportspark.com/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 54.014425,
+      "lon": -122.9502239
+    },
+    "p2": {
+      "lat": 54.01442,
+      "lon": -122.9498687
+    }
+  },
+  "logo_file": "Nitro Motorsports Park Nitro DW_logo.png",
+  "svg_file": "Nitro Motorsports Park Nitro DW.svg",
+  "gps_points": [
+    {
+      "lat": 54.0144225,
+      "lon": -122.9500463,
+      "alt_m": 772.0
+    },
+    {
+      "lat": 54.0181806,
+      "lon": -122.9498958,
+      "alt_m": 767.0
+    }
+  ]
+}

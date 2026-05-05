@@ -1,0 +1,52 @@
+{
+  "source_file": "174ciz4l.tkk",
+  "full_name": "Ozark Raceway Park Ozark DW",
+  "name": "Ozark Raceway Park",
+  "venue_id": "174ciz4l",
+  "short_name": "Ozark DW",
+  "country": "US",
+  "track_length_m": 216.9,
+  "reference_point": {
+    "lat": 37.0790601,
+    "lon": -92.9900716,
+    "alt_m": 464.0
+  },
+  "start_finish": {
+    "lat": 37.0791071,
+    "lon": -92.9889369
+  },
+  "surface": "asphalt",
+  "timezone": "America/Chicago",
+  "timezone_label": "(UTC-06:00) Central Time (US & Canada)",
+  "contact": {
+    "city": "Rogersville",
+    "address": "8529 State Highway U",
+    "postal_code": "65742",
+    "phone": "+1 417 738 2222",
+    "url": "https://www.ozarkracewaypark.com/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 37.0790567,
+      "lon": -92.9888474
+    },
+    "p2": {
+      "lat": 37.0791647,
+      "lon": -92.9888544
+    }
+  },
+  "logo_file": "Ozark Raceway Park Ozark DW_logo.png",
+  "svg_file": "Ozark Raceway Park Ozark DW.svg",
+  "gps_points": [
+    {
+      "lat": 37.0791107,
+      "lon": -92.9888509,
+      "alt_m": 465.0
+    },
+    {
+      "lat": 37.0790095,
+      "lon": -92.9912923,
+      "alt_m": 461.0
+    }
+  ]
+}

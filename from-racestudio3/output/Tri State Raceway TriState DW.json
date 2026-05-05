@@ -1,0 +1,52 @@
+{
+  "source_file": "1725qu79.tkk",
+  "full_name": "Tri State Raceway TriState DW",
+  "name": "Tri State Raceway",
+  "venue_id": "1725qu79",
+  "short_name": "TriState DW",
+  "country": "US",
+  "track_length_m": 419.1,
+  "reference_point": {
+    "lat": 42.4678132,
+    "lon": -91.2830584,
+    "alt_m": 320.0
+  },
+  "start_finish": {
+    "lat": 42.4680204,
+    "lon": -91.2855033
+  },
+  "surface": "asphalt",
+  "timezone": "America/Chicago",
+  "timezone_label": "(UTC-06:00) Central Time (US & Canada)",
+  "contact": {
+    "city": "Earlville",
+    "address": "2217 270th Ave",
+    "postal_code": "52041",
+    "phone": "+1 563 923 3724",
+    "url": "https://www.tristateraceway.com/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 42.4681316,
+      "lon": -91.2855798
+    },
+    "p2": {
+      "lat": 42.467925,
+      "lon": -91.285612
+    }
+  },
+  "logo_file": "Tri State Raceway TriState DW_logo.png",
+  "svg_file": "Tri State Raceway TriState DW.svg",
+  "gps_points": [
+    {
+      "lat": 42.4680283,
+      "lon": -91.2855959,
+      "alt_m": 322.0
+    },
+    {
+      "lat": 42.467598,
+      "lon": -91.2805208,
+      "alt_m": 317.0
+    }
+  ]
+}

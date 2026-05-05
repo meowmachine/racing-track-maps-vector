@@ -1,0 +1,50 @@
+{
+  "source_file": "1799i8v1.tkk",
+  "full_name": "Hal Far Raceway",
+  "name": "Hal Far Raceway",
+  "venue_id": "1799i8v1",
+  "short_name": "Hal Far R",
+  "country": "MT",
+  "track_length_m": 418.0,
+  "reference_point": {
+    "lat": 35.8185689,
+    "lon": 14.505832,
+    "alt_m": 70.0
+  },
+  "start_finish": {
+    "lat": 35.8197288,
+    "lon": 14.5041175
+  },
+  "surface": "asphalt",
+  "timezone": "Europe/Malta",
+  "timezone_label": "(UTC+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna",
+  "contact": {
+    "city": "Hal-Far",
+    "phone": "+356 9947 4410",
+    "url": "http://www.maltadragracing.com/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 35.8198343,
+      "lon": 14.5041158
+    },
+    "p2": {
+      "lat": 35.8197111,
+      "lon": 14.5039892
+    }
+  },
+  "logo_file": "Hal Far Raceway_logo.png",
+  "svg_file": "Hal Far Raceway.svg",
+  "gps_points": [
+    {
+      "lat": 35.8197727,
+      "lon": 14.5040525,
+      "alt_m": 70.0
+    },
+    {
+      "lat": 35.8173651,
+      "lon": 14.5076114,
+      "alt_m": 64.0
+    }
+  ]
+}

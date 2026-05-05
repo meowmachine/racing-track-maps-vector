@@ -1,0 +1,52 @@
+{
+  "source_file": "171kfjmd.tkk",
+  "full_name": "Sacramento Raceway SacramentoDW",
+  "name": "Sacramento Raceway",
+  "venue_id": "171kfjmd",
+  "short_name": "SacramentoDW",
+  "country": "US",
+  "track_length_m": 418.1,
+  "reference_point": {
+    "lat": 38.5275832,
+    "lon": -121.2925791,
+    "alt_m": 29.0
+  },
+  "start_finish": {
+    "lat": 38.5279461,
+    "lon": -121.2948468
+  },
+  "surface": "asphalt",
+  "timezone": "America/Los_Angeles",
+  "timezone_label": "(UTC-08:00) Pacific Time (US & Canada)",
+  "contact": {
+    "city": "Sacramento",
+    "address": "5305 Excelsior Road",
+    "postal_code": "95827",
+    "phone": "+1 916 363 2653",
+    "url": "http://sacramentoraceway.com/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 38.52806,
+      "lon": -121.2949064
+    },
+    "p2": {
+      "lat": 38.5278596,
+      "lon": -121.2949588
+    }
+  },
+  "logo_file": "Sacramento Raceway SacramentoDW_logo.png",
+  "svg_file": "Sacramento Raceway SacramentoDW.svg",
+  "gps_points": [
+    {
+      "lat": 38.5279598,
+      "lon": -121.2949326,
+      "alt_m": 29.0
+    },
+    {
+      "lat": 38.5272066,
+      "lon": -121.2902255,
+      "alt_m": 33.0
+    }
+  ]
+}

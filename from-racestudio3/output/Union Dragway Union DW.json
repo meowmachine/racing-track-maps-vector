@@ -1,0 +1,52 @@
+{
+  "source_file": "174uxyob.tkk",
+  "full_name": "Union Dragway Union DW",
+  "name": "Union Dragway",
+  "venue_id": "174uxyob",
+  "short_name": "Union DW",
+  "country": "US",
+  "track_length_m": 217.1,
+  "reference_point": {
+    "lat": 34.6601873,
+    "lon": -81.5315864,
+    "alt_m": 160.0
+  },
+  "start_finish": {
+    "lat": 34.6597827,
+    "lon": -81.5325737
+  },
+  "surface": "asphalt",
+  "timezone": "America/New_York",
+  "timezone_label": "(UTC-05:00) Eastern Time (US & Canada)",
+  "contact": {
+    "city": "Union",
+    "address": "2102 Santuc-Carlisle Highway",
+    "postal_code": "29379",
+    "phone": "+1 704 534 0306",
+    "url": "http://www.uniondragway.com/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 34.6597954,
+      "lon": -81.5326748
+    },
+    "p2": {
+      "lat": 34.6597086,
+      "lon": -81.5326222
+    }
+  },
+  "logo_file": "Union Dragway Union DW_logo.png",
+  "svg_file": "Union Dragway Union DW.svg",
+  "gps_points": [
+    {
+      "lat": 34.659752,
+      "lon": -81.5326485,
+      "alt_m": 160.0
+    },
+    {
+      "lat": 34.6606226,
+      "lon": -81.5305242,
+      "alt_m": 160.0
+    }
+  ]
+}

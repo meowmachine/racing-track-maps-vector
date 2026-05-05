@@ -1,0 +1,52 @@
+{
+  "source_file": "1721xvsq.tkk",
+  "full_name": "Albuquerque Dragway ABQD DW",
+  "name": "Albuquerque Dragway",
+  "venue_id": "1721xvsq",
+  "short_name": "ABQD DW",
+  "country": "US",
+  "track_length_m": 418.6,
+  "reference_point": {
+    "lat": 35.0071001,
+    "lon": -106.6142795,
+    "alt_m": 1615.0
+  },
+  "start_finish": {
+    "lat": 35.0070717,
+    "lon": -106.6164928
+  },
+  "surface": "asphalt",
+  "timezone": "America/Denver",
+  "timezone_label": "(UTC-07:00) Mountain Time (US & Canada)",
+  "contact": {
+    "city": "Albuquerque",
+    "address": "5700 Dragway Road SE",
+    "postal_code": "87105",
+    "phone": "+1 888 925 2227",
+    "url": "https://www.abqdragway.com/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 35.0071751,
+      "lon": -106.6165787
+    },
+    "p2": {
+      "lat": 35.0069661,
+      "lon": -106.6165747
+    }
+  },
+  "logo_file": "Albuquerque Dragway ABQD DW_logo.png",
+  "svg_file": "Albuquerque Dragway ABQD DW.svg",
+  "gps_points": [
+    {
+      "lat": 35.0070706,
+      "lon": -106.6165767,
+      "alt_m": 1616.0
+    },
+    {
+      "lat": 35.0071296,
+      "lon": -106.6119824,
+      "alt_m": 1615.0
+    }
+  ]
+}

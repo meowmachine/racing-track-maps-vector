@@ -1,0 +1,52 @@
+{
+  "source_file": "171jzddq.tkk",
+  "full_name": "Luskville Dragway Luskville DW",
+  "name": "Luskville Dragway",
+  "venue_id": "171jzddq",
+  "short_name": "Luskville DW",
+  "country": "CA",
+  "track_length_m": 420.3,
+  "reference_point": {
+    "lat": 45.5171222,
+    "lon": -76.032749,
+    "alt_m": 63.0
+  },
+  "start_finish": {
+    "lat": 45.5189133,
+    "lon": -76.033213
+  },
+  "surface": "asphalt",
+  "timezone": "America/Toronto",
+  "timezone_label": "(UTC-05:00) Eastern Time (US & Canada)",
+  "contact": {
+    "city": "Luskville",
+    "address": "800 Lamoureux Road",
+    "postal_code": "J0X 2G0",
+    "phone": "+1 613 715 1029",
+    "url": "http://www.luskvilledragway.com/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 45.5189996,
+      "lon": -76.0330856
+    },
+    "p2": {
+      "lat": 45.5189628,
+      "lon": -76.0333756
+    }
+  },
+  "logo_file": "Luskville Dragway Luskville DW_logo.png",
+  "svg_file": "Luskville Dragway Luskville DW.svg",
+  "gps_points": [
+    {
+      "lat": 45.5189812,
+      "lon": -76.0332306,
+      "alt_m": 63.0
+    },
+    {
+      "lat": 45.5152632,
+      "lon": -76.0322673,
+      "alt_m": 65.0
+    }
+  ]
+}

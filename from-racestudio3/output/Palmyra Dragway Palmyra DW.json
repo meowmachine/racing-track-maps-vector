@@ -1,0 +1,51 @@
+{
+  "source_file": "175dnyph.tkk",
+  "full_name": "Palmyra Dragway Palmyra DW",
+  "name": "Palmyra Dragway",
+  "venue_id": "175dnyph",
+  "short_name": "Palmyra DW",
+  "country": "AU",
+  "track_length_m": 419.9,
+  "reference_point": {
+    "lat": -21.2063888,
+    "lon": 149.0765099,
+    "alt_m": 14.0
+  },
+  "start_finish": {
+    "lat": -21.2045836,
+    "lon": 149.0767486
+  },
+  "surface": "asphalt",
+  "timezone": "Australia/Brisbane",
+  "timezone_label": "(UTC+10:00) Brisbane",
+  "contact": {
+    "city": "Palmyra",
+    "address": "2 Bells Road",
+    "postal_code": "4740",
+    "url": "http://www.palmyradragway.com.au/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": -21.204528,
+      "lon": 149.0768684
+    },
+    "p2": {
+      "lat": -21.2045026,
+      "lon": 149.0766468
+    }
+  },
+  "logo_file": "Palmyra Dragway Palmyra DW_logo.png",
+  "svg_file": "Palmyra Dragway Palmyra DW.svg",
+  "gps_points": [
+    {
+      "lat": -21.2045153,
+      "lon": 149.0767576,
+      "alt_m": 15.0
+    },
+    {
+      "lat": -21.2082622,
+      "lon": 149.0762621,
+      "alt_m": 17.0
+    }
+  ]
+}

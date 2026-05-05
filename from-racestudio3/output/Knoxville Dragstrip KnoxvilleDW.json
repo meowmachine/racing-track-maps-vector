@@ -1,0 +1,52 @@
+{
+  "source_file": "174v88xh.tkk",
+  "full_name": "Knoxville Dragstrip KnoxvilleDW",
+  "name": "Knoxville Dragstrip",
+  "venue_id": "174v88xh",
+  "short_name": "KnoxvilleDW",
+  "country": "US",
+  "track_length_m": 217.6,
+  "reference_point": {
+    "lat": 36.1842534,
+    "lon": -83.9029698,
+    "alt_m": 285.0
+  },
+  "start_finish": {
+    "lat": 36.1834731,
+    "lon": -83.9035479
+  },
+  "surface": "asphalt",
+  "timezone": "America/New_York",
+  "timezone_label": "(UTC-05:00) Eastern Time (US & Canada)",
+  "contact": {
+    "city": "Maynardville",
+    "address": "160 Raceway Drive",
+    "postal_code": "37807",
+    "phone": "+1 865 9929995",
+    "url": "http://www.knoxvilledragstrip.com/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 36.1834379,
+      "lon": -83.9036413
+    },
+    "p2": {
+      "lat": 36.1833901,
+      "lon": -83.9035421
+    }
+  },
+  "logo_file": null,
+  "svg_file": "Knoxville Dragstrip KnoxvilleDW.svg",
+  "gps_points": [
+    {
+      "lat": 36.183414,
+      "lon": -83.9035917,
+      "alt_m": 285.0
+    },
+    {
+      "lat": 36.1850928,
+      "lon": -83.9023479,
+      "alt_m": 285.0
+    }
+  ]
+}

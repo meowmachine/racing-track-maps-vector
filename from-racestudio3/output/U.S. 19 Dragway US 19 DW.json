@@ -1,0 +1,52 @@
+{
+  "source_file": "1721jxzn.tkk",
+  "full_name": "U.S. 19 Dragway US 19 DW",
+  "name": "U.S. 19 Dragway",
+  "venue_id": "1721jxzn",
+  "short_name": "US 19 DW",
+  "country": "US",
+  "track_length_m": 219.9,
+  "reference_point": {
+    "lat": 31.4968447,
+    "lon": -84.1179891,
+    "alt_m": 57.0
+  },
+  "start_finish": {
+    "lat": 31.497763,
+    "lon": -84.118022
+  },
+  "surface": "asphalt",
+  "timezone": "America/New_York",
+  "timezone_label": "(UTC-05:00) Eastern Time (US & Canada)",
+  "contact": {
+    "city": "Albany",
+    "address": "1304 Williamsburg Road",
+    "postal_code": "31705",
+    "phone": "+1 229 431 0077",
+    "url": "http://www.us19-dragway.com/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 31.4978343,
+      "lon": -84.1179602
+    },
+    "p2": {
+      "lat": 31.4978309,
+      "lon": -84.1180888
+    }
+  },
+  "logo_file": "U.S. 19 Dragway US 19 DW_logo.png",
+  "svg_file": "U.S. 19 Dragway US 19 DW.svg",
+  "gps_points": [
+    {
+      "lat": 31.4978326,
+      "lon": -84.1180245,
+      "alt_m": 61.0
+    },
+    {
+      "lat": 31.4958568,
+      "lon": -84.1179536,
+      "alt_m": 56.0
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "source_file": "1799mghe.tkk",
+  "full_name": "Mosten Raceday",
+  "name": "Mosten Raceday",
+  "venue_id": "1799mghe",
+  "short_name": "Mosten",
+  "country": "DK",
+  "track_length_m": 216.8,
+  "reference_point": {
+    "lat": 56.4804605,
+    "lon": 10.27317,
+    "alt_m": -1.0
+  },
+  "start_finish": {
+    "lat": 56.480199,
+    "lon": 10.2747405
+  },
+  "surface": "asphalt",
+  "timezone": "Europe/Copenhagen",
+  "timezone_label": "(UTC+01:00) Brussels, Copenhagen, Madrid, Paris",
+  "contact": {
+    "city": "Ørsted",
+    "address": "Bode Engvej 15",
+    "postal_code": "8950",
+    "phone": "+45 86 48 90 10",
+    "url": "http://mostenraceday.dk/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 56.4801296,
+      "lon": 10.2748324
+    },
+    "p2": {
+      "lat": 56.4802288,
+      "lon": 10.2748866
+    }
+  },
+  "logo_file": null,
+  "svg_file": "Mosten Raceday.svg",
+  "gps_points": [
+    {
+      "lat": 56.4801792,
+      "lon": 10.2748595,
+      "alt_m": -1.0
+    },
+    {
+      "lat": 56.4807417,
+      "lon": 10.2714805,
+      "alt_m": 0.0
+    }
+  ]
+}

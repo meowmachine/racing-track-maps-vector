@@ -1,0 +1,52 @@
+{
+  "source_file": "173pi798.tkk",
+  "full_name": "Lost Creek Raceway LostCreek DW",
+  "name": "Lost Creek Raceway",
+  "venue_id": "173pi798",
+  "short_name": "LostCreek DW",
+  "country": "US",
+  "track_length_m": 218.5,
+  "reference_point": {
+    "lat": 46.1355882,
+    "lon": -112.9033107,
+    "alt_m": 1561.0
+  },
+  "start_finish": {
+    "lat": 46.1347412,
+    "lon": -112.9038019
+  },
+  "surface": "asphalt",
+  "timezone": "America/Denver",
+  "timezone_label": "(UTC-07:00) Mountain Time (US & Canada)",
+  "contact": {
+    "city": "Anaconda",
+    "address": "595 Galen Road",
+    "postal_code": "59711",
+    "phone": "+1 406 491 0403",
+    "url": "https://lostcreek-raceway.com/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 46.1346959,
+      "lon": -112.9039069
+    },
+    "p2": {
+      "lat": 46.1346581,
+      "lon": -112.9037713
+    }
+  },
+  "logo_file": "Lost Creek Raceway LostCreek DW_logo.png",
+  "svg_file": "Lost Creek Raceway LostCreek DW.svg",
+  "gps_points": [
+    {
+      "lat": 46.134677,
+      "lon": -112.9038391,
+      "alt_m": 1562.0
+    },
+    {
+      "lat": 46.1364994,
+      "lon": -112.9027822,
+      "alt_m": 1562.0
+    }
+  ]
+}

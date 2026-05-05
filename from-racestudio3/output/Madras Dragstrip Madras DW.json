@@ -1,0 +1,52 @@
+{
+  "source_file": "173pnixr.tkk",
+  "full_name": "Madras Dragstrip Madras DW",
+  "name": "Madras Dragstrip",
+  "venue_id": "173pnixr",
+  "short_name": "Madras DW",
+  "country": "US",
+  "track_length_m": 217.6,
+  "reference_point": {
+    "lat": 44.6563856,
+    "lon": -121.1632759,
+    "alt_m": 742.0
+  },
+  "start_finish": {
+    "lat": 44.6557398,
+    "lon": -121.1623761
+  },
+  "surface": "asphalt",
+  "timezone": "America/Los_Angeles",
+  "timezone_label": "(UTC-08:00) Pacific Time (US & Canada)",
+  "contact": {
+    "city": "Madras",
+    "address": "1218 NW Daimler Road",
+    "postal_code": "97741",
+    "phone": "+1 541 815 2107",
+    "url": "https://www.madrasdragstrip.com/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 44.6556637,
+      "lon": -121.1623464
+    },
+    "p2": {
+      "lat": 44.6557181,
+      "lon": -121.1622694
+    }
+  },
+  "logo_file": "Madras Dragstrip Madras DW_logo.png",
+  "svg_file": "Madras Dragstrip Madras DW.svg",
+  "gps_points": [
+    {
+      "lat": 44.6556909,
+      "lon": -121.1623079,
+      "alt_m": 742.0
+    },
+    {
+      "lat": 44.6570803,
+      "lon": -121.1642438,
+      "alt_m": 744.0
+    }
+  ]
+}

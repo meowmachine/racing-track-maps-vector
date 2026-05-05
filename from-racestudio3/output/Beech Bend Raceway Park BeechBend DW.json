@@ -1,0 +1,52 @@
+{
+  "source_file": "1722xjoy.tkk",
+  "full_name": "Beech Bend Raceway Park BeechBend DW",
+  "name": "Beech Bend Raceway Park",
+  "venue_id": "1722xjoy",
+  "short_name": "BeechBend DW",
+  "country": "US",
+  "track_length_m": 418.6,
+  "reference_point": {
+    "lat": 37.0263298,
+    "lon": -86.4036141,
+    "alt_m": 137.0
+  },
+  "start_finish": {
+    "lat": 37.0254595,
+    "lon": -86.4016221
+  },
+  "surface": "asphalt",
+  "timezone": "America/Chicago",
+  "timezone_label": "(UTC-06:00) Central Time (US & Canada)",
+  "contact": {
+    "city": "Bowling Green",
+    "address": "798 Beech Bend Park Road",
+    "postal_code": "42101",
+    "phone": "+1 270 781 7634",
+    "url": "https://www.beechbend.com/dragstrip/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 37.0253461,
+      "lon": -86.4016017
+    },
+    "p2": {
+      "lat": 37.0255069,
+      "lon": -86.4014915
+    }
+  },
+  "logo_file": "Beech Bend Raceway Park BeechBend DW_logo.png",
+  "svg_file": "Beech Bend Raceway Park BeechBend DW.svg",
+  "gps_points": [
+    {
+      "lat": 37.0254265,
+      "lon": -86.4015466,
+      "alt_m": 135.0
+    },
+    {
+      "lat": 37.0272331,
+      "lon": -86.4056816,
+      "alt_m": 131.0
+    }
+  ]
+}

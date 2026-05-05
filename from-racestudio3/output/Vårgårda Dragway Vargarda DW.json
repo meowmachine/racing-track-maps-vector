@@ -1,0 +1,50 @@
+{
+  "source_file": "179wnqw0.tkk",
+  "full_name": "Vårgårda Dragway Vargarda DW",
+  "name": "Vårgårda Dragway",
+  "venue_id": "179wnqw0",
+  "short_name": "Vargarda DW",
+  "country": "SE",
+  "track_length_m": 217.0,
+  "reference_point": {
+    "lat": 58.0406651,
+    "lon": 12.7879432,
+    "alt_m": 97.0
+  },
+  "start_finish": {
+    "lat": 58.0413754,
+    "lon": 12.7890084
+  },
+  "surface": "asphalt",
+  "timezone": "Europe/Stockholm",
+  "timezone_label": "(UTC+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna",
+  "contact": {
+    "city": "Vårgårda",
+    "address": "Vårgårda Flygplatsen",
+    "postal_code": "44791"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 58.0414028,
+      "lon": 12.7891519
+    },
+    "p2": {
+      "lat": 58.0414556,
+      "lon": 12.7890263
+    }
+  },
+  "logo_file": "Vårgårda Dragway Vargarda DW_logo.png",
+  "svg_file": "Vårgårda Dragway Vargarda DW.svg",
+  "gps_points": [
+    {
+      "lat": 58.0414292,
+      "lon": 12.7890891,
+      "alt_m": 98.0
+    },
+    {
+      "lat": 58.039901,
+      "lon": 12.7867973,
+      "alt_m": 97.0
+    }
+  ]
+}

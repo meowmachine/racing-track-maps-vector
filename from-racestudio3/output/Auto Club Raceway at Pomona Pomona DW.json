@@ -1,0 +1,52 @@
+{
+  "source_file": "171kbuhq.tkk",
+  "full_name": "Auto Club Raceway at Pomona Pomona DW",
+  "name": "Auto Club Raceway at Pomona",
+  "venue_id": "171kbuhq",
+  "short_name": "Pomona DW",
+  "country": "US",
+  "track_length_m": 419.3,
+  "reference_point": {
+    "lat": 34.0934268,
+    "lon": -117.7709342,
+    "alt_m": 315.0
+  },
+  "start_finish": {
+    "lat": 34.0949774,
+    "lon": -117.769792
+  },
+  "surface": "asphalt",
+  "timezone": "America/Los_Angeles",
+  "timezone_label": "(UTC-08:00) Pacific Time (US & Canada)",
+  "contact": {
+    "city": "Pomona",
+    "address": "2780 Fairplex Drive",
+    "postal_code": "91768",
+    "phone": "+1 909 593 7010",
+    "url": "http://www.autoclubracewaypomona.com/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 34.0949895,
+      "lon": -117.7696566
+    },
+    "p2": {
+      "lat": 34.0950827,
+      "lon": -117.769841
+    }
+  },
+  "logo_file": "Auto Club Raceway at Pomona Pomona DW_logo.png",
+  "svg_file": "Auto Club Raceway at Pomona Pomona DW.svg",
+  "gps_points": [
+    {
+      "lat": 34.0950361,
+      "lon": -117.7697488,
+      "alt_m": 316.0
+    },
+    {
+      "lat": 34.0918174,
+      "lon": -117.7721195,
+      "alt_m": 313.0
+    }
+  ]
+}

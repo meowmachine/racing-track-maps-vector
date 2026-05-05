@@ -1,0 +1,52 @@
+{
+  "source_file": "171kdsu5.tkk",
+  "full_name": "Irwindale Dragstrip Irwindale DW",
+  "name": "Irwindale Dragstrip",
+  "venue_id": "171kdsu5",
+  "short_name": "Irwindale DW",
+  "country": "US",
+  "track_length_m": 217.0,
+  "reference_point": {
+    "lat": 34.1073309,
+    "lon": -117.984327,
+    "alt_m": 116.0
+  },
+  "start_finish": {
+    "lat": 34.1069894,
+    "lon": -117.9833123
+  },
+  "surface": "asphalt",
+  "timezone": "America/Los_Angeles",
+  "timezone_label": "(UTC-08:00) Pacific Time (US & Canada)",
+  "contact": {
+    "city": "Irwindale",
+    "address": "500 Speedway Drive",
+    "postal_code": "91706",
+    "phone": "+1 626 358 1100",
+    "url": "https://irwindalespeedway.com/irwindale-dragstrip/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 34.106917,
+      "lon": -117.9832583
+    },
+    "p2": {
+      "lat": 34.10701,
+      "lon": -117.9832127
+    }
+  },
+  "logo_file": "Irwindale Dragstrip Irwindale DW_logo.png",
+  "svg_file": "Irwindale Dragstrip Irwindale DW.svg",
+  "gps_points": [
+    {
+      "lat": 34.1069635,
+      "lon": -117.9832355,
+      "alt_m": 116.0
+    },
+    {
+      "lat": 34.1076983,
+      "lon": -117.9854184,
+      "alt_m": 116.0
+    }
+  ]
+}

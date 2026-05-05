@@ -1,0 +1,51 @@
+{
+  "source_file": "1722hrdc.tkk",
+  "full_name": "Kuwait Motor Town KMT DW",
+  "name": "Kuwait Motor Town",
+  "venue_id": "1722hrdc",
+  "short_name": "KMT DW",
+  "country": "KW",
+  "track_length_m": 420.1,
+  "reference_point": {
+    "lat": 28.9271028,
+    "lon": 48.1444565,
+    "alt_m": 42.0
+  },
+  "start_finish": {
+    "lat": 28.9253032,
+    "lon": 48.1441485
+  },
+  "surface": "asphalt",
+  "timezone": "Asia/Kuwait",
+  "timezone_label": "(UTC+03:00) Kuwait, Riyadh",
+  "contact": {
+    "city": "Ali Sabah Al Salem",
+    "address": "King Fahad Road (40), Kilo 51",
+    "phone": "+965 2206 4777",
+    "url": "https://www.kmt.kw/racetrack/drag-strip/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 28.9252504,
+      "lon": 48.1440195
+    },
+    "p2": {
+      "lat": 28.9252196,
+      "lon": 48.1442541
+    }
+  },
+  "logo_file": "Kuwait Motor Town KMT DW_logo.png",
+  "svg_file": "Kuwait Motor Town KMT DW.svg",
+  "gps_points": [
+    {
+      "lat": 28.925235,
+      "lon": 48.1441368,
+      "alt_m": 45.0
+    },
+    {
+      "lat": 28.9289706,
+      "lon": 48.1447762,
+      "alt_m": 38.0
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "source_file": "174w4cyc.tkk",
+  "full_name": "Wisconsin International Raceway Wisconsin DW",
+  "name": "Wisconsin International Raceway",
+  "venue_id": "174w4cyc",
+  "short_name": "Wisconsin DW",
+  "country": "US",
+  "track_length_m": 419.3,
+  "reference_point": {
+    "lat": 44.2479761,
+    "lon": -88.2586139,
+    "alt_m": 210.0
+  },
+  "start_finish": {
+    "lat": 44.246708,
+    "lon": -88.2604291
+  },
+  "surface": "asphalt",
+  "timezone": "America/Chicago",
+  "timezone_label": "(UTC-06:00) Central Time (US & Canada)",
+  "contact": {
+    "city": "Kaukauna",
+    "address": "W1460 County Road KK",
+    "postal_code": "54130",
+    "phone": "+1 920 766 5577",
+    "url": "https://wirmotorsports.com/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 44.2467137,
+      "lon": -88.260571
+    },
+    "p2": {
+      "lat": 44.2466063,
+      "lon": -88.2604248
+    }
+  },
+  "logo_file": "Wisconsin International Raceway Wisconsin DW_logo.png",
+  "svg_file": "Wisconsin International Raceway Wisconsin DW.svg",
+  "gps_points": [
+    {
+      "lat": 44.24666,
+      "lon": -88.2604979,
+      "alt_m": 213.0
+    },
+    {
+      "lat": 44.2492921,
+      "lon": -88.2567299,
+      "alt_m": 212.0
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "source_file": "1722nmr1.tkk",
+  "full_name": "Route 66 Raceway Route66 Drag",
+  "name": "Route 66 Raceway",
+  "venue_id": "1722nmr1",
+  "short_name": "Route66 Drag",
+  "country": "US",
+  "track_length_m": 417.8,
+  "reference_point": {
+    "lat": 41.4641467,
+    "lon": -88.0734925,
+    "alt_m": 196.0
+  },
+  "start_finish": {
+    "lat": 41.4640887,
+    "lon": -88.075906
+  },
+  "surface": "asphalt",
+  "timezone": "America/Chicago",
+  "timezone_label": "(UTC-06:00) Central Time (US & Canada)",
+  "contact": {
+    "city": "Joliet",
+    "address": "500 Speedway Boulevard",
+    "postal_code": "60433",
+    "phone": "+1 888 629 7223",
+    "url": "https://www.route66raceway.com/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 41.4641907,
+      "lon": -88.0760019
+    },
+    "p2": {
+      "lat": 41.4639823,
+      "lon": -88.0759929
+    }
+  },
+  "logo_file": "Route 66 Raceway Route66 Drag_logo.png",
+  "svg_file": "Route 66 Raceway Route66 Drag.svg",
+  "gps_points": [
+    {
+      "lat": 41.4640865,
+      "lon": -88.0759974,
+      "alt_m": 193.0
+    },
+    {
+      "lat": 41.4642069,
+      "lon": -88.0709876,
+      "alt_m": 196.0
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "source_file": "1749ex2e.tkk",
+  "full_name": "Santa Pod Raceway SantaPod DW",
+  "name": "Santa Pod Raceway",
+  "venue_id": "1749ex2e",
+  "short_name": "SantaPod DW",
+  "country": "GB",
+  "track_length_m": 418.3,
+  "reference_point": {
+    "lat": 52.2374865,
+    "lon": -0.5969308,
+    "alt_m": 107.0
+  },
+  "start_finish": {
+    "lat": 52.2361648,
+    "lon": -0.5989538
+  },
+  "surface": "asphalt",
+  "timezone": "Europe/London",
+  "timezone_label": "(UTC+00:00) Dublin, Edinburgh, Lisbon, London",
+  "contact": {
+    "city": "Podington, Wellingborough, Northants",
+    "address": "Airfield Road",
+    "postal_code": "NN29 7XA",
+    "phone": "+44 1234 782828",
+    "url": "https://santapod.co.uk/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 52.2361668,
+      "lon": -0.5991213
+    },
+    "p2": {
+      "lat": 52.2360626,
+      "lon": -0.5989397
+    }
+  },
+  "logo_file": "Santa Pod Raceway SantaPod DW_logo.png",
+  "svg_file": "Santa Pod Raceway SantaPod DW.svg",
+  "gps_points": [
+    {
+      "lat": 52.2361147,
+      "lon": -0.5990305,
+      "alt_m": 107.0
+    },
+    {
+      "lat": 52.2388583,
+      "lon": -0.5948311,
+      "alt_m": 104.0
+    }
+  ]
+}

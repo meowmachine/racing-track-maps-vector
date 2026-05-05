@@ -1,0 +1,52 @@
+{
+  "source_file": "171kazd7.tkk",
+  "full_name": "Auto Club Famoso Raceway Famoso DW",
+  "name": "Auto Club Famoso Raceway",
+  "venue_id": "171kazd7",
+  "short_name": "Famoso DW",
+  "country": "US",
+  "track_length_m": 419.5,
+  "reference_point": {
+    "lat": 35.598124,
+    "lon": -119.135476,
+    "alt_m": 191.0
+  },
+  "start_finish": {
+    "lat": 35.5999412,
+    "lon": -119.135474
+  },
+  "surface": "asphalt",
+  "timezone": "America/Los_Angeles",
+  "timezone_label": "(UTC-08:00) Pacific Time (US & Canada)",
+  "contact": {
+    "city": "McFarland",
+    "address": "33559 Famoso Road",
+    "postal_code": "93250",
+    "phone": "+1 844 346 4876",
+    "url": "http://aaafamosoraceway.com/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 35.6000099,
+      "lon": -119.135345
+    },
+    "p2": {
+      "lat": 35.6000101,
+      "lon": -119.1356028
+    }
+  },
+  "logo_file": "Auto Club Famoso Raceway Famoso DW_logo.png",
+  "svg_file": "Auto Club Famoso Raceway Famoso DW.svg",
+  "gps_points": [
+    {
+      "lat": 35.60001,
+      "lon": -119.1354739,
+      "alt_m": 189.0
+    },
+    {
+      "lat": 35.5962381,
+      "lon": -119.135478,
+      "alt_m": 186.0
+    }
+  ]
+}

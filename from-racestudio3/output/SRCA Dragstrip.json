@@ -1,0 +1,51 @@
+{
+  "source_file": "173owl8t.tkk",
+  "full_name": "SRCA Dragstrip",
+  "name": "SRCA Dragstrip",
+  "venue_id": "173owl8t",
+  "short_name": "SRCA Drag",
+  "country": "US",
+  "track_length_m": 418.9,
+  "reference_point": {
+    "lat": 38.3551234,
+    "lon": -98.8658506,
+    "alt_m": 584.0
+  },
+  "start_finish": {
+    "lat": 38.3560458,
+    "lon": -98.8638579
+  },
+  "surface": "asphalt",
+  "timezone": "America/Chicago",
+  "timezone_label": "(UTC-06:00) Central Time (US & Canada)",
+  "contact": {
+    "city": "Great Bend",
+    "address": "455 W. Barton County Road",
+    "postal_code": "67530",
+    "url": "https://www.srcadragstrip.com/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 38.3560031,
+      "lon": -98.863724
+    },
+    "p2": {
+      "lat": 38.3561583,
+      "lon": -98.8638408
+    }
+  },
+  "logo_file": "SRCA Dragstrip_logo.png",
+  "svg_file": "SRCA Dragstrip.svg",
+  "gps_points": [
+    {
+      "lat": 38.3560807,
+      "lon": -98.8637824,
+      "alt_m": 579.0
+    },
+    {
+      "lat": 38.354166,
+      "lon": -98.8679188,
+      "alt_m": 582.0
+    }
+  ]
+}

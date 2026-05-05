@@ -1,0 +1,52 @@
+{
+  "source_file": "1723ec9z.tkk",
+  "full_name": "Ardmore Dragway Ardmore DW",
+  "name": "Ardmore Dragway",
+  "venue_id": "1723ec9z",
+  "short_name": "Ardmore DW",
+  "country": "US",
+  "track_length_m": 218.1,
+  "reference_point": {
+    "lat": 34.2961542,
+    "lon": -97.1454035,
+    "alt_m": 262.0
+  },
+  "start_finish": {
+    "lat": 34.2954912,
+    "lon": -97.1446462
+  },
+  "surface": "asphalt",
+  "timezone": "America/Chicago",
+  "timezone_label": "(UTC-06:00) Central Time (US & Canada)",
+  "contact": {
+    "city": "Ardmore",
+    "address": "15793 U.S. 77",
+    "postal_code": "73401",
+    "phone": "+1 580 653 2711",
+    "url": "http://www.ardmoredragway.com/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 34.2954138,
+      "lon": -97.1446237
+    },
+    "p2": {
+      "lat": 34.2954682,
+      "lon": -97.1445539
+    }
+  },
+  "logo_file": "Ardmore Dragway Ardmore DW_logo.png",
+  "svg_file": "Ardmore Dragway Ardmore DW.svg",
+  "gps_points": [
+    {
+      "lat": 34.295441,
+      "lon": -97.1445888,
+      "alt_m": 262.0
+    },
+    {
+      "lat": 34.2968674,
+      "lon": -97.1462182,
+      "alt_m": 262.0
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "source_file": "174ccprk.tkk",
+  "full_name": "Gulfport Dragway Gulfport DW",
+  "name": "Gulfport Dragway",
+  "venue_id": "174ccprk",
+  "short_name": "Gulfport DW",
+  "country": "US",
+  "track_length_m": 419.5,
+  "reference_point": {
+    "lat": 30.4046559,
+    "lon": -89.1226872,
+    "alt_m": 6.0
+  },
+  "start_finish": {
+    "lat": 30.4028548,
+    "lon": -89.1229641
+  },
+  "surface": "asphalt",
+  "timezone": "America/Chicago",
+  "timezone_label": "(UTC-06:00) Central Time (US & Canada)",
+  "contact": {
+    "city": "Gulfport",
+    "address": "17085 Racetrack Road",
+    "postal_code": "39503",
+    "phone": "+1 228 863 4408",
+    "url": "https://www.gulfportdragway.com/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 30.4028002,
+      "lon": -89.123094
+    },
+    "p2": {
+      "lat": 30.4027728,
+      "lon": -89.1228552
+    }
+  },
+  "logo_file": "Gulfport Dragway Gulfport DW_logo.png",
+  "svg_file": "Gulfport Dragway Gulfport DW.svg",
+  "gps_points": [
+    {
+      "lat": 30.4027865,
+      "lon": -89.1229746,
+      "alt_m": 6.0
+    },
+    {
+      "lat": 30.4065253,
+      "lon": -89.1223997,
+      "alt_m": 8.0
+    }
+  ]
+}

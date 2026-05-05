@@ -1,0 +1,52 @@
+{
+  "source_file": "174uvwkt.tkk",
+  "full_name": "Greer Dragway Greer DW",
+  "name": "Greer Dragway",
+  "venue_id": "174uvwkt",
+  "short_name": "Greer DW",
+  "country": "US",
+  "track_length_m": 217.0,
+  "reference_point": {
+    "lat": 34.9585299,
+    "lon": -82.2137387,
+    "alt_m": 244.0
+  },
+  "start_finish": {
+    "lat": 34.958388,
+    "lon": -82.212646
+  },
+  "surface": "asphalt",
+  "timezone": "America/New_York",
+  "timezone_label": "(UTC-05:00) Eastern Time (US & Canada)",
+  "contact": {
+    "city": "Greer",
+    "address": "1792 Dragway Road",
+    "postal_code": "29651",
+    "phone": "+1 864 879 4634",
+    "url": "http://www.greerdragway.com/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 34.9583244,
+      "lon": -82.2125735
+    },
+    "p2": {
+      "lat": 34.9584302,
+      "lon": -82.2125531
+    }
+  },
+  "logo_file": "Greer Dragway Greer DW_logo.png",
+  "svg_file": "Greer Dragway Greer DW.svg",
+  "gps_points": [
+    {
+      "lat": 34.9583773,
+      "lon": -82.2125633,
+      "alt_m": 243.0
+    },
+    {
+      "lat": 34.9586824,
+      "lon": -82.2149141,
+      "alt_m": 242.0
+    }
+  ]
+}

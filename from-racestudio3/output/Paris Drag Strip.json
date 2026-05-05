@@ -1,0 +1,52 @@
+{
+  "source_file": "1723jevr.tkk",
+  "full_name": "Paris Drag Strip",
+  "name": "Paris Drag Strip",
+  "venue_id": "1723jevr",
+  "short_name": "Paris Drag",
+  "country": "US",
+  "track_length_m": 218.1,
+  "reference_point": {
+    "lat": 33.6654806,
+    "lon": -95.4233365,
+    "alt_m": 166.0
+  },
+  "start_finish": {
+    "lat": 33.6645691,
+    "lon": -95.4233429
+  },
+  "surface": "asphalt",
+  "timezone": "America/Chicago",
+  "timezone_label": "(UTC-06:00) Central Time (US & Canada)",
+  "contact": {
+    "city": "Paris",
+    "address": "4417 Highway 82 East",
+    "postal_code": "75462",
+    "phone": "+1 903 982 7223",
+    "url": "https://www.theparisdragstrip.com/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 33.6645003,
+      "lon": -95.4234089
+    },
+    "p2": {
+      "lat": 33.6644997,
+      "lon": -95.4232779
+    }
+  },
+  "logo_file": "Paris Drag Strip_logo.png",
+  "svg_file": "Paris Drag Strip.svg",
+  "gps_points": [
+    {
+      "lat": 33.6645,
+      "lon": -95.4233434,
+      "alt_m": 164.0
+    },
+    {
+      "lat": 33.6664611,
+      "lon": -95.4233296,
+      "alt_m": 167.0
+    }
+  ]
+}

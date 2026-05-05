@@ -1,0 +1,52 @@
+{
+  "source_file": "171jg6do.tkk",
+  "full_name": "Lebanon Valley Dragway Lebanon DW",
+  "name": "Lebanon Valley Dragway",
+  "venue_id": "171jg6do",
+  "short_name": "Lebanon DW",
+  "country": "US",
+  "track_length_m": 418.7,
+  "reference_point": {
+    "lat": 42.4921046,
+    "lon": -73.4861533,
+    "alt_m": 184.0
+  },
+  "start_finish": {
+    "lat": 42.4915096,
+    "lon": -73.4838303
+  },
+  "surface": "asphalt",
+  "timezone": "America/New_York",
+  "timezone_label": "(UTC-05:00) Eastern Time (US & Canada)",
+  "contact": {
+    "city": "East Nassau",
+    "address": "1746 US Route 20",
+    "postal_code": "12062",
+    "phone": "+1 518 794 7130",
+    "url": "https://www.dragway.com/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 42.4913938,
+      "lon": -73.4837862
+    },
+    "p2": {
+      "lat": 42.4915804,
+      "lon": -73.4836984
+    }
+  },
+  "logo_file": "Lebanon Valley Dragway Lebanon DW_logo.png",
+  "svg_file": "Lebanon Valley Dragway Lebanon DW.svg",
+  "gps_points": [
+    {
+      "lat": 42.4914871,
+      "lon": -73.4837423,
+      "alt_m": 185.0
+    },
+    {
+      "lat": 42.492722,
+      "lon": -73.4885643,
+      "alt_m": 185.0
+    }
+  ]
+}

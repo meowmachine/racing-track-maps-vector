@@ -1,0 +1,51 @@
+{
+  "source_file": "179wbna2.tkk",
+  "full_name": "Marzaglia Dragway",
+  "name": "Marzaglia Dragway",
+  "venue_id": "179wbna2",
+  "short_name": "Marzaglia",
+  "country": "IT",
+  "track_length_m": 417.7,
+  "reference_point": {
+    "lat": 44.6307689,
+    "lon": 10.8108835,
+    "alt_m": 53.0
+  },
+  "start_finish": {
+    "lat": 44.6301183,
+    "lon": 10.8132556
+  },
+  "surface": "asphalt",
+  "timezone": "Europe/Rome",
+  "timezone_label": "(UTC+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna",
+  "contact": {
+    "city": "Marzaglia (Modena)",
+    "address": "Via dell'Aeroporto 140/B",
+    "postal_code": "41010",
+    "phone": "+39 3316643924"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 44.6300029,
+      "lon": 10.8132963
+    },
+    "p2": {
+      "lat": 44.6301845,
+      "lon": 10.8133947
+    }
+  },
+  "logo_file": "Marzaglia Dragway_logo.png",
+  "svg_file": "Marzaglia Dragway.svg",
+  "gps_points": [
+    {
+      "lat": 44.6300937,
+      "lon": 10.8133455,
+      "alt_m": 52.0
+    },
+    {
+      "lat": 44.631444,
+      "lon": 10.8084214,
+      "alt_m": 52.0
+    }
+  ]
+}

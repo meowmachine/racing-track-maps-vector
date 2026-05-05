@@ -1,0 +1,52 @@
+{
+  "source_file": "171ji6lz.tkk",
+  "full_name": "Maple Grove Raceway MapleGrove",
+  "name": "Maple Grove Raceway",
+  "venue_id": "171ji6lz",
+  "short_name": "MapleGrove",
+  "country": "US",
+  "track_length_m": 418.6,
+  "reference_point": {
+    "lat": 40.2110885,
+    "lon": -75.9604403,
+    "alt_m": 160.0
+  },
+  "start_finish": {
+    "lat": 40.2127588,
+    "lon": -75.9613637
+  },
+  "surface": "asphalt",
+  "timezone": "America/New_York",
+  "timezone_label": "(UTC-05:00) Eastern Time (US & Canada)",
+  "contact": {
+    "city": "Mohnton",
+    "address": "30 Stauffer Park Lane",
+    "postal_code": "19540",
+    "phone": "+1 610 856 9200",
+    "url": "https://maplegroveraceway.com/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 40.2128595,
+      "lon": -75.9612825
+    },
+    "p2": {
+      "lat": 40.2127845,
+      "lon": -75.9615149
+    }
+  },
+  "logo_file": "Maple Grove Raceway MapleGrove_logo.png",
+  "svg_file": "Maple Grove Raceway MapleGrove.svg",
+  "gps_points": [
+    {
+      "lat": 40.212822,
+      "lon": -75.9613987,
+      "alt_m": 161.0
+    },
+    {
+      "lat": 40.2093549,
+      "lon": -75.9594818,
+      "alt_m": 157.0
+    }
+  ]
+}

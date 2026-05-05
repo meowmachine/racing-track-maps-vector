@@ -1,0 +1,52 @@
+{
+  "source_file": "1721awdg.tkk",
+  "full_name": "Atlanta Dragway Atlanta DW",
+  "name": "Atlanta Dragway",
+  "venue_id": "1721awdg",
+  "short_name": "Atlanta DW",
+  "country": "US",
+  "track_length_m": 418.7,
+  "reference_point": {
+    "lat": 34.2647577,
+    "lon": -83.4742735,
+    "alt_m": 215.0
+  },
+  "start_finish": {
+    "lat": 34.263772,
+    "lon": -83.4724314
+  },
+  "surface": "asphalt",
+  "timezone": "America/New_York",
+  "timezone_label": "(UTC-05:00) Eastern Time (US & Canada)",
+  "contact": {
+    "city": "Commerce",
+    "address": "500 E. Ridgeway Road",
+    "postal_code": "30529",
+    "phone": "+1 706 335 2301",
+    "url": "http://www.atlantadragway.com/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 34.2636609,
+      "lon": -83.4724193
+    },
+    "p2": {
+      "lat": 34.2638083,
+      "lon": -83.4723039
+    }
+  },
+  "logo_file": "Atlanta Dragway Atlanta DW_logo.png",
+  "svg_file": "Atlanta Dragway Atlanta DW.svg",
+  "gps_points": [
+    {
+      "lat": 34.2637346,
+      "lon": -83.4723616,
+      "alt_m": 215.0
+    },
+    {
+      "lat": 34.2657808,
+      "lon": -83.4761854,
+      "alt_m": 215.0
+    }
+  ]
+}

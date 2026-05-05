@@ -1,0 +1,52 @@
+{
+  "source_file": "179a4f9d.tkk",
+  "full_name": "Kunmadaras Motorsport",
+  "name": "Kunmadaras Motorsport",
+  "venue_id": "179a4f9d",
+  "short_name": "Kunmadaras",
+  "country": "HU",
+  "track_length_m": 418.0,
+  "reference_point": {
+    "lat": 47.3932296,
+    "lon": 20.7897855,
+    "alt_m": 86.0
+  },
+  "start_finish": {
+    "lat": 47.3942624,
+    "lon": 20.7919823
+  },
+  "surface": "asphalt",
+  "timezone": "Europe/Budapest",
+  "timezone_label": "(UTC+01:00) Belgrade, Bratislava, Budapest, Ljubljana, Prague",
+  "contact": {
+    "city": "Kunmadaras",
+    "address": "Kunmadaras Airport",
+    "postal_code": "5321",
+    "phone": "+36 30 289 42 07",
+    "url": "https://www.kunmadarasmotorsport.hu/hu/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 47.3942311,
+      "lon": 20.7921378
+    },
+    "p2": {
+      "lat": 47.3943719,
+      "lon": 20.7919932
+    }
+  },
+  "logo_file": "Kunmadaras Motorsport_logo.png",
+  "svg_file": "Kunmadaras Motorsport.svg",
+  "gps_points": [
+    {
+      "lat": 47.3943015,
+      "lon": 20.7920655,
+      "alt_m": 85.0
+    },
+    {
+      "lat": 47.3921578,
+      "lon": 20.7875054,
+      "alt_m": 85.0
+    }
+  ]
+}

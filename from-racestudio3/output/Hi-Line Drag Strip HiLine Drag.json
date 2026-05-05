@@ -1,0 +1,51 @@
+{
+  "source_file": "174cmq5m.tkk",
+  "full_name": "Hi-Line Drag Strip HiLine Drag",
+  "name": "Hi-Line Drag Strip",
+  "venue_id": "174cmq5m",
+  "short_name": "HiLine Drag",
+  "country": "US",
+  "track_length_m": 217.0,
+  "reference_point": {
+    "lat": 48.3489853,
+    "lon": -107.8805714,
+    "alt_m": 687.0
+  },
+  "start_finish": {
+    "lat": 48.3489908,
+    "lon": -107.8792069
+  },
+  "surface": "asphalt",
+  "timezone": "America/Denver",
+  "timezone_label": "(UTC-07:00) Mountain Time (US & Canada)",
+  "contact": {
+    "city": "Malta",
+    "address": "Highway 191 South of Malta, West of National Guard 1320 Power Lane",
+    "postal_code": "59538",
+    "url": "http://www.pcmotorsports.org/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 48.348937,
+      "lon": -107.8791031
+    },
+    "p2": {
+      "lat": 48.3490454,
+      "lon": -107.8791041
+    }
+  },
+  "logo_file": "Hi-Line Drag Strip HiLine Drag_logo.png",
+  "svg_file": "Hi-Line Drag Strip HiLine Drag.svg",
+  "gps_points": [
+    {
+      "lat": 48.3489912,
+      "lon": -107.8791036,
+      "alt_m": 687.0
+    },
+    {
+      "lat": 48.3489794,
+      "lon": -107.8820391,
+      "alt_m": 691.0
+    }
+  ]
+}

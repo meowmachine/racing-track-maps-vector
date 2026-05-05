@@ -1,0 +1,52 @@
+{
+  "source_file": "171h4lnt.tkk",
+  "full_name": "Emerald Coast Dragway EmeraldCoast",
+  "name": "Emerald Coast Dragway",
+  "venue_id": "171h4lnt",
+  "short_name": "EmeraldCoast",
+  "country": "US",
+  "track_length_m": 216.8,
+  "reference_point": {
+    "lat": 30.6864573,
+    "lon": -86.7902546,
+    "alt_m": 60.0
+  },
+  "start_finish": {
+    "lat": 30.6861533,
+    "lon": -86.791247
+  },
+  "surface": "asphalt",
+  "timezone": "America/Chicago",
+  "timezone_label": "(UTC-06:00) Central Time (US & Canada)",
+  "contact": {
+    "city": "Holt",
+    "address": "7134 Garner Landing Road",
+    "postal_code": "32564",
+    "phone": "+1 850 603 3991",
+    "url": "https://raceecd.com/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 30.6861784,
+      "lon": -86.7913421
+    },
+    "p2": {
+      "lat": 30.6860822,
+      "lon": -86.7913023
+    }
+  },
+  "logo_file": "Emerald Coast Dragway EmeraldCoast_logo.png",
+  "svg_file": "Emerald Coast Dragway EmeraldCoast.svg",
+  "gps_points": [
+    {
+      "lat": 30.6861303,
+      "lon": -86.7913222,
+      "alt_m": 59.0
+    },
+    {
+      "lat": 30.6867842,
+      "lon": -86.7891869,
+      "alt_m": 60.0
+    }
+  ]
+}

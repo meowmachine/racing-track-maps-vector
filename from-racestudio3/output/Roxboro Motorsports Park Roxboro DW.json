@@ -1,0 +1,52 @@
+{
+  "source_file": "174cuvzv.tkk",
+  "full_name": "Roxboro Motorsports Park Roxboro DW",
+  "name": "Roxboro Motorsports Park",
+  "venue_id": "174cuvzv",
+  "short_name": "Roxboro DW",
+  "country": "US",
+  "track_length_m": 217.9,
+  "reference_point": {
+    "lat": 36.3531075,
+    "lon": -78.8170838,
+    "alt_m": 162.0
+  },
+  "start_finish": {
+    "lat": 36.353992,
+    "lon": -78.8168161
+  },
+  "surface": "asphalt",
+  "timezone": "America/New_York",
+  "timezone_label": "(UTC-05:00) Eastern Time (US & Canada)",
+  "contact": {
+    "city": "Timberlake",
+    "address": "1452 Thomas Store Road",
+    "postal_code": "27583",
+    "phone": "+1 336 364 1280",
+    "url": "http://www.roxboromotorsportspark.com/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 36.3540465,
+      "lon": -78.816732
+    },
+    "p2": {
+      "lat": 36.3540715,
+      "lon": -78.8168596
+    }
+  },
+  "logo_file": "Roxboro Motorsports Park Roxboro DW_logo.png",
+  "svg_file": "Roxboro Motorsports Park Roxboro DW.svg",
+  "gps_points": [
+    {
+      "lat": 36.354059,
+      "lon": -78.8167958,
+      "alt_m": 165.0
+    },
+    {
+      "lat": 36.352156,
+      "lon": -78.8173717,
+      "alt_m": 168.0
+    }
+  ]
+}

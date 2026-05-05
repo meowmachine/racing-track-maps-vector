@@ -1,0 +1,52 @@
+{
+  "source_file": "174vyorj.tkk",
+  "full_name": "Elk Creek Dragway ElkCreek DW",
+  "name": "Elk Creek Dragway",
+  "venue_id": "174vyorj",
+  "short_name": "ElkCreek DW",
+  "country": "US",
+  "track_length_m": 217.3,
+  "reference_point": {
+    "lat": 36.7248552,
+    "lon": -81.1771843,
+    "alt_m": 786.0
+  },
+  "start_finish": {
+    "lat": 36.723985,
+    "lon": -81.1768602
+  },
+  "surface": "asphalt",
+  "timezone": "America/New_York",
+  "timezone_label": "(UTC-05:00) Eastern Time (US & Canada)",
+  "contact": {
+    "city": "Elk Creek",
+    "address": "711 Victory Lane",
+    "postal_code": "24326",
+    "phone": "+1 276 655 4551",
+    "url": "http://www.elkcreekdragway.com/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 36.7239042,
+      "lon": -81.1768979
+    },
+    "p2": {
+      "lat": 36.723934,
+      "lon": -81.1767735
+    }
+  },
+  "logo_file": null,
+  "svg_file": "Elk Creek Dragway ElkCreek DW.svg",
+  "gps_points": [
+    {
+      "lat": 36.7239191,
+      "lon": -81.1768357,
+      "alt_m": 786.0
+    },
+    {
+      "lat": 36.7257912,
+      "lon": -81.1775329,
+      "alt_m": 790.0
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "source_file": "171kqk8j.tkk",
+  "full_name": "Western Colorado Dragway WCDRA",
+  "name": "Western Colorado Dragway",
+  "venue_id": "171kqk8j",
+  "short_name": "WCDRA",
+  "country": "US",
+  "track_length_m": 417.6,
+  "reference_point": {
+    "lat": 39.0152785,
+    "lon": -108.4633563,
+    "alt_m": 1526.0
+  },
+  "start_finish": {
+    "lat": 39.0152836,
+    "lon": -108.4656843
+  },
+  "surface": "asphalt",
+  "timezone": "America/Denver",
+  "timezone_label": "(UTC-07:00) Mountain Time (US & Canada)",
+  "contact": {
+    "city": "Grand Junction",
+    "address": "3235 Whitewater Hill Road",
+    "postal_code": "81503",
+    "phone": "+1 970 243 9022",
+    "url": "http://wcdra.com/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 39.0153881,
+      "lon": -108.4657721
+    },
+    "p2": {
+      "lat": 39.0151795,
+      "lon": -108.4657729
+    }
+  },
+  "logo_file": null,
+  "svg_file": "Western Colorado Dragway WCDRA.svg",
+  "gps_points": [
+    {
+      "lat": 39.0152838,
+      "lon": -108.4657725,
+      "alt_m": 1524.0
+    },
+    {
+      "lat": 39.0152732,
+      "lon": -108.46094,
+      "alt_m": 1526.0
+    }
+  ]
+}

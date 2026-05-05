@@ -1,0 +1,52 @@
+{
+  "source_file": "174c9opj.tkk",
+  "full_name": "Onondaga Dragway Onondaga DW",
+  "name": "Onondaga Dragway",
+  "venue_id": "174c9opj",
+  "short_name": "Onondaga DW",
+  "country": "US",
+  "track_length_m": 217.5,
+  "reference_point": {
+    "lat": 42.4522587,
+    "lon": -84.5080774,
+    "alt_m": 293.0
+  },
+  "start_finish": {
+    "lat": 42.4514787,
+    "lon": -84.5074455
+  },
+  "surface": "asphalt",
+  "timezone": "America/Detroit",
+  "timezone_label": "(UTC-05:00) Eastern Time (US & Canada)",
+  "contact": {
+    "city": "Onondaga",
+    "address": "4186 Bellevue Road",
+    "postal_code": "49264",
+    "phone": "+1 517 206 3061",
+    "url": "http://www.onondagadragway.com/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 42.4513957,
+      "lon": -84.5074518
+    },
+    "p2": {
+      "lat": 42.4514435,
+      "lon": -84.5073434
+    }
+  },
+  "logo_file": null,
+  "svg_file": "Onondaga Dragway Onondaga DW.svg",
+  "gps_points": [
+    {
+      "lat": 42.4514196,
+      "lon": -84.5073976,
+      "alt_m": 293.0
+    },
+    {
+      "lat": 42.4530978,
+      "lon": -84.5087571,
+      "alt_m": 293.0
+    }
+  ]
+}

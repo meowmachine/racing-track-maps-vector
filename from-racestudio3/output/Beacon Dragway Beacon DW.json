@@ -1,0 +1,52 @@
+{
+  "source_file": "174btw9p.tkk",
+  "full_name": "Beacon Dragway Beacon DW",
+  "name": "Beacon Dragway",
+  "venue_id": "174btw9p",
+  "short_name": "Beacon DW",
+  "country": "US",
+  "track_length_m": 217.0,
+  "reference_point": {
+    "lat": 36.9694189,
+    "lon": -88.5627222,
+    "alt_m": 101.0
+  },
+  "start_finish": {
+    "lat": 36.970036,
+    "lon": -88.5618904
+  },
+  "surface": "asphalt",
+  "timezone": "America/Chicago",
+  "timezone_label": "(UTC-06:00) Central Time (US & Canada)",
+  "contact": {
+    "city": "Paducah",
+    "address": "4460 Shemwell Lane",
+    "postal_code": "42003",
+    "phone": "+1 270 898 8100",
+    "url": "http://beacondragway.com/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 36.9700537,
+      "lon": -88.5617936
+    },
+    "p2": {
+      "lat": 36.9701119,
+      "lon": -88.5618612
+    }
+  },
+  "logo_file": "Beacon Dragway Beacon DW_logo.png",
+  "svg_file": "Beacon Dragway Beacon DW.svg",
+  "gps_points": [
+    {
+      "lat": 36.9700828,
+      "lon": -88.5618274,
+      "alt_m": 101.0
+    },
+    {
+      "lat": 36.968755,
+      "lon": -88.5636169,
+      "alt_m": 99.0
+    }
+  ]
+}

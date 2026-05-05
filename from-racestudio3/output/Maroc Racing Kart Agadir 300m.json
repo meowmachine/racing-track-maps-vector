@@ -1,0 +1,182 @@
+{
+  "source_file": "0s61i7gp.tkk",
+  "full_name": "Maroc Racing Kart Agadir 300m",
+  "name": "Maroc Racing Kart Agadir 300m",
+  "venue_id": "0s61i7gp",
+  "short_name": "Agadir 300",
+  "country": "MA",
+  "track_length_m": 226.9,
+  "reference_point": {
+    "lat": 30.431853,
+    "lon": -9.5440891,
+    "alt_m": 149.0
+  },
+  "start_finish": {
+    "lat": 30.4319939,
+    "lon": -9.544084
+  },
+  "surface": "asphalt",
+  "timezone": "Africa/Casablanca",
+  "timezone_label": "(UTC+01:00) Casablanca",
+  "contact": {
+    "city": "Agadir",
+    "address": "Hay Mohammadi Face Au Nouveau Stade d'Agadir",
+    "postal_code": "80000",
+    "phone": "+212 5282-30702",
+    "url": "http://mrkagadir.com/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 30.4320099,
+      "lon": -9.544097
+    },
+    "p2": {
+      "lat": 30.4319779,
+      "lon": -9.544071
+    }
+  },
+  "logo_file": "Maroc Racing Kart Agadir 300m_logo.png",
+  "svg_file": "Maroc Racing Kart Agadir 300m.svg",
+  "gps_points": [
+    {
+      "lat": 30.4319939,
+      "lon": -9.544084,
+      "alt_m": 149.0
+    },
+    {
+      "lat": 30.4321099,
+      "lon": -9.5438924,
+      "alt_m": 149.0
+    },
+    {
+      "lat": 30.4321441,
+      "lon": -9.5438301,
+      "alt_m": 149.0
+    },
+    {
+      "lat": 30.432176,
+      "lon": -9.5437685,
+      "alt_m": 149.0
+    },
+    {
+      "lat": 30.4321807,
+      "lon": -9.5437247,
+      "alt_m": 149.0
+    },
+    {
+      "lat": 30.4321689,
+      "lon": -9.5436905,
+      "alt_m": 149.0
+    },
+    {
+      "lat": 30.4321335,
+      "lon": -9.5436809,
+      "alt_m": 149.0
+    },
+    {
+      "lat": 30.4320993,
+      "lon": -9.5436905,
+      "alt_m": 149.0
+    },
+    {
+      "lat": 30.4320556,
+      "lon": -9.5437178,
+      "alt_m": 149.0
+    },
+    {
+      "lat": 30.4320108,
+      "lon": -9.5437329,
+      "alt_m": 149.0
+    },
+    {
+      "lat": 30.4319494,
+      "lon": -9.5437534,
+      "alt_m": 149.0
+    },
+    {
+      "lat": 30.4318892,
+      "lon": -9.5437918,
+      "alt_m": 149.0
+    },
+    {
+      "lat": 30.4317783,
+      "lon": -9.5438657,
+      "alt_m": 149.0
+    },
+    {
+      "lat": 30.4317098,
+      "lon": -9.5439382,
+      "alt_m": 149.0
+    },
+    {
+      "lat": 30.4316473,
+      "lon": -9.5440504,
+      "alt_m": 149.0
+    },
+    {
+      "lat": 30.4315918,
+      "lon": -9.5441695,
+      "alt_m": 149.0
+    },
+    {
+      "lat": 30.4315573,
+      "lon": -9.5442483,
+      "alt_m": 149.0
+    },
+    {
+      "lat": 30.431532,
+      "lon": -9.544321,
+      "alt_m": 149.0
+    },
+    {
+      "lat": 30.4315253,
+      "lon": -9.5443813,
+      "alt_m": 149.0
+    },
+    {
+      "lat": 30.4315347,
+      "lon": -9.544437,
+      "alt_m": 149.0
+    },
+    {
+      "lat": 30.431564,
+      "lon": -9.5444725,
+      "alt_m": 149.0
+    },
+    {
+      "lat": 30.4316053,
+      "lon": -9.5444926,
+      "alt_m": 149.0
+    },
+    {
+      "lat": 30.4316573,
+      "lon": -9.5444973,
+      "alt_m": 149.0
+    },
+    {
+      "lat": 30.4317013,
+      "lon": -9.5444849,
+      "alt_m": 149.0
+    },
+    {
+      "lat": 30.431756,
+      "lon": -9.5444524,
+      "alt_m": 149.0
+    },
+    {
+      "lat": 30.4318027,
+      "lon": -9.5444014,
+      "alt_m": 149.0
+    },
+    {
+      "lat": 30.4318533,
+      "lon": -9.5443163,
+      "alt_m": 149.0
+    },
+    {
+      "lat": 30.4319939,
+      "lon": -9.544084,
+      "alt_m": 149.0
+    }
+  ]
+}

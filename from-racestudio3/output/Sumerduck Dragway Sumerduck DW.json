@@ -1,0 +1,52 @@
+{
+  "source_file": "174w168j.tkk",
+  "full_name": "Sumerduck Dragway Sumerduck DW",
+  "name": "Sumerduck Dragway",
+  "venue_id": "174w168j",
+  "short_name": "Sumerduck DW",
+  "country": "US",
+  "track_length_m": 217.5,
+  "reference_point": {
+    "lat": 38.4576063,
+    "lon": -77.7039256,
+    "alt_m": 93.0
+  },
+  "start_finish": {
+    "lat": 38.4580493,
+    "lon": -77.7029124
+  },
+  "surface": "asphalt",
+  "timezone": "America/New_York",
+  "timezone_label": "(UTC-05:00) Eastern Time (US & Canada)",
+  "contact": {
+    "city": "Sumerduck",
+    "address": "14027 Royalls Mill Road",
+    "postal_code": "22742",
+    "phone": "+1 540 439 8080",
+    "url": "http://www.sumerduckdragway.com/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 38.4580415,
+      "lon": -77.7028061
+    },
+    "p2": {
+      "lat": 38.4581243,
+      "lon": -77.7028651
+    }
+  },
+  "logo_file": "Sumerduck Dragway Sumerduck DW_logo.png",
+  "svg_file": "Sumerduck Dragway Sumerduck DW.svg",
+  "gps_points": [
+    {
+      "lat": 38.4580829,
+      "lon": -77.7028356,
+      "alt_m": 95.0
+    },
+    {
+      "lat": 38.4571297,
+      "lon": -77.7050156,
+      "alt_m": 90.0
+    }
+  ]
+}

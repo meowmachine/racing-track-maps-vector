@@ -1,0 +1,52 @@
+{
+  "source_file": "174vhduw.tkk",
+  "full_name": "Xtreme Raceway Park Xtreme DW",
+  "name": "Xtreme Raceway Park",
+  "venue_id": "174vhduw",
+  "short_name": "Xtreme DW",
+  "country": "US",
+  "track_length_m": 216.6,
+  "reference_point": {
+    "lat": 32.4931575,
+    "lon": -96.6616652,
+    "alt_m": 141.0
+  },
+  "start_finish": {
+    "lat": 32.4927001,
+    "lon": -96.6625911
+  },
+  "surface": "asphalt",
+  "timezone": "America/Chicago",
+  "timezone_label": "(UTC-06:00) Central Time (US & Canada)",
+  "contact": {
+    "city": "Ferris",
+    "address": "1800 S Interstate 45 Service Road",
+    "postal_code": "75125",
+    "phone": "+1 972 544 3724",
+    "url": "https://www.xtremeracewaypark.com/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 32.4927057,
+      "lon": -96.6626892
+    },
+    "p2": {
+      "lat": 32.4926251,
+      "lon": -96.6626332
+    }
+  },
+  "logo_file": "Xtreme Raceway Park Xtreme DW_logo.png",
+  "svg_file": "Xtreme Raceway Park Xtreme DW.svg",
+  "gps_points": [
+    {
+      "lat": 32.4926654,
+      "lon": -96.6626612,
+      "alt_m": 141.0
+    },
+    {
+      "lat": 32.4936496,
+      "lon": -96.6606691,
+      "alt_m": 141.0
+    }
+  ]
+}

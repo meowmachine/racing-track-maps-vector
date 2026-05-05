@@ -1,0 +1,52 @@
+{
+  "source_file": "174sj7h9.tkk",
+  "full_name": "Keystone Raceway Park Keystone DW",
+  "name": "Keystone Raceway Park",
+  "venue_id": "174sj7h9",
+  "short_name": "Keystone DW",
+  "country": "US",
+  "track_length_m": 419.2,
+  "reference_point": {
+    "lat": 40.4042594,
+    "lon": -79.3968843,
+    "alt_m": 360.0
+  },
+  "start_finish": {
+    "lat": 40.4060649,
+    "lon": -79.3971372
+  },
+  "surface": "asphalt",
+  "timezone": "America/New_York",
+  "timezone_label": "(UTC-05:00) Eastern Time (US & Canada)",
+  "contact": {
+    "city": "New Alexandria",
+    "address": "538 Stone Jug Road",
+    "postal_code": "15670",
+    "phone": "+1 724 668 7600",
+    "url": "http://keystoneracewaypark.com/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 40.4061443,
+      "lon": -79.3970109
+    },
+    "p2": {
+      "lat": 40.4061223,
+      "lon": -79.3972827
+    }
+  },
+  "logo_file": "Keystone Raceway Park Keystone DW_logo.png",
+  "svg_file": "Keystone Raceway Park Keystone DW.svg",
+  "gps_points": [
+    {
+      "lat": 40.4061333,
+      "lon": -79.3971468,
+      "alt_m": 361.0
+    },
+    {
+      "lat": 40.4023854,
+      "lon": -79.3966219,
+      "alt_m": 357.0
+    }
+  ]
+}

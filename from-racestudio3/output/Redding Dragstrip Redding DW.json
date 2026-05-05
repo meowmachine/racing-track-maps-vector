@@ -1,0 +1,52 @@
+{
+  "source_file": "171keywr.tkk",
+  "full_name": "Redding Dragstrip Redding DW",
+  "name": "Redding Dragstrip",
+  "venue_id": "171keywr",
+  "short_name": "Redding DW",
+  "country": "US",
+  "track_length_m": 419.4,
+  "reference_point": {
+    "lat": 40.5119479,
+    "lon": -122.2894994,
+    "alt_m": 149.0
+  },
+  "start_finish": {
+    "lat": 40.5136497,
+    "lon": -122.2903353
+  },
+  "surface": "asphalt",
+  "timezone": "America/Los_Angeles",
+  "timezone_label": "(UTC-08:00) Pacific Time (US & Canada)",
+  "contact": {
+    "city": "Redding",
+    "address": "6750 Old Oregon Trail",
+    "postal_code": "96002",
+    "phone": "+1 530 215 3003",
+    "url": "https://www.reddingdragstrip.info/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 40.5137485,
+      "lon": -122.2902461
+    },
+    "p2": {
+      "lat": 40.5136799,
+      "lon": -122.2904879
+    }
+  },
+  "logo_file": "Redding Dragstrip Redding DW_logo.png",
+  "svg_file": "Redding Dragstrip Redding DW.svg",
+  "gps_points": [
+    {
+      "lat": 40.5137142,
+      "lon": -122.290367,
+      "alt_m": 150.0
+    },
+    {
+      "lat": 40.5101815,
+      "lon": -122.2886318,
+      "alt_m": 150.0
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "source_file": "173p7mso.tkk",
+  "full_name": "M.H.D.R.A. Raceway MHDRA DW",
+  "name": "M.H.D.R.A. Raceway",
+  "venue_id": "173p7mso",
+  "short_name": "MHDRA DW",
+  "country": "CA",
+  "track_length_m": 420.5,
+  "reference_point": {
+    "lat": 50.095068,
+    "lon": -110.748405,
+    "alt_m": 730.0
+  },
+  "start_finish": {
+    "lat": 50.0950652,
+    "lon": -110.7512111
+  },
+  "surface": "asphalt",
+  "timezone": "America/Edmonton",
+  "timezone_label": "(UTC-07:00) Mountain Time (US & Canada)",
+  "contact": {
+    "city": "Medicine Hat",
+    "address": "3271 Dunmore Road SE",
+    "postal_code": "T1B-3R2",
+    "phone": "+1 403 548 7061",
+    "url": "https://www.mhdra.com/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 50.0951701,
+      "lon": -110.7513517
+    },
+    "p2": {
+      "lat": 50.0949601,
+      "lon": -110.7513511
+    }
+  },
+  "logo_file": "M.H.D.R.A. Raceway MHDRA DW_logo.png",
+  "svg_file": "M.H.D.R.A. Raceway MHDRA DW.svg",
+  "gps_points": [
+    {
+      "lat": 50.0950651,
+      "lon": -110.7513514,
+      "alt_m": 731.0
+    },
+    {
+      "lat": 50.0950709,
+      "lon": -110.7454586,
+      "alt_m": 728.0
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "source_file": "173pq37k.tkk",
+  "full_name": "Woodburn Dragstrip Woodburn DW",
+  "name": "Woodburn Dragstrip",
+  "venue_id": "173pq37k",
+  "short_name": "Woodburn DW",
+  "country": "US",
+  "track_length_m": 419.4,
+  "reference_point": {
+    "lat": 45.1541463,
+    "lon": -122.9076405,
+    "alt_m": 55.0
+  },
+  "start_finish": {
+    "lat": 45.1558869,
+    "lon": -122.9069034
+  },
+  "surface": "asphalt",
+  "timezone": "America/Los_Angeles",
+  "timezone_label": "(UTC-08:00) Pacific Time (US & Canada)",
+  "contact": {
+    "city": "Woodburn",
+    "address": "7730 Hwy 219 NE",
+    "postal_code": "97071",
+    "phone": "+1 503 982 4461",
+    "url": "https://www.woodburndragstrip.com/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 45.1559241,
+      "lon": -122.9067391
+    },
+    "p2": {
+      "lat": 45.1559815,
+      "lon": -122.9070119
+    }
+  },
+  "logo_file": "Woodburn Dragstrip Woodburn DW_logo.png",
+  "svg_file": "Woodburn Dragstrip Woodburn DW.svg",
+  "gps_points": [
+    {
+      "lat": 45.1559528,
+      "lon": -122.9068755,
+      "alt_m": 54.0
+    },
+    {
+      "lat": 45.1523398,
+      "lon": -122.9084054,
+      "alt_m": 55.0
+    }
+  ]
+}

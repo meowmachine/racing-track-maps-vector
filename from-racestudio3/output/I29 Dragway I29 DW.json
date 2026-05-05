@@ -1,0 +1,52 @@
+{
+  "source_file": "1725nugo.tkk",
+  "full_name": "I29 Dragway I29 DW",
+  "name": "I29 Dragway",
+  "venue_id": "1725nugo",
+  "short_name": "I29 DW",
+  "country": "US",
+  "track_length_m": 217.9,
+  "reference_point": {
+    "lat": 41.0260967,
+    "lon": -95.8215771,
+    "alt_m": 288.0
+  },
+  "start_finish": {
+    "lat": 41.0251859,
+    "lon": -95.8215728
+  },
+  "surface": "asphalt",
+  "timezone": "America/Chicago",
+  "timezone_label": "(UTC-06:00) Central Time (US & Canada)",
+  "contact": {
+    "city": "Pacific Junction",
+    "address": "19340 Jesup Avenue",
+    "postal_code": "51561",
+    "phone": "+1 402 306 5015",
+    "url": "http://i29dragway.com/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 41.0251167,
+      "lon": -95.8216446
+    },
+    "p2": {
+      "lat": 41.0251171,
+      "lon": -95.8215004
+    }
+  },
+  "logo_file": "I29 Dragway I29 DW_logo.png",
+  "svg_file": "I29 Dragway I29 DW.svg",
+  "gps_points": [
+    {
+      "lat": 41.0251169,
+      "lon": -95.8215725,
+      "alt_m": 288.0
+    },
+    {
+      "lat": 41.0270764,
+      "lon": -95.8215817,
+      "alt_m": 288.0
+    }
+  ]
+}

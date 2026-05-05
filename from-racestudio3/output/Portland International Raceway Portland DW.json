@@ -1,0 +1,52 @@
+{
+  "source_file": "173pp8w3.tkk",
+  "full_name": "Portland International Raceway Portland DW",
+  "name": "Portland International Raceway",
+  "venue_id": "173pp8w3",
+  "short_name": "Portland DW",
+  "country": "US",
+  "track_length_m": 417.9,
+  "reference_point": {
+    "lat": 45.5939284,
+    "lon": -122.6904694,
+    "alt_m": 1.0
+  },
+  "start_finish": {
+    "lat": 45.5932712,
+    "lon": -122.6880589
+  },
+  "surface": "asphalt",
+  "timezone": "America/Los_Angeles",
+  "timezone_label": "(UTC-08:00) Pacific Time (US & Canada)",
+  "contact": {
+    "city": "Portland",
+    "address": "1940 N Victory Boulevard",
+    "postal_code": "97217",
+    "phone": "+1 503 823 7223",
+    "url": "https://www.portlandraceway.com/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 45.5931557,
+      "lon": -122.6880181
+    },
+    "p2": {
+      "lat": 45.5933369,
+      "lon": -122.6879171
+    }
+  },
+  "logo_file": "Portland International Raceway Portland DW_logo.png",
+  "svg_file": "Portland International Raceway Portland DW.svg",
+  "gps_points": [
+    {
+      "lat": 45.5932463,
+      "lon": -122.6879676,
+      "alt_m": 2.0
+    },
+    {
+      "lat": 45.5946104,
+      "lon": -122.6929712,
+      "alt_m": 1.0
+    }
+  ]
+}

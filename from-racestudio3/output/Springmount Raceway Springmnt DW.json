@@ -1,0 +1,51 @@
+{
+  "source_file": "175dpqkt.tkk",
+  "full_name": "Springmount Raceway Springmnt DW",
+  "name": "Springmount Raceway",
+  "venue_id": "175dpqkt",
+  "short_name": "Springmnt DW",
+  "country": "AU",
+  "track_length_m": 419.4,
+  "reference_point": {
+    "lat": -17.1329765,
+    "lon": 145.3428643,
+    "alt_m": 548.0
+  },
+  "start_finish": {
+    "lat": -17.1340332,
+    "lon": 145.3444104
+  },
+  "surface": "asphalt",
+  "timezone": "Australia/Brisbane",
+  "timezone_label": "(UTC+10:00) Brisbane",
+  "contact": {
+    "city": "Arriga",
+    "address": "Genocchio Road",
+    "postal_code": "4880",
+    "url": "http://www.springmountraceway.com/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": -17.1341425,
+      "lon": 145.3444171
+    },
+    "p2": {
+      "lat": -17.1340039,
+      "lon": 145.3445209
+    }
+  },
+  "logo_file": "Springmount Raceway Springmnt DW_logo.png",
+  "svg_file": "Springmount Raceway Springmnt DW.svg",
+  "gps_points": [
+    {
+      "lat": -17.1340732,
+      "lon": 145.344469,
+      "alt_m": 550.0
+    },
+    {
+      "lat": -17.1318798,
+      "lon": 145.3412596,
+      "alt_m": 547.0
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="800.0" height="428.9"
+     viewBox="0 0 800.0 428.9">
+  <rect width="100%" height="100%" fill="#1a1a2e"/>
+  <!-- Track outline -->
+  <polyline points="760.00,388.92 40.00,40.00"
+        fill="none"
+        stroke="#e94560"
+        stroke-width="8.0"
+        stroke-linejoin="round"
+        stroke-linecap="round"/>
+  <!-- Start/finish line -->
+  <line x1="751.28" y1="406.92" x2="768.72" y2="370.93"
+        stroke="#f5f5f5" stroke-width="9.6"
+        stroke-linecap="round"/>
+</svg>

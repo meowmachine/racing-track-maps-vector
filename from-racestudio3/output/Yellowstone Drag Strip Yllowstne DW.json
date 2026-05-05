@@ -1,0 +1,52 @@
+{
+  "source_file": "173piyr9.tkk",
+  "full_name": "Yellowstone Drag Strip Yllowstne DW",
+  "name": "Yellowstone Drag Strip",
+  "venue_id": "173piyr9",
+  "short_name": "Yllowstne DW",
+  "country": "US",
+  "track_length_m": 417.9,
+  "reference_point": {
+    "lat": 45.9345972,
+    "lon": -108.7510903,
+    "alt_m": 1157.0
+  },
+  "start_finish": {
+    "lat": 45.9346095,
+    "lon": -108.7536929
+  },
+  "surface": "asphalt",
+  "timezone": "America/Denver",
+  "timezone_label": "(UTC-07:00) Mountain Time (US & Canada)",
+  "contact": {
+    "city": "Acton",
+    "address": "8405 Raceway Lane",
+    "postal_code": "59002",
+    "phone": "+1 406 669 3300",
+    "url": "http://www.yellowstonedragstrip.com/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 45.9347144,
+      "lon": -108.7537905
+    },
+    "p2": {
+      "lat": 45.9345056,
+      "lon": -108.7537925
+    }
+  },
+  "logo_file": null,
+  "svg_file": "Yellowstone Drag Strip Yllowstne DW.svg",
+  "gps_points": [
+    {
+      "lat": 45.93461,
+      "lon": -108.7537915,
+      "alt_m": 1158.0
+    },
+    {
+      "lat": 45.9345844,
+      "lon": -108.7483891,
+      "alt_m": 1153.0
+    }
+  ]
+}

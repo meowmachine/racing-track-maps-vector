@@ -1,0 +1,52 @@
+{
+  "source_file": "173pobi6.tkk",
+  "full_name": "Medford Dragstrip Medford DW",
+  "name": "Medford Dragstrip",
+  "venue_id": "173pobi6",
+  "short_name": "Medford DW",
+  "country": "US",
+  "track_length_m": 419.3,
+  "reference_point": {
+    "lat": 42.418768,
+    "lon": -122.801033,
+    "alt_m": 428.0
+  },
+  "start_finish": {
+    "lat": 42.420547,
+    "lon": -122.8015288
+  },
+  "surface": "asphalt",
+  "timezone": "America/Los_Angeles",
+  "timezone_label": "(UTC-08:00) Pacific Time (US & Canada)",
+  "contact": {
+    "city": "Central Point",
+    "address": "6900 Kershaw Road",
+    "postal_code": "97502",
+    "phone": "+1 541 531 8665",
+    "url": "https://medforddragstrip.com/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 42.420635,
+      "lon": -122.8014115
+    },
+    "p2": {
+      "lat": 42.4205936,
+      "lon": -122.8016837
+    }
+  },
+  "logo_file": "Medford Dragstrip Medford DW_logo.png",
+  "svg_file": "Medford Dragstrip Medford DW.svg",
+  "gps_points": [
+    {
+      "lat": 42.4206143,
+      "lon": -122.8015476,
+      "alt_m": 428.0
+    },
+    {
+      "lat": 42.4169216,
+      "lon": -122.8005183,
+      "alt_m": 431.0
+    }
+  ]
+}

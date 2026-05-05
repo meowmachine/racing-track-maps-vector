@@ -1,0 +1,52 @@
+{
+  "source_file": "174celi4.tkk",
+  "full_name": "Holly Springs Motorsports HollySprngDW",
+  "name": "Holly Springs Motorsports",
+  "venue_id": "174celi4",
+  "short_name": "HollySprngDW",
+  "country": "US",
+  "track_length_m": 218.1,
+  "reference_point": {
+    "lat": 34.7357146,
+    "lon": -89.4536667,
+    "alt_m": 156.0
+  },
+  "start_finish": {
+    "lat": 34.7348032,
+    "lon": -89.4536885
+  },
+  "surface": "asphalt",
+  "timezone": "America/Chicago",
+  "timezone_label": "(UTC-06:00) Central Time (US & Canada)",
+  "contact": {
+    "city": "Holly Springs",
+    "address": "159 Old Hwy 7 South",
+    "postal_code": "38635",
+    "phone": "+1 662 252 5600",
+    "url": "https://hollyspringsmotorsports.net/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 34.7347353,
+      "lon": -89.4537564
+    },
+    "p2": {
+      "lat": 34.7347331,
+      "lon": -89.4536238
+    }
+  },
+  "logo_file": "Holly Springs Motorsports HollySprngDW_logo.png",
+  "svg_file": "Holly Springs Motorsports HollySprngDW.svg",
+  "gps_points": [
+    {
+      "lat": 34.7347342,
+      "lon": -89.4536901,
+      "alt_m": 156.0
+    },
+    {
+      "lat": 34.7366949,
+      "lon": -89.4536433,
+      "alt_m": 156.0
+    }
+  ]
+}

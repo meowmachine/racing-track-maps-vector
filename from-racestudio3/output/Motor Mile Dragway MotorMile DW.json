@@ -1,0 +1,52 @@
+{
+  "source_file": "174vz945.tkk",
+  "full_name": "Motor Mile Dragway MotorMile DW",
+  "name": "Motor Mile Dragway",
+  "venue_id": "174vz945",
+  "short_name": "MotorMile DW",
+  "country": "US",
+  "track_length_m": 217.5,
+  "reference_point": {
+    "lat": 37.1422028,
+    "lon": -80.6129225,
+    "alt_m": 574.0
+  },
+  "start_finish": {
+    "lat": 37.142008,
+    "lon": -80.611809
+  },
+  "surface": "asphalt",
+  "timezone": "America/New_York",
+  "timezone_label": "(UTC-05:00) Eastern Time (US & Canada)",
+  "contact": {
+    "city": "Fairlawn",
+    "address": "6749 Lee Highway",
+    "postal_code": "24141",
+    "phone": "+1 540 639 1700",
+    "url": "https://www.motormiledragway.com/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 37.1419414,
+      "lon": -80.6117389
+    },
+    "p2": {
+      "lat": 37.142045,
+      "lon": -80.6117103
+    }
+  },
+  "logo_file": "Motor Mile Dragway MotorMile DW_logo.png",
+  "svg_file": "Motor Mile Dragway MotorMile DW.svg",
+  "gps_points": [
+    {
+      "lat": 37.1419932,
+      "lon": -80.6117246,
+      "alt_m": 574.0
+    },
+    {
+      "lat": 37.1424124,
+      "lon": -80.6141204,
+      "alt_m": 588.0
+    }
+  ]
+}

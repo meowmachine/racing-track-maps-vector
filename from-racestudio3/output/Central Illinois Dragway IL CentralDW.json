@@ -1,0 +1,52 @@
+{
+  "source_file": "174as1yr.tkk",
+  "full_name": "Central Illinois Dragway IL CentralDW",
+  "name": "Central Illinois Dragway",
+  "venue_id": "174as1yr",
+  "short_name": "IL CentralDW",
+  "country": "US",
+  "track_length_m": 217.0,
+  "reference_point": {
+    "lat": 40.2331814,
+    "lon": -90.0537186,
+    "alt_m": 149.0
+  },
+  "start_finish": {
+    "lat": 40.2340281,
+    "lon": -90.0541445
+  },
+  "surface": "asphalt",
+  "timezone": "America/Chicago",
+  "timezone_label": "(UTC-06:00) Central Time (US & Canada)",
+  "contact": {
+    "city": "Havana",
+    "address": "12016 N County Road 1650E",
+    "postal_code": "62644",
+    "phone": "+1 217 502 2575",
+    "url": "http://www.centralillinoisdragway.com/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 40.2341103,
+      "lon": -90.0541149
+    },
+    "p2": {
+      "lat": 40.2340741,
+      "lon": -90.0542387
+    }
+  },
+  "logo_file": "Central Illinois Dragway IL CentralDW_logo.png",
+  "svg_file": "Central Illinois Dragway IL CentralDW.svg",
+  "gps_points": [
+    {
+      "lat": 40.2340922,
+      "lon": -90.0541768,
+      "alt_m": 149.0
+    },
+    {
+      "lat": 40.2322706,
+      "lon": -90.0532604,
+      "alt_m": 148.0
+    }
+  ]
+}

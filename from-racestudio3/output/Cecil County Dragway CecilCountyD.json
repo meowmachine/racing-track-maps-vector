@@ -1,0 +1,52 @@
+{
+  "source_file": "171j470k.tkk",
+  "full_name": "Cecil County Dragway CecilCountyD",
+  "name": "Cecil County Dragway",
+  "venue_id": "171j470k",
+  "short_name": "CecilCountyD",
+  "country": "US",
+  "track_length_m": 418.5,
+  "reference_point": {
+    "lat": 39.6383186,
+    "lon": -75.9894234,
+    "alt_m": 104.0
+  },
+  "start_finish": {
+    "lat": 39.6393449,
+    "lon": -75.9913638
+  },
+  "surface": "asphalt",
+  "timezone": "America/New_York",
+  "timezone_label": "(UTC-05:00) Eastern Time (US & Canada)",
+  "contact": {
+    "city": "Rising Sun",
+    "address": "1916 Theodore Road",
+    "postal_code": "21911",
+    "phone": "+1 410 287 5486",
+    "url": "http://www.cecilcountydragway.com/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 39.6394548,
+      "lon": -75.991374
+    },
+    "p2": {
+      "lat": 39.6393128,
+      "lon": -75.9915006
+    }
+  },
+  "logo_file": "Cecil County Dragway CecilCountyD_logo.png",
+  "svg_file": "Cecil County Dragway CecilCountyD.svg",
+  "gps_points": [
+    {
+      "lat": 39.6393838,
+      "lon": -75.9914373,
+      "alt_m": 105.0
+    },
+    {
+      "lat": 39.6372534,
+      "lon": -75.9874095,
+      "alt_m": 97.0
+    }
+  ]
+}

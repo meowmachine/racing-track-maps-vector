@@ -1,0 +1,52 @@
+{
+  "source_file": "173pmwk3.tkk",
+  "full_name": "Coos Bay Speedway CoosBay DW",
+  "name": "Coos Bay Speedway",
+  "venue_id": "173pmwk3",
+  "short_name": "CoosBay DW",
+  "country": "US",
+  "track_length_m": 217.9,
+  "reference_point": {
+    "lat": 43.2653891,
+    "lon": -124.2339449,
+    "alt_m": 9.0
+  },
+  "start_finish": {
+    "lat": 43.2657379,
+    "lon": -124.2327896
+  },
+  "surface": "asphalt",
+  "timezone": "America/Los_Angeles",
+  "timezone_label": "(UTC-08:00) Pacific Time (US & Canada)",
+  "contact": {
+    "city": "Coos Bay",
+    "address": "94320 Highway 42",
+    "postal_code": "97420",
+    "phone": "+1 541 269 2474",
+    "url": "http://www.coosbayspeedway.us/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 43.2657179,
+      "lon": -124.2326757
+    },
+    "p2": {
+      "lat": 43.2658107,
+      "lon": -124.2327285
+    }
+  },
+  "logo_file": "Coos Bay Speedway CoosBay DW_logo.png",
+  "svg_file": "Coos Bay Speedway CoosBay DW.svg",
+  "gps_points": [
+    {
+      "lat": 43.2657643,
+      "lon": -124.2327021,
+      "alt_m": 8.0
+    },
+    {
+      "lat": 43.2650139,
+      "lon": -124.2351876,
+      "alt_m": 15.0
+    }
+  ]
+}

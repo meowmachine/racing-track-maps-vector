@@ -1,0 +1,52 @@
+{
+  "source_file": "179wpuoo.tkk",
+  "full_name": "Fällfors Raceway Fallfors DW",
+  "name": "Fällfors Raceway",
+  "venue_id": "179wpuoo",
+  "short_name": "Fallfors DW",
+  "country": "SE",
+  "track_length_m": 418.1,
+  "reference_point": {
+    "lat": 65.1064931,
+    "lon": 20.7567667,
+    "alt_m": 0.0
+  },
+  "start_finish": {
+    "lat": 65.1047726,
+    "lon": 20.7581075
+  },
+  "surface": "asphalt",
+  "timezone": "Europe/Stockholm",
+  "timezone_label": "(UTC+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna",
+  "contact": {
+    "city": "Fällfors",
+    "address": "Fällforsheden 5",
+    "postal_code": "93052",
+    "phone": "+46 070 5809197",
+    "url": "http://www.shraskelleftea.se/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 65.1046765,
+      "lon": 20.7579344
+    },
+    "p2": {
+      "lat": 65.1047383,
+      "lon": 20.7583822
+    }
+  },
+  "logo_file": null,
+  "svg_file": "Fällfors Raceway Fallfors DW.svg",
+  "gps_points": [
+    {
+      "lat": 65.1047074,
+      "lon": 20.7581583,
+      "alt_m": -32768.0
+    },
+    {
+      "lat": 65.1082788,
+      "lon": 20.7553751,
+      "alt_m": -32768.0
+    }
+  ]
+}

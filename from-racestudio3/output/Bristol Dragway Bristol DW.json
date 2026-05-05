@@ -1,0 +1,52 @@
+{
+  "source_file": "1721nk36.tkk",
+  "full_name": "Bristol Dragway Bristol DW",
+  "name": "Bristol Dragway",
+  "venue_id": "1721nk36",
+  "short_name": "Bristol DW",
+  "country": "US",
+  "track_length_m": 419.5,
+  "reference_point": {
+    "lat": 36.5178365,
+    "lon": -82.2483837,
+    "alt_m": 454.0
+  },
+  "start_finish": {
+    "lat": 36.5165203,
+    "lon": -82.2499424
+  },
+  "surface": "asphalt",
+  "timezone": "America/New_York",
+  "timezone_label": "(UTC-05:00) Eastern Time (US & Canada)",
+  "contact": {
+    "city": "Bristol",
+    "address": "151 Speedway Boulevard",
+    "postal_code": "37620",
+    "phone": "+1 423 989 6933",
+    "url": "https://www.bristolmotorspeedway.com/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 36.5165227,
+      "lon": -82.2500699
+    },
+    "p2": {
+      "lat": 36.5164181,
+      "lon": -82.2499331
+    }
+  },
+  "logo_file": "Bristol Dragway Bristol DW_logo.png",
+  "svg_file": "Bristol Dragway Bristol DW.svg",
+  "gps_points": [
+    {
+      "lat": 36.5164704,
+      "lon": -82.2500015,
+      "alt_m": 454.0
+    },
+    {
+      "lat": 36.5192026,
+      "lon": -82.2467659,
+      "alt_m": 454.0
+    }
+  ]
+}

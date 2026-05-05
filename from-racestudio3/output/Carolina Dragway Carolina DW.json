@@ -1,0 +1,52 @@
+{
+  "source_file": "1721pegs.tkk",
+  "full_name": "Carolina Dragway Carolina DW",
+  "name": "Carolina Dragway",
+  "venue_id": "1721pegs",
+  "short_name": "Carolina DW",
+  "country": "US",
+  "track_length_m": 419.1,
+  "reference_point": {
+    "lat": 33.361568,
+    "lon": -81.7962903,
+    "alt_m": 92.0
+  },
+  "start_finish": {
+    "lat": 33.3630534,
+    "lon": -81.7975393
+  },
+  "surface": "asphalt",
+  "timezone": "America/New_York",
+  "timezone_label": "(UTC-05:00) Eastern Time (US & Canada)",
+  "contact": {
+    "city": "Aiken",
+    "address": "302 Dragstrip Road",
+    "postal_code": "29803",
+    "phone": "+1 844 471 7223",
+    "url": "http://carolinadragway.com/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 33.3631589,
+      "lon": -81.7975027
+    },
+    "p2": {
+      "lat": 33.3630605,
+      "lon": -81.7976705
+    }
+  },
+  "logo_file": "Carolina Dragway Carolina DW_logo.png",
+  "svg_file": "Carolina Dragway Carolina DW.svg",
+  "gps_points": [
+    {
+      "lat": 33.3631097,
+      "lon": -81.7975866,
+      "alt_m": 91.0
+    },
+    {
+      "lat": 33.3600263,
+      "lon": -81.7949939,
+      "alt_m": 94.0
+    }
+  ]
+}

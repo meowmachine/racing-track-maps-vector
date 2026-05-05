@@ -1,0 +1,52 @@
+{
+  "source_file": "1711ov8p.tkk",
+  "full_name": "Montgomery Motorsports Park MontgomeryMP",
+  "name": "Montgomery Motorsports Park",
+  "venue_id": "1711ov8p",
+  "short_name": "MontgomeryMP",
+  "country": "US",
+  "track_length_m": 418.0,
+  "reference_point": {
+    "lat": 32.4323482,
+    "lon": -86.2500577,
+    "alt_m": 54.0
+  },
+  "start_finish": {
+    "lat": 32.432775,
+    "lon": -86.2521423
+  },
+  "surface": "asphalt",
+  "timezone": "America/Chicago",
+  "timezone_label": "(UTC-06:00) Central Time (US & Canada)",
+  "contact": {
+    "city": "Montgomery",
+    "address": "2600 N. Belt Drive",
+    "postal_code": "36110",
+    "phone": "+1 334 260 9660",
+    "url": "https://www.montgomeryracewaypark.com/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 32.4328898,
+      "lon": -86.2521929
+    },
+    "p2": {
+      "lat": 32.4326926,
+      "lon": -86.2522495
+    }
+  },
+  "logo_file": "Montgomery Motorsports Park MontgomeryMP_logo.png",
+  "svg_file": "Montgomery Motorsports Park MontgomeryMP.svg",
+  "gps_points": [
+    {
+      "lat": 32.4327912,
+      "lon": -86.2522212,
+      "alt_m": 53.0
+    },
+    {
+      "lat": 32.4319052,
+      "lon": -86.2478941,
+      "alt_m": 51.0
+    }
+  ]
+}

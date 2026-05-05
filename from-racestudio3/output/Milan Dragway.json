@@ -1,0 +1,52 @@
+{
+  "source_file": "1722jrvx.tkk",
+  "full_name": "Milan Dragway",
+  "name": "Milan Dragway",
+  "venue_id": "1722jrvx",
+  "short_name": "Milan Drag",
+  "country": "US",
+  "track_length_m": 419.1,
+  "reference_point": {
+    "lat": 42.0336781,
+    "lon": -83.6133568,
+    "alt_m": 202.0
+  },
+  "start_finish": {
+    "lat": 42.0318789,
+    "lon": -83.6136825
+  },
+  "surface": "asphalt",
+  "timezone": "America/Detroit",
+  "timezone_label": "(UTC-05:00) Eastern Time (US & Canada)",
+  "contact": {
+    "city": "Milan",
+    "address": "10860 Plank Road",
+    "postal_code": "48160",
+    "phone": "+1 734 439 7368",
+    "url": "http://milandragway.com/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 42.0318245,
+      "lon": -83.6138332
+    },
+    "p2": {
+      "lat": 42.0317969,
+      "lon": -83.6135564
+    }
+  },
+  "logo_file": "Milan Dragway_logo.png",
+  "svg_file": "Milan Dragway.svg",
+  "gps_points": [
+    {
+      "lat": 42.0318107,
+      "lon": -83.6136948,
+      "alt_m": 203.0
+    },
+    {
+      "lat": 42.0355455,
+      "lon": -83.6130187,
+      "alt_m": 200.0
+    }
+  ]
+}

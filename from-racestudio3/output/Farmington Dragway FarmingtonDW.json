@@ -1,0 +1,52 @@
+{
+  "source_file": "174ctspl.tkk",
+  "full_name": "Farmington Dragway FarmingtonDW",
+  "name": "Farmington Dragway",
+  "venue_id": "174ctspl",
+  "short_name": "FarmingtonDW",
+  "country": "US",
+  "track_length_m": 216.7,
+  "reference_point": {
+    "lat": 36.0165175,
+    "lon": -80.5631019,
+    "alt_m": 244.0
+  },
+  "start_finish": {
+    "lat": 36.0156133,
+    "lon": -80.5631599
+  },
+  "surface": "asphalt",
+  "timezone": "America/New_York",
+  "timezone_label": "(UTC-05:00) Eastern Time (US & Canada)",
+  "contact": {
+    "city": "Mocksville",
+    "address": "2992 NC Highway 801 North",
+    "postal_code": "27028",
+    "phone": "+1 336 998 3443",
+    "url": "http://farmingtondragway.com/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 36.0155475,
+      "lon": -80.563231
+    },
+    "p2": {
+      "lat": 36.0155419,
+      "lon": -80.5630976
+    }
+  },
+  "logo_file": "Farmington Dragway FarmingtonDW_logo.png",
+  "svg_file": "Farmington Dragway FarmingtonDW.svg",
+  "gps_points": [
+    {
+      "lat": 36.0155447,
+      "lon": -80.5631643,
+      "alt_m": 246.0
+    },
+    {
+      "lat": 36.0174903,
+      "lon": -80.5630394,
+      "alt_m": 244.0
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "source_file": "174sike3.tkk",
+  "full_name": "Beaver Springs Dragway BeaverS DW",
+  "name": "Beaver Springs Dragway",
+  "venue_id": "174sike3",
+  "short_name": "BeaverS DW",
+  "country": "US",
+  "track_length_m": 418.2,
+  "reference_point": {
+    "lat": 40.7753025,
+    "lon": -77.2141701,
+    "alt_m": 187.0
+  },
+  "start_finish": {
+    "lat": 40.7748356,
+    "lon": -77.2118587
+  },
+  "surface": "asphalt",
+  "timezone": "America/New_York",
+  "timezone_label": "(UTC-05:00) Eastern Time (US & Canada)",
+  "contact": {
+    "city": "Beaver Springs",
+    "address": "109 Race Track Lane",
+    "postal_code": "17812",
+    "phone": "+1 570 658 9601",
+    "url": "http://www.beaversprings.com/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 40.7747204,
+      "lon": -77.2118056
+    },
+    "p2": {
+      "lat": 40.7749154,
+      "lon": -77.2117368
+    }
+  },
+  "logo_file": "Beaver Springs Dragway BeaverS DW_logo.png",
+  "svg_file": "Beaver Springs Dragway BeaverS DW.svg",
+  "gps_points": [
+    {
+      "lat": 40.7748179,
+      "lon": -77.2117712,
+      "alt_m": 187.0
+    },
+    {
+      "lat": 40.7757871,
+      "lon": -77.2165689,
+      "alt_m": 194.0
+    }
+  ]
+}

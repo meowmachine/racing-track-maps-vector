@@ -1,0 +1,52 @@
+{
+  "source_file": "174ux0w1.tkk",
+  "full_name": "South Carolina Motorplex SCarolina DW",
+  "name": "South Carolina Motorplex",
+  "venue_id": "174ux0w1",
+  "short_name": "SCarolina DW",
+  "country": "US",
+  "track_length_m": 216.9,
+  "reference_point": {
+    "lat": 33.5248241,
+    "lon": -80.980991,
+    "alt_m": 78.0
+  },
+  "start_finish": {
+    "lat": 33.5244463,
+    "lon": -80.9819793
+  },
+  "surface": "asphalt",
+  "timezone": "America/New_York",
+  "timezone_label": "(UTC-05:00) Eastern Time (US & Canada)",
+  "contact": {
+    "city": "Neeses",
+    "address": "194 Dragstrip Road",
+    "postal_code": "29107",
+    "phone": "+1 844 904 7223",
+    "url": "https://www.southcarolinamotorplex.com/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 33.5244625,
+      "lon": -80.9820788
+    },
+    "p2": {
+      "lat": 33.5243729,
+      "lon": -80.9820296
+    }
+  },
+  "logo_file": "South Carolina Motorplex SCarolina DW_logo.png",
+  "svg_file": "South Carolina Motorplex SCarolina DW.svg",
+  "gps_points": [
+    {
+      "lat": 33.5244177,
+      "lon": -80.9820542,
+      "alt_m": 81.0
+    },
+    {
+      "lat": 33.5252304,
+      "lon": -80.9799277,
+      "alt_m": 77.0
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "source_file": "17234rym.tkk",
+  "full_name": "Summit Motorsports Park SMP DW",
+  "name": "Summit Motorsports Park",
+  "venue_id": "17234rym",
+  "short_name": "SMP DW",
+  "country": "US",
+  "track_length_m": 419.4,
+  "reference_point": {
+    "lat": 41.2363608,
+    "lon": -82.542701,
+    "alt_m": 266.0
+  },
+  "start_finish": {
+    "lat": 41.2345446,
+    "lon": -82.5426469
+  },
+  "surface": "asphalt",
+  "timezone": "America/New_York",
+  "timezone_label": "(UTC-05:00) Eastern Time (US & Canada)",
+  "contact": {
+    "city": "Norwalk",
+    "address": "1300 State Route 18",
+    "postal_code": "44857",
+    "phone": "+1 419 668 5555",
+    "url": "http://summitmotorsportspark.com/home"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 41.2344735,
+      "lon": -82.5427841
+    },
+    "p2": {
+      "lat": 41.2344781,
+      "lon": -82.5425057
+    }
+  },
+  "logo_file": "Summit Motorsports Park SMP DW_logo.png",
+  "svg_file": "Summit Motorsports Park SMP DW.svg",
+  "gps_points": [
+    {
+      "lat": 41.2344758,
+      "lon": -82.5426449,
+      "alt_m": 267.0
+    },
+    {
+      "lat": 41.2382457,
+      "lon": -82.542757,
+      "alt_m": 265.0
+    }
+  ]
+}

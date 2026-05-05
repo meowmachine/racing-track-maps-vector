@@ -1,0 +1,52 @@
+{
+  "source_file": "1722yygw.tkk",
+  "full_name": "Kentucky Dragway Kentucky DW",
+  "name": "Kentucky Dragway",
+  "venue_id": "1722yygw",
+  "short_name": "Kentucky DW",
+  "country": "US",
+  "track_length_m": 419.5,
+  "reference_point": {
+    "lat": 37.845067,
+    "lon": -83.9139816,
+    "alt_m": 193.0
+  },
+  "start_finish": {
+    "lat": 37.8459909,
+    "lon": -83.9159629
+  },
+  "surface": "asphalt",
+  "timezone": "America/New_York",
+  "timezone_label": "(UTC-05:00) Eastern Time (US & Canada)",
+  "contact": {
+    "city": "Clay City",
+    "address": "718 11th Street",
+    "postal_code": "40312",
+    "phone": "+1 606 663 2344",
+    "url": "http://kentuckydragway.com/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 37.8461036,
+      "lon": -83.9159799
+    },
+    "p2": {
+      "lat": 37.8459482,
+      "lon": -83.9160961
+    }
+  },
+  "logo_file": "Kentucky Dragway Kentucky DW_logo.png",
+  "svg_file": "Kentucky Dragway Kentucky DW.svg",
+  "gps_points": [
+    {
+      "lat": 37.8460259,
+      "lon": -83.916038,
+      "alt_m": 194.0
+    },
+    {
+      "lat": 37.8441081,
+      "lon": -83.9119251,
+      "alt_m": 195.0
+    }
+  ]
+}

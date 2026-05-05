@@ -1,0 +1,52 @@
+{
+  "source_file": "174cw05v.tkk",
+  "full_name": "Magic City International Dragway MCI Drag",
+  "name": "Magic City International Dragway",
+  "venue_id": "174cw05v",
+  "short_name": "MCI Drag",
+  "country": "US",
+  "track_length_m": 217.5,
+  "reference_point": {
+    "lat": 48.2334654,
+    "lon": -101.2566821,
+    "alt_m": 471.0
+  },
+  "start_finish": {
+    "lat": 48.2343742,
+    "lon": -101.2566823
+  },
+  "surface": "asphalt",
+  "timezone": "America/Chicago",
+  "timezone_label": "(UTC-06:00) Central Time (US & Canada)",
+  "contact": {
+    "city": "Minot",
+    "address": "2005 Burdick Expressway East",
+    "postal_code": "58701",
+    "phone": "+1 701 833 8465",
+    "url": "http://www.magiccityinternationaldragway.com/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 48.234443,
+      "lon": -101.2566008
+    },
+    "p2": {
+      "lat": 48.234443,
+      "lon": -101.2567638
+    }
+  },
+  "logo_file": "Magic City International Dragway MCI Drag_logo.png",
+  "svg_file": "Magic City International Dragway MCI Drag.svg",
+  "gps_points": [
+    {
+      "lat": 48.234443,
+      "lon": -101.2566823,
+      "alt_m": 470.0
+    },
+    {
+      "lat": 48.2324877,
+      "lon": -101.256682,
+      "alt_m": 476.0
+    }
+  ]
+}

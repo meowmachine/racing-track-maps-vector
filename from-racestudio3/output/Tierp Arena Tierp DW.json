@@ -1,0 +1,52 @@
+{
+  "source_file": "1749ilg9.tkk",
+  "full_name": "Tierp Arena Tierp DW",
+  "name": "Tierp Arena",
+  "venue_id": "1749ilg9",
+  "short_name": "Tierp DW",
+  "country": "SE",
+  "track_length_m": 418.5,
+  "reference_point": {
+    "lat": 60.3374298,
+    "lon": 17.4262486,
+    "alt_m": 42.0
+  },
+  "start_finish": {
+    "lat": 60.3356886,
+    "lon": 17.4272675
+  },
+  "surface": "asphalt",
+  "timezone": "Europe/Stockholm",
+  "timezone_label": "(UTC+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna",
+  "contact": {
+    "city": "Tierp",
+    "address": "Arenavägen 10",
+    "postal_code": "81591",
+    "phone": "+46 0 77 110 80 00",
+    "url": "http://tierparena.com/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 60.3355947,
+      "lon": 17.4271112
+    },
+    "p2": {
+      "lat": 60.3356505,
+      "lon": 17.427501
+    }
+  },
+  "logo_file": "Tierp Arena Tierp DW_logo.png",
+  "svg_file": "Tierp Arena Tierp DW.svg",
+  "gps_points": [
+    {
+      "lat": 60.3356226,
+      "lon": 17.4273061,
+      "alt_m": 42.0
+    },
+    {
+      "lat": 60.3392369,
+      "lon": 17.4251911,
+      "alt_m": 42.0
+    }
+  ]
+}

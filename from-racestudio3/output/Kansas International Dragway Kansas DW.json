@@ -1,0 +1,52 @@
+{
+  "source_file": "173ouzda.tkk",
+  "full_name": "Kansas International Dragway Kansas DW",
+  "name": "Kansas International Dragway",
+  "venue_id": "173ouzda",
+  "short_name": "Kansas DW",
+  "country": "US",
+  "track_length_m": 419.5,
+  "reference_point": {
+    "lat": 37.7983205,
+    "lon": -97.4371494,
+    "alt_m": 417.0
+  },
+  "start_finish": {
+    "lat": 37.7966346,
+    "lon": -97.4362917
+  },
+  "surface": "asphalt",
+  "timezone": "America/Chicago",
+  "timezone_label": "(UTC-06:00) Central Time (US & Canada)",
+  "contact": {
+    "city": "Maize",
+    "address": "7800 West 61st Street North",
+    "postal_code": "67101",
+    "phone": "+1 316 833 4556",
+    "url": "https://kansasdragway.com/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 37.7965344,
+      "lon": -97.4363733
+    },
+    "p2": {
+      "lat": 37.796607,
+      "lon": -97.4361451
+    }
+  },
+  "logo_file": "Kansas International Dragway Kansas DW_logo.png",
+  "svg_file": "Kansas International Dragway Kansas DW.svg",
+  "gps_points": [
+    {
+      "lat": 37.7965707,
+      "lon": -97.4362592,
+      "alt_m": 417.0
+    },
+    {
+      "lat": 37.8000702,
+      "lon": -97.4380396,
+      "alt_m": 414.0
+    }
+  ]
+}

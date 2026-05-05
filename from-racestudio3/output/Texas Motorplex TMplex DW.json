@@ -1,0 +1,52 @@
+{
+  "source_file": "1723kejw.tkk",
+  "full_name": "Texas Motorplex TMplex DW",
+  "name": "Texas Motorplex",
+  "venue_id": "1723kejw",
+  "short_name": "TMplex DW",
+  "country": "US",
+  "track_length_m": 418.9,
+  "reference_point": {
+    "lat": 32.3296144,
+    "lon": -96.7157587,
+    "alt_m": 157.0
+  },
+  "start_finish": {
+    "lat": 32.3285628,
+    "lon": -96.7175082
+  },
+  "surface": "asphalt",
+  "timezone": "America/Chicago",
+  "timezone_label": "(UTC-06:00) Central Time (US & Canada)",
+  "contact": {
+    "city": "Ennis",
+    "address": "7500 West Highway 287",
+    "postal_code": "75119",
+    "phone": "+1 972 878 2641",
+    "url": "https://texasmotorplex.com/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 32.3285925,
+      "lon": -96.7176329
+    },
+    "p2": {
+      "lat": 32.3284535,
+      "lon": -96.7175159
+    }
+  },
+  "logo_file": "Texas Motorplex TMplex DW_logo.png",
+  "svg_file": "Texas Motorplex TMplex DW.svg",
+  "gps_points": [
+    {
+      "lat": 32.328523,
+      "lon": -96.7175744,
+      "alt_m": 158.0
+    },
+    {
+      "lat": 32.3307059,
+      "lon": -96.713943,
+      "alt_m": 156.0
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "source_file": "174ca7gb.tkk",
+  "full_name": "Ubly Dragway Ubly DW",
+  "name": "Ubly Dragway",
+  "venue_id": "174ca7gb",
+  "short_name": "Ubly DW",
+  "country": "US",
+  "track_length_m": 216.6,
+  "reference_point": {
+    "lat": 43.7007014,
+    "lon": -82.9363239,
+    "alt_m": 238.0
+  },
+  "start_finish": {
+    "lat": 43.7006767,
+    "lon": -82.9375755
+  },
+  "surface": "asphalt",
+  "timezone": "America/Detroit",
+  "timezone_label": "(UTC-05:00) Eastern Time (US & Canada)",
+  "contact": {
+    "city": "Ubly",
+    "address": "4812 South Ubly Road",
+    "postal_code": "48475",
+    "phone": "+1 989 658 8132",
+    "url": "http://www.theublydragway.com/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 43.7007289,
+      "lon": -82.9376723
+    },
+    "p2": {
+      "lat": 43.7006207,
+      "lon": -82.9376683
+    }
+  },
+  "logo_file": null,
+  "svg_file": "Ubly Dragway Ubly DW.svg",
+  "gps_points": [
+    {
+      "lat": 43.7006748,
+      "lon": -82.9376703,
+      "alt_m": 238.0
+    },
+    {
+      "lat": 43.7007281,
+      "lon": -82.9349775,
+      "alt_m": 233.0
+    }
+  ]
+}

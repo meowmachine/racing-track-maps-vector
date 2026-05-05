@@ -1,0 +1,52 @@
+{
+  "source_file": "1725lsbs.tkk",
+  "full_name": "Julesburg Dragstrip Julesburg DW",
+  "name": "Julesburg Dragstrip",
+  "venue_id": "1725lsbs",
+  "short_name": "Julesburg DW",
+  "country": "US",
+  "track_length_m": 419.0,
+  "reference_point": {
+    "lat": 40.9734126,
+    "lon": -102.3176955,
+    "alt_m": 1074.0
+  },
+  "start_finish": {
+    "lat": 40.9749167,
+    "lon": -102.3190406
+  },
+  "surface": "asphalt",
+  "timezone": "America/Denver",
+  "timezone_label": "(UTC-07:00) Mountain Time (US & Canada)",
+  "contact": {
+    "city": "Julesburg",
+    "address": "US Highway 138",
+    "postal_code": "80737",
+    "phone": "+1 970 520 5034",
+    "url": "http://www.julesburgdragracing.com/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 40.9750222,
+      "lon": -102.3189964
+    },
+    "p2": {
+      "lat": 40.9749252,
+      "lon": -102.3191868
+    }
+  },
+  "logo_file": "Julesburg Dragstrip Julesburg DW_logo.png",
+  "svg_file": "Julesburg Dragstrip Julesburg DW.svg",
+  "gps_points": [
+    {
+      "lat": 40.9749737,
+      "lon": -102.3190916,
+      "alt_m": 1073.0
+    },
+    {
+      "lat": 40.9718514,
+      "lon": -102.3162994,
+      "alt_m": 1072.0
+    }
+  ]
+}

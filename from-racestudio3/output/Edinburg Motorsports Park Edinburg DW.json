@@ -1,0 +1,52 @@
+{
+  "source_file": "174ve9mx.tkk",
+  "full_name": "Edinburg Motorsports Park Edinburg DW",
+  "name": "Edinburg Motorsports Park",
+  "venue_id": "174ve9mx",
+  "short_name": "Edinburg DW",
+  "country": "US",
+  "track_length_m": 419.0,
+  "reference_point": {
+    "lat": 26.4398692,
+    "lon": -98.1274695,
+    "alt_m": 23.0
+  },
+  "start_finish": {
+    "lat": 26.4384012,
+    "lon": -98.1262773
+  },
+  "surface": "asphalt",
+  "timezone": "America/Chicago",
+  "timezone_label": "(UTC-06:00) Central Time (US & Canada)",
+  "contact": {
+    "city": "Edinburg",
+    "address": "15920 US-281",
+    "postal_code": "78542",
+    "phone": "+1 956 380 3724",
+    "url": "http://emp956.com/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 26.4382958,
+      "lon": -98.1263087
+    },
+    "p2": {
+      "lat": 26.4383954,
+      "lon": -98.1261557
+    }
+  },
+  "logo_file": null,
+  "svg_file": "Edinburg Motorsports Park Edinburg DW.svg",
+  "gps_points": [
+    {
+      "lat": 26.4383456,
+      "lon": -98.1262322,
+      "alt_m": 24.0
+    },
+    {
+      "lat": 26.4413927,
+      "lon": -98.1287068,
+      "alt_m": 27.0
+    }
+  ]
+}

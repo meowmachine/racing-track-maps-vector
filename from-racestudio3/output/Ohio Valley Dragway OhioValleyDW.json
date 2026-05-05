@@ -1,0 +1,52 @@
+{
+  "source_file": "1722zw4r.tkk",
+  "full_name": "Ohio Valley Dragway OhioValleyDW",
+  "name": "Ohio Valley Dragway",
+  "venue_id": "1722zw4r",
+  "short_name": "OhioValleyDW",
+  "country": "US",
+  "track_length_m": 217.4,
+  "reference_point": {
+    "lat": 38.0037469,
+    "lon": -85.9320973,
+    "alt_m": 130.0
+  },
+  "start_finish": {
+    "lat": 38.0031234,
+    "lon": -85.9329356
+  },
+  "surface": "asphalt",
+  "timezone": "America/Kentucky/Louisville",
+  "timezone_label": "(UTC-05:00) Eastern Time (US & Canada)",
+  "contact": {
+    "city": "West Point",
+    "address": "632 Katherine Station Road",
+    "postal_code": "40177",
+    "phone": "+1 502 922 4152",
+    "url": "http://ohiovalleydragway.com/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 38.0031049,
+      "lon": -85.9330335
+    },
+    "p2": {
+      "lat": 38.0030475,
+      "lon": -85.9329647
+    }
+  },
+  "logo_file": "Ohio Valley Dragway OhioValleyDW_logo.png",
+  "svg_file": "Ohio Valley Dragway OhioValleyDW.svg",
+  "gps_points": [
+    {
+      "lat": 38.0030762,
+      "lon": -85.9329991,
+      "alt_m": 131.0
+    },
+    {
+      "lat": 38.0044176,
+      "lon": -85.9311955,
+      "alt_m": 129.0
+    }
+  ]
+}

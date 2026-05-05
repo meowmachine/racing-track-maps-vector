@@ -1,0 +1,52 @@
+{
+  "source_file": "173q9xkz.tkk",
+  "full_name": "Qlispé Raceway Park QRP DW",
+  "name": "Qlispé Raceway Park",
+  "venue_id": "173q9xkz",
+  "short_name": "QRP DW",
+  "country": "US",
+  "track_length_m": 419.0,
+  "reference_point": {
+    "lat": 47.6611235,
+    "lon": -117.5720864,
+    "alt_m": 713.0
+  },
+  "start_finish": {
+    "lat": 47.6594826,
+    "lon": -117.5732382
+  },
+  "surface": "asphalt",
+  "timezone": "America/Los_Angeles",
+  "timezone_label": "(UTC-08:00) Pacific Time (US & Canada)",
+  "contact": {
+    "city": "Airway Heights",
+    "address": "750 N Hayford Road",
+    "postal_code": "99001",
+    "phone": "+1 509 244 3333",
+    "url": "https://www.qrpracing.com/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 47.6594609,
+      "lon": -117.5734088
+    },
+    "p2": {
+      "lat": 47.6593801,
+      "lon": -117.5731548
+    }
+  },
+  "logo_file": "Qlispé Raceway Park QRP DW_logo.png",
+  "svg_file": "Qlispé Raceway Park QRP DW.svg",
+  "gps_points": [
+    {
+      "lat": 47.6594205,
+      "lon": -117.5732818,
+      "alt_m": 716.0
+    },
+    {
+      "lat": 47.6628264,
+      "lon": -117.570891,
+      "alt_m": 710.0
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "source_file": "174d89o8.tkk",
+  "full_name": "Quaker City Motorsports Park QuakerCityDW",
+  "name": "Quaker City Motorsports Park",
+  "venue_id": "174d89o8",
+  "short_name": "QuakerCityDW",
+  "country": "US",
+  "track_length_m": 419.0,
+  "reference_point": {
+    "lat": 40.9416227,
+    "lon": -80.845994,
+    "alt_m": 367.0
+  },
+  "start_finish": {
+    "lat": 40.9434143,
+    "lon": -80.845612
+  },
+  "surface": "asphalt",
+  "timezone": "America/New_York",
+  "timezone_label": "(UTC-05:00) Eastern Time (US & Canada)",
+  "contact": {
+    "city": "Salem",
+    "address": "10225 West South Range Road",
+    "postal_code": "44460",
+    "phone": "+1 330 771 1534",
+    "url": "https://quakercitymotorsportspark.com/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 40.9434657,
+      "lon": -80.8454625
+    },
+    "p2": {
+      "lat": 40.9434985,
+      "lon": -80.8457325
+    }
+  },
+  "logo_file": "Quaker City Motorsports Park QuakerCityDW_logo.png",
+  "svg_file": "Quaker City Motorsports Park QuakerCityDW.svg",
+  "gps_points": [
+    {
+      "lat": 40.9434821,
+      "lon": -80.8455975,
+      "alt_m": 368.0
+    },
+    {
+      "lat": 40.9397633,
+      "lon": -80.8463905,
+      "alt_m": 374.0
+    }
+  ]
+}

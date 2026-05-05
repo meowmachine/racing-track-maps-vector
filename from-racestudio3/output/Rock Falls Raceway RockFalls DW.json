@@ -1,0 +1,52 @@
+{
+  "source_file": "1725ukvs.tkk",
+  "full_name": "Rock Falls Raceway RockFalls DW",
+  "name": "Rock Falls Raceway",
+  "venue_id": "1725ukvs",
+  "short_name": "RockFalls DW",
+  "country": "US",
+  "track_length_m": 418.2,
+  "reference_point": {
+    "lat": 44.7438801,
+    "lon": -91.6518156,
+    "alt_m": 253.0
+  },
+  "start_finish": {
+    "lat": 44.7441003,
+    "lon": -91.6543471
+  },
+  "surface": "asphalt",
+  "timezone": "America/Chicago",
+  "timezone_label": "(UTC-06:00) Central Time (US & Canada)",
+  "contact": {
+    "city": "Eau Claire",
+    "address": "N1790 1000th St",
+    "postal_code": "54701",
+    "phone": "+1 715 875 4233",
+    "url": "https://www.rockfallsraceway.com/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 44.7442115,
+      "lon": -91.6544253
+    },
+    "p2": {
+      "lat": 44.7440057,
+      "lon": -91.6544607
+    }
+  },
+  "logo_file": "Rock Falls Raceway RockFalls DW_logo.png",
+  "svg_file": "Rock Falls Raceway RockFalls DW.svg",
+  "gps_points": [
+    {
+      "lat": 44.7441086,
+      "lon": -91.654443,
+      "alt_m": 253.0
+    },
+    {
+      "lat": 44.7436517,
+      "lon": -91.6491881,
+      "alt_m": 255.0
+    }
+  ]
+}

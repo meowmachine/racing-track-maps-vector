@@ -1,0 +1,52 @@
+{
+  "source_file": "1725mks4.tkk",
+  "full_name": "Pueblo Motorsports Park PMB DW",
+  "name": "Pueblo Motorsports Park",
+  "venue_id": "1725mks4",
+  "short_name": "PMB DW",
+  "country": "US",
+  "track_length_m": 419.6,
+  "reference_point": {
+    "lat": 38.3003558,
+    "lon": -104.6775804,
+    "alt_m": 1499.0
+  },
+  "start_finish": {
+    "lat": 38.2985942,
+    "lon": -104.6770114
+  },
+  "surface": "asphalt",
+  "timezone": "America/Denver",
+  "timezone_label": "(UTC-07:00) Mountain Time (US & Canada)",
+  "contact": {
+    "city": "Pueblo",
+    "address": "3733 North Pueblo Boulevard",
+    "postal_code": "81008",
+    "phone": "+1 719 641 7736",
+    "url": "https://www.rcscmotorsports.com/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 38.2985025,
+      "lon": -104.6771153
+    },
+    "p2": {
+      "lat": 38.2985525,
+      "lon": -104.6768643
+    }
+  },
+  "logo_file": "Pueblo Motorsports Park PMB DW_logo.png",
+  "svg_file": "Pueblo Motorsports Park PMB DW.svg",
+  "gps_points": [
+    {
+      "lat": 38.2985275,
+      "lon": -104.6769898,
+      "alt_m": 1498.0
+    },
+    {
+      "lat": 38.3021841,
+      "lon": -104.6781711,
+      "alt_m": 1499.0
+    }
+  ]
+}

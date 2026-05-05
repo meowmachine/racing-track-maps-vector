@@ -1,0 +1,52 @@
+{
+  "source_file": "174v8y4n.tkk",
+  "full_name": "Memphis International Raceway Memphis DW",
+  "name": "Memphis International Raceway",
+  "venue_id": "174v8y4n",
+  "short_name": "Memphis DW",
+  "country": "US",
+  "track_length_m": 420.1,
+  "reference_point": {
+    "lat": 35.2770138,
+    "lon": -89.9410223,
+    "alt_m": 72.0
+  },
+  "start_finish": {
+    "lat": 35.2752066,
+    "lon": -89.9412803
+  },
+  "surface": "asphalt",
+  "timezone": "America/Chicago",
+  "timezone_label": "(UTC-06:00) Central Time (US & Canada)",
+  "contact": {
+    "city": "Millington",
+    "address": "5500 Victory Lane",
+    "postal_code": "38053",
+    "phone": "+1 901 969 7223",
+    "url": "http://www.racemir.com/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 35.2751503,
+      "lon": -89.9414169
+    },
+    "p2": {
+      "lat": 35.2751261,
+      "lon": -89.9411633
+    }
+  },
+  "logo_file": "Memphis International Raceway Memphis DW_logo.png",
+  "svg_file": "Memphis International Raceway Memphis DW.svg",
+  "gps_points": [
+    {
+      "lat": 35.2751382,
+      "lon": -89.9412901,
+      "alt_m": 73.0
+    },
+    {
+      "lat": 35.2788894,
+      "lon": -89.9407545,
+      "alt_m": 78.0
+    }
+  ]
+}

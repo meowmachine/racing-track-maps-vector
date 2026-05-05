@@ -1,0 +1,52 @@
+{
+  "source_file": "174b5fvc.tkk",
+  "full_name": "Bunker Hill Dragstrip BunkerHillDS",
+  "name": "Bunker Hill Dragstrip",
+  "venue_id": "174b5fvc",
+  "short_name": "BunkerHillDS",
+  "country": "US",
+  "track_length_m": 217.2,
+  "reference_point": {
+    "lat": 40.6372146,
+    "lon": -86.1014367,
+    "alt_m": 250.0
+  },
+  "start_finish": {
+    "lat": 40.6363252,
+    "lon": -86.1016754
+  },
+  "surface": "asphalt",
+  "timezone": "America/Indiana/Indianapolis",
+  "timezone_label": "(UTC-05:00) Indiana (East)",
+  "contact": {
+    "city": "Bunker Hill",
+    "address": "1512 W 900 S",
+    "postal_code": "46914",
+    "phone": "+1 765 689 8248",
+    "url": "http://www.bunkerhillrace.com/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 40.6362684,
+      "lon": -86.1017621
+    },
+    "p2": {
+      "lat": 40.6362472,
+      "lon": -86.1016249
+    }
+  },
+  "logo_file": null,
+  "svg_file": "Bunker Hill Dragstrip BunkerHillDS.svg",
+  "gps_points": [
+    {
+      "lat": 40.6362578,
+      "lon": -86.1016935,
+      "alt_m": 251.0
+    },
+    {
+      "lat": 40.6381713,
+      "lon": -86.1011798,
+      "alt_m": 256.0
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "source_file": "173pvt2x.tkk",
+  "full_name": "Bremerton Raceway Bremerton DW",
+  "name": "Bremerton Raceway",
+  "venue_id": "173pvt2x",
+  "short_name": "Bremerton DW",
+  "country": "US",
+  "track_length_m": 419.1,
+  "reference_point": {
+    "lat": 47.48835,
+    "lon": -122.7544462,
+    "alt_m": 143.0
+  },
+  "start_finish": {
+    "lat": 47.486535,
+    "lon": -122.754409
+  },
+  "surface": "asphalt",
+  "timezone": "America/Los_Angeles",
+  "timezone_label": "(UTC-08:00) Pacific Time (US & Canada)",
+  "contact": {
+    "city": "Bremerton",
+    "address": "7500 SW Old Clifton Road",
+    "postal_code": "98312",
+    "phone": "+1 360 674 2280",
+    "url": "https://www.bremertonraceway.com/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 47.4864649,
+      "lon": -122.7545625
+    },
+    "p2": {
+      "lat": 47.4864677,
+      "lon": -122.7542527
+    }
+  },
+  "logo_file": null,
+  "svg_file": "Bremerton Raceway Bremerton DW.svg",
+  "gps_points": [
+    {
+      "lat": 47.4864663,
+      "lon": -122.7544076,
+      "alt_m": 143.0
+    },
+    {
+      "lat": 47.4902338,
+      "lon": -122.7544847,
+      "alt_m": 140.0
+    }
+  ]
+}

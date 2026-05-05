@@ -1,0 +1,52 @@
+{
+  "source_file": "17230tjz.tkk",
+  "full_name": "Edgewater Sports Park Edgewater DW",
+  "name": "Edgewater Sports Park",
+  "venue_id": "17230tjz",
+  "short_name": "Edgewater DW",
+  "country": "US",
+  "track_length_m": 418.1,
+  "reference_point": {
+    "lat": 39.2008207,
+    "lon": -84.7468127,
+    "alt_m": 150.0
+  },
+  "start_finish": {
+    "lat": 39.201471,
+    "lon": -84.7446316
+  },
+  "surface": "asphalt",
+  "timezone": "America/New_York",
+  "timezone_label": "(UTC-05:00) Eastern Time (US & Canada)",
+  "contact": {
+    "city": "Cleves",
+    "address": "4819 E Miami River Road",
+    "postal_code": "45002",
+    "phone": "+1 513 353 4666",
+    "url": "https://www.edgewaterrace.com/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 39.2014046,
+      "lon": -84.7445038
+    },
+    "p2": {
+      "lat": 39.2015866,
+      "lon": -84.7445942
+    }
+  },
+  "logo_file": "Edgewater Sports Park Edgewater DW_logo.png",
+  "svg_file": "Edgewater Sports Park Edgewater DW.svg",
+  "gps_points": [
+    {
+      "lat": 39.2014956,
+      "lon": -84.744549,
+      "alt_m": 151.0
+    },
+    {
+      "lat": 39.2001457,
+      "lon": -84.7490763,
+      "alt_m": 147.0
+    }
+  ]
+}

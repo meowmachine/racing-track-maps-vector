@@ -1,0 +1,51 @@
+{
+  "source_file": "1721udgl.tkk",
+  "full_name": "Rockingham Dragway RockinghamD",
+  "name": "Rockingham Dragway",
+  "venue_id": "1721udgl",
+  "short_name": "RockinghamD",
+  "country": "US",
+  "track_length_m": 418.1,
+  "reference_point": {
+    "lat": 34.9793885,
+    "lon": -79.6153783,
+    "alt_m": 131.0
+  },
+  "start_finish": {
+    "lat": 34.9794288,
+    "lon": -79.6131689
+  },
+  "surface": "asphalt",
+  "timezone": "America/New_York",
+  "timezone_label": "(UTC-05:00) Eastern Time (US & Canada)",
+  "contact": {
+    "city": "Rockingham",
+    "address": "2153 US Highway 1 North",
+    "postal_code": "28379",
+    "phone": "+1 910 582 3400"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 34.9793259,
+      "lon": -79.6130825
+    },
+    "p2": {
+      "lat": 34.9795347,
+      "lon": -79.6130881
+    }
+  },
+  "logo_file": "Rockingham Dragway RockinghamD_logo.png",
+  "svg_file": "Rockingham Dragway RockinghamD.svg",
+  "gps_points": [
+    {
+      "lat": 34.9794303,
+      "lon": -79.6130853,
+      "alt_m": 137.0
+    },
+    {
+      "lat": 34.9793466,
+      "lon": -79.6176713,
+      "alt_m": 130.0
+    }
+  ]
+}

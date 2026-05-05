@@ -1,0 +1,52 @@
+{
+  "source_file": "1721iv2o.tkk",
+  "full_name": "South Georgia Motorsports Park SGMP DW",
+  "name": "South Georgia Motorsports Park",
+  "venue_id": "1721iv2o",
+  "short_name": "SGMP DW",
+  "country": "US",
+  "track_length_m": 419.0,
+  "reference_point": {
+    "lat": 31.0654404,
+    "lon": -83.3966219,
+    "alt_m": 73.0
+  },
+  "start_finish": {
+    "lat": 31.0636784,
+    "lon": -83.3961142
+  },
+  "surface": "asphalt",
+  "timezone": "America/New_York",
+  "timezone_label": "(UTC-05:00) Eastern Time (US & Canada)",
+  "contact": {
+    "city": "Adel",
+    "address": "2521 US-41",
+    "postal_code": "31620",
+    "phone": "+1 229 896 7000",
+    "url": "http://www.goracesgmp.com/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 31.0635873,
+      "lon": -83.3962101
+    },
+    "p2": {
+      "lat": 31.0636359,
+      "lon": -83.3959797
+    }
+  },
+  "logo_file": "South Georgia Motorsports Park SGMP DW_logo.png",
+  "svg_file": "South Georgia Motorsports Park SGMP DW.svg",
+  "gps_points": [
+    {
+      "lat": 31.0636116,
+      "lon": -83.3960949,
+      "alt_m": 70.0
+    },
+    {
+      "lat": 31.0672691,
+      "lon": -83.3971488,
+      "alt_m": 71.0
+    }
+  ]
+}

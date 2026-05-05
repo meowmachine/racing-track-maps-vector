@@ -1,0 +1,52 @@
+{
+  "source_file": "1722tcjo.tkk",
+  "full_name": "Wagler Motorsports Park WMP Drag",
+  "name": "Wagler Motorsports Park",
+  "venue_id": "1722tcjo",
+  "short_name": "WMP Drag",
+  "country": "US",
+  "track_length_m": 217.5,
+  "reference_point": {
+    "lat": 38.9698056,
+    "lon": -87.0254657,
+    "alt_m": 154.0
+  },
+  "start_finish": {
+    "lat": 38.9688969,
+    "lon": -87.0254703
+  },
+  "surface": "asphalt",
+  "timezone": "America/Indiana/Indianapolis",
+  "timezone_label": "(UTC-05:00) Indiana (East)",
+  "contact": {
+    "city": "Lyons",
+    "address": "4425 W 300 S",
+    "postal_code": "47443",
+    "phone": "+1 812 636-0391",
+    "url": "https://waglermotorsportspark.com/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 38.9688282,
+      "lon": -87.0255406
+    },
+    "p2": {
+      "lat": 38.9688278,
+      "lon": -87.0254008
+    }
+  },
+  "logo_file": "Wagler Motorsports Park WMP Drag_logo.png",
+  "svg_file": "Wagler Motorsports Park WMP Drag.svg",
+  "gps_points": [
+    {
+      "lat": 38.968828,
+      "lon": -87.0254707,
+      "alt_m": 154.0
+    },
+    {
+      "lat": 38.9707832,
+      "lon": -87.0254606,
+      "alt_m": 152.0
+    }
+  ]
+}

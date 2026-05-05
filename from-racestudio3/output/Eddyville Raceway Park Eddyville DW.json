@@ -1,0 +1,52 @@
+{
+  "source_file": "174bik6u.tkk",
+  "full_name": "Eddyville Raceway Park Eddyville DW",
+  "name": "Eddyville Raceway Park",
+  "venue_id": "174bik6u",
+  "short_name": "Eddyville DW",
+  "country": "US",
+  "track_length_m": 216.5,
+  "reference_point": {
+    "lat": 41.1816215,
+    "lon": -92.6337898,
+    "alt_m": 218.0
+  },
+  "start_finish": {
+    "lat": 41.1816228,
+    "lon": -92.6349916
+  },
+  "surface": "asphalt",
+  "timezone": "America/Chicago",
+  "timezone_label": "(UTC-06:00) Central Time (US & Canada)",
+  "contact": {
+    "city": "Oskaloosa",
+    "address": "3260 Merino Ave",
+    "postal_code": "52577",
+    "phone": "+1 641 969 5596",
+    "url": "https://eddyvilleracewaypark.com/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 41.181677,
+      "lon": -92.6350825
+    },
+    "p2": {
+      "lat": 41.1815688,
+      "lon": -92.6350827
+    }
+  },
+  "logo_file": "Eddyville Raceway Park Eddyville DW_logo.png",
+  "svg_file": "Eddyville Raceway Park Eddyville DW.svg",
+  "gps_points": [
+    {
+      "lat": 41.1816229,
+      "lon": -92.6350826,
+      "alt_m": 219.0
+    },
+    {
+      "lat": 41.18162,
+      "lon": -92.632497,
+      "alt_m": 216.0
+    }
+  ]
+}

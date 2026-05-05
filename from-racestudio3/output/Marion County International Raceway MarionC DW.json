@@ -1,0 +1,52 @@
+{
+  "source_file": "174d7q82.tkk",
+  "full_name": "Marion County International Raceway MarionC DW",
+  "name": "Marion County International Raceway",
+  "venue_id": "174d7q82",
+  "short_name": "MarionC DW",
+  "country": "US",
+  "track_length_m": 418.5,
+  "reference_point": {
+    "lat": 40.5424108,
+    "lon": -83.3647423,
+    "alt_m": 283.0
+  },
+  "start_finish": {
+    "lat": 40.5440217,
+    "lon": -83.3636483
+  },
+  "surface": "asphalt",
+  "timezone": "America/New_York",
+  "timezone_label": "(UTC-05:00) Eastern Time (US & Canada)",
+  "contact": {
+    "city": "La Rue",
+    "address": "2303 Richwood Larue Road",
+    "postal_code": "4332",
+    "phone": "+1 740 692 3267",
+    "url": "https://www.racemcr.com/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 40.5440401,
+      "lon": -83.3634983
+    },
+    "p2": {
+      "lat": 40.5441253,
+      "lon": -83.3637155
+    }
+  },
+  "logo_file": "Marion County International Raceway MarionC DW_logo.png",
+  "svg_file": "Marion County International Raceway MarionC DW.svg",
+  "gps_points": [
+    {
+      "lat": 40.5440827,
+      "lon": -83.3636069,
+      "alt_m": 283.0
+    },
+    {
+      "lat": 40.540739,
+      "lon": -83.3658777,
+      "alt_m": 280.0
+    }
+  ]
+}

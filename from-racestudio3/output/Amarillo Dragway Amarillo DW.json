@@ -1,0 +1,52 @@
+{
+  "source_file": "174vdlon.tkk",
+  "full_name": "Amarillo Dragway Amarillo DW",
+  "name": "Amarillo Dragway",
+  "venue_id": "174vdlon",
+  "short_name": "Amarillo DW",
+  "country": "US",
+  "track_length_m": 216.8,
+  "reference_point": {
+    "lat": 35.0784258,
+    "lon": -101.8271993,
+    "alt_m": 1099.0
+  },
+  "start_finish": {
+    "lat": 35.0784215,
+    "lon": -101.8283061
+  },
+  "surface": "asphalt",
+  "timezone": "America/Chicago",
+  "timezone_label": "(UTC-06:00) Central Time (US & Canada)",
+  "contact": {
+    "city": "Amarillo",
+    "address": "12955 Burlington Road",
+    "postal_code": "79118",
+    "phone": "+1 806 676 6148",
+    "url": "https://amarillodragway.com/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 35.0784753,
+      "lon": -101.8283902
+    },
+    "p2": {
+      "lat": 35.0783671,
+      "lon": -101.8283896
+    }
+  },
+  "logo_file": null,
+  "svg_file": "Amarillo Dragway Amarillo DW.svg",
+  "gps_points": [
+    {
+      "lat": 35.0784212,
+      "lon": -101.8283899,
+      "alt_m": 1099.0
+    },
+    {
+      "lat": 35.0784303,
+      "lon": -101.8260086,
+      "alt_m": 1096.0
+    }
+  ]
+}

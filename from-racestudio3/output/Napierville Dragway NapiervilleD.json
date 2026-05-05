@@ -1,0 +1,52 @@
+{
+  "source_file": "171k0wqf.tkk",
+  "full_name": "Napierville Dragway NapiervilleD",
+  "name": "Napierville Dragway",
+  "venue_id": "171k0wqf",
+  "short_name": "NapiervilleD",
+  "country": "CA",
+  "track_length_m": 418.3,
+  "reference_point": {
+    "lat": 45.192073,
+    "lon": -73.4436447,
+    "alt_m": 57.0
+  },
+  "start_finish": {
+    "lat": 45.1919929,
+    "lon": -73.4462131
+  },
+  "surface": "asphalt",
+  "timezone": "America/Toronto",
+  "timezone_label": "(UTC-05:00) Eastern Time (US & Canada)",
+  "contact": {
+    "city": "Saint-Cyprien-de-Napierville",
+    "address": "15 Rang Saint-André",
+    "postal_code": "J0J 1L0",
+    "phone": "+1 450 245 7574",
+    "url": "http://www.napiervilledragway.com/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 45.1920942,
+      "lon": -73.4463169
+    },
+    "p2": {
+      "lat": 45.1918856,
+      "lon": -73.4463039
+    }
+  },
+  "logo_file": "Napierville Dragway NapiervilleD_logo.png",
+  "svg_file": "Napierville Dragway NapiervilleD.svg",
+  "gps_points": [
+    {
+      "lat": 45.1919899,
+      "lon": -73.4463104,
+      "alt_m": 57.0
+    },
+    {
+      "lat": 45.1921561,
+      "lon": -73.440979,
+      "alt_m": 55.0
+    }
+  ]
+}

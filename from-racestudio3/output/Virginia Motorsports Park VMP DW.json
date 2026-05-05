@@ -1,0 +1,52 @@
+{
+  "source_file": "171k1tma.tkk",
+  "full_name": "Virginia Motorsports Park VMP DW",
+  "name": "Virginia Motorsports Park",
+  "venue_id": "171k1tma",
+  "short_name": "VMP DW",
+  "country": "US",
+  "track_length_m": 418.1,
+  "reference_point": {
+    "lat": 37.1674352,
+    "lon": -77.5249119,
+    "alt_m": 60.0
+  },
+  "start_finish": {
+    "lat": 37.1666921,
+    "lon": -77.5228396
+  },
+  "surface": "asphalt",
+  "timezone": "America/New_York",
+  "timezone_label": "(UTC-05:00) Eastern Time (US & Canada)",
+  "contact": {
+    "city": "North Dinwiddie",
+    "address": "8018 Boydton Plank Road",
+    "postal_code": "23803",
+    "phone": "+1 804 862 3174",
+    "url": "https://racevmp.com/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 37.1665771,
+      "lon": -77.5228101
+    },
+    "p2": {
+      "lat": 37.1667507,
+      "lon": -77.5227121
+    }
+  },
+  "logo_file": "Virginia Motorsports Park VMP DW_logo.png",
+  "svg_file": "Virginia Motorsports Park VMP DW.svg",
+  "gps_points": [
+    {
+      "lat": 37.1666639,
+      "lon": -77.5227611,
+      "alt_m": 59.0
+    },
+    {
+      "lat": 37.1682065,
+      "lon": -77.5270627,
+      "alt_m": 58.0
+    }
+  ]
+}

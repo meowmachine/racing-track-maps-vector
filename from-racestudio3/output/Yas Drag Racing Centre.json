@@ -1,0 +1,52 @@
+{
+  "source_file": "1722j1ce.tkk",
+  "full_name": "Yas Drag Racing Centre",
+  "name": "Yas Drag Racing Centre",
+  "venue_id": "1722j1ce",
+  "short_name": "Yas Drag",
+  "country": "AE",
+  "track_length_m": 420.9,
+  "reference_point": {
+    "lat": 24.4777753,
+    "lon": 54.6081781,
+    "alt_m": -1.0
+  },
+  "start_finish": {
+    "lat": 24.4795856,
+    "lon": 54.6079419
+  },
+  "surface": "asphalt",
+  "timezone": "Asia/Dubai",
+  "timezone_label": "(UTC+04:00) Abu Dhabi, Muscat",
+  "contact": {
+    "city": "Abu Dhabi",
+    "address": "Yas Marina Circuit, Yas Central",
+    "postal_code": "00000",
+    "phone": "+971 2659 9393",
+    "url": "https://www.yasmarinacircuit.com/en/drag"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 24.4796665,
+      "lon": 54.6080468
+    },
+    "p2": {
+      "lat": 24.4796419,
+      "lon": 54.607819
+    }
+  },
+  "logo_file": "Yas Drag Racing Centre_logo.png",
+  "svg_file": "Yas Drag Racing Centre.svg",
+  "gps_points": [
+    {
+      "lat": 24.4796542,
+      "lon": 54.6079329,
+      "alt_m": 1.0
+    },
+    {
+      "lat": 24.4758963,
+      "lon": 54.6084233,
+      "alt_m": 2.0
+    }
+  ]
+}

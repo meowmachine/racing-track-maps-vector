@@ -1,0 +1,52 @@
+{
+  "source_file": "173p1vyn.tkk",
+  "full_name": "Oahe Speedway Oahe DW",
+  "name": "Oahe Speedway",
+  "venue_id": "173p1vyn",
+  "short_name": "Oahe DW",
+  "country": "US",
+  "track_length_m": 418.7,
+  "reference_point": {
+    "lat": 44.5510531,
+    "lon": -100.4518752,
+    "alt_m": 502.0
+  },
+  "start_finish": {
+    "lat": 44.5493843,
+    "lon": -100.4508787
+  },
+  "surface": "asphalt",
+  "timezone": "America/Chicago",
+  "timezone_label": "(UTC-06:00) Central Time (US & Canada)",
+  "contact": {
+    "city": "Pierre",
+    "address": "28390 Spectators Road",
+    "postal_code": "57501",
+    "phone": "+1 605 301 0459",
+    "url": "https://www.oahespeedway.com/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 44.5492834,
+      "lon": -100.4509652
+    },
+    "p2": {
+      "lat": 44.5493588,
+      "lon": -100.4507168
+    }
+  },
+  "logo_file": "Oahe Speedway Oahe DW_logo.png",
+  "svg_file": "Oahe Speedway Oahe DW.svg",
+  "gps_points": [
+    {
+      "lat": 44.5493211,
+      "lon": -100.450841,
+      "alt_m": 502.0
+    },
+    {
+      "lat": 44.5527851,
+      "lon": -100.4529093,
+      "alt_m": 504.0
+    }
+  ]
+}

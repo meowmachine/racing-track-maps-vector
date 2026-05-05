@@ -1,0 +1,52 @@
+{
+  "source_file": "178t1my6.tkk",
+  "full_name": "Shakespeare County Raceway ShakespeareR",
+  "name": "Shakespeare County Raceway",
+  "venue_id": "178t1my6",
+  "short_name": "ShakespeareR",
+  "country": "GB",
+  "track_length_m": 417.9,
+  "reference_point": {
+    "lat": 52.1375338,
+    "lon": -1.7572153,
+    "alt_m": 45.0
+  },
+  "start_finish": {
+    "lat": 52.1361297,
+    "lon": -1.7590762
+  },
+  "surface": "asphalt",
+  "timezone": "Europe/London",
+  "timezone_label": "(UTC+00:00) Dublin, Edinburgh, Lisbon, London",
+  "contact": {
+    "city": "Stratford-Upon-Avon, Warwickshire",
+    "address": "Airfield House, Long Marston Airfield",
+    "postal_code": "CV37 8LL",
+    "phone": "+44 01789 720180",
+    "url": "https://www.shakespearecountyraceway.co.uk/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 52.1361276,
+      "lon": -1.759249
+    },
+    "p2": {
+      "lat": 52.1360254,
+      "lon": -1.7590444
+    }
+  },
+  "logo_file": "Shakespeare County Raceway ShakespeareR_logo.png",
+  "svg_file": "Shakespeare County Raceway ShakespeareR.svg",
+  "gps_points": [
+    {
+      "lat": 52.1360765,
+      "lon": -1.7591467,
+      "alt_m": 45.0
+    },
+    {
+      "lat": 52.1389912,
+      "lon": -1.7552839,
+      "alt_m": 46.0
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "source_file": "171loz73.tkk",
+  "full_name": "Top Gun Dragstrip TopGun DW",
+  "name": "Top Gun Dragstrip",
+  "venue_id": "171loz73",
+  "short_name": "TopGun DW",
+  "country": "US",
+  "track_length_m": 418.6,
+  "reference_point": {
+    "lat": 39.2578082,
+    "lon": -118.7866622,
+    "alt_m": 1228.0
+  },
+  "start_finish": {
+    "lat": 39.2577995,
+    "lon": -118.7890036
+  },
+  "surface": "asphalt",
+  "timezone": "America/Los_Angeles",
+  "timezone_label": "(UTC-08:00) Pacific Time (US & Canada)",
+  "contact": {
+    "city": "Fallon",
+    "address": "15550 Schurz Highway",
+    "postal_code": "89406",
+    "phone": "+1 775 423 0223",
+    "url": "http://topgunraceway.com/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 39.2579037,
+      "lon": -118.7890929
+    },
+    "p2": {
+      "lat": 39.2576947,
+      "lon": -118.7890917
+    }
+  },
+  "logo_file": "Top Gun Dragstrip TopGun DW_logo.png",
+  "svg_file": "Top Gun Dragstrip TopGun DW.svg",
+  "gps_points": [
+    {
+      "lat": 39.2577992,
+      "lon": -118.7890923,
+      "alt_m": 1228.0
+    },
+    {
+      "lat": 39.2578172,
+      "lon": -118.784232,
+      "alt_m": 1227.0
+    }
+  ]
+}

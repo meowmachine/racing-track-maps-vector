@@ -1,0 +1,52 @@
+{
+  "source_file": "174chjmj.tkk",
+  "full_name": "Mo-Kan Dragway Mo-Kan DW",
+  "name": "Mo-Kan Dragway",
+  "venue_id": "174chjmj",
+  "short_name": "Mo-Kan DW",
+  "country": "US",
+  "track_length_m": 419.8,
+  "reference_point": {
+    "lat": 37.3113712,
+    "lon": -94.6136421,
+    "alt_m": 280.0
+  },
+  "start_finish": {
+    "lat": 37.3095765,
+    "lon": -94.6132758
+  },
+  "surface": "asphalt",
+  "timezone": "America/Chicago",
+  "timezone_label": "(UTC-06:00) Central Time (US & Canada)",
+  "contact": {
+    "city": "Asbury",
+    "address": "30753 Base Line Boulevard",
+    "postal_code": "64832",
+    "phone": "+1 417 642 5599",
+    "url": "http://www.mokandragway.com/index.html"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 37.309492,
+      "lon": -94.6133903
+    },
+    "p2": {
+      "lat": 37.3095252,
+      "lon": -94.6131335
+    }
+  },
+  "logo_file": "Mo-Kan Dragway Mo-Kan DW_logo.png",
+  "svg_file": "Mo-Kan Dragway Mo-Kan DW.svg",
+  "gps_points": [
+    {
+      "lat": 37.3095086,
+      "lon": -94.6132619,
+      "alt_m": 279.0
+    },
+    {
+      "lat": 37.3132337,
+      "lon": -94.6140223,
+      "alt_m": 278.0
+    }
+  ]
+}

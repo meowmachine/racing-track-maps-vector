@@ -1,0 +1,52 @@
+{
+  "source_file": "179a5hi8.tkk",
+  "full_name": "Sokol Race Track Sokol DW",
+  "name": "Sokol Race Track",
+  "venue_id": "179a5hi8",
+  "short_name": "Sokol DW",
+  "country": "KZ",
+  "track_length_m": 417.9,
+  "reference_point": {
+    "lat": 43.5878293,
+    "lon": 76.5768325,
+    "alt_m": 647.0
+  },
+  "start_finish": {
+    "lat": 43.5873591,
+    "lon": 76.5792456
+  },
+  "surface": "asphalt",
+  "timezone": "Asia/Almaty",
+  "timezone_label": "(UTC+06:00) Astana",
+  "contact": {
+    "city": "Ile District, Almaty Region",
+    "address": "76th km of Almaty - Astana Route",
+    "postal_code": "040704",
+    "phone": "+7 707 701 50 55",
+    "url": "http://sokolracetrack.kz/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 43.587244,
+      "lon": 76.5793009
+    },
+    "p2": {
+      "lat": 43.5874386,
+      "lon": 76.5793731
+    }
+  },
+  "logo_file": "Sokol Race Track Sokol DW_logo.png",
+  "svg_file": "Sokol Race Track Sokol DW.svg",
+  "gps_points": [
+    {
+      "lat": 43.5873413,
+      "lon": 76.579337,
+      "alt_m": 647.0
+    },
+    {
+      "lat": 43.5883172,
+      "lon": 76.5743279,
+      "alt_m": 646.0
+    }
+  ]
+}

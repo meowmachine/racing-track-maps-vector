@@ -1,0 +1,52 @@
+{
+  "source_file": "174caouu.tkk",
+  "full_name": "U.S. 131 Motorsports Park US131 DW",
+  "name": "U.S. 131 Motorsports Park",
+  "venue_id": "174caouu",
+  "short_name": "US131 DW",
+  "country": "US",
+  "track_length_m": 419.1,
+  "reference_point": {
+    "lat": 42.5148294,
+    "lon": -85.6580984,
+    "alt_m": 248.0
+  },
+  "start_finish": {
+    "lat": 42.5130407,
+    "lon": -85.6576801
+  },
+  "surface": "asphalt",
+  "timezone": "America/Detroit",
+  "timezone_label": "(UTC-05:00) Eastern Time (US & Canada)",
+  "contact": {
+    "city": "Martin",
+    "address": "1249 12th Street",
+    "postal_code": "49070",
+    "phone": "+1 269 672 7800",
+    "url": "https://www.us131msp.com/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 42.5129554,
+      "lon": -85.6578021
+    },
+    "p2": {
+      "lat": 42.5129904,
+      "lon": -85.6575263
+    }
+  },
+  "logo_file": "U.S. 131 Motorsports Park US131 DW_logo.png",
+  "svg_file": "U.S. 131 Motorsports Park US131 DW.svg",
+  "gps_points": [
+    {
+      "lat": 42.5129729,
+      "lon": -85.6576642,
+      "alt_m": 248.0
+    },
+    {
+      "lat": 42.5166858,
+      "lon": -85.6585326,
+      "alt_m": 249.0
+    }
+  ]
+}

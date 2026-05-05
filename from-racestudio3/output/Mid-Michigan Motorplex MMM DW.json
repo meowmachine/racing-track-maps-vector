@@ -1,0 +1,52 @@
+{
+  "source_file": "174c946f.tkk",
+  "full_name": "Mid-Michigan Motorplex MMM DW",
+  "name": "Mid-Michigan Motorplex",
+  "venue_id": "174c946f",
+  "short_name": "MMM DW",
+  "country": "US",
+  "track_length_m": 216.7,
+  "reference_point": {
+    "lat": 43.3314477,
+    "lon": -85.0467233,
+    "alt_m": 290.0
+  },
+  "start_finish": {
+    "lat": 43.3314394,
+    "lon": -85.0454782
+  },
+  "surface": "asphalt",
+  "timezone": "America/Detroit",
+  "timezone_label": "(UTC-05:00) Eastern Time (US & Canada)",
+  "contact": {
+    "city": "Stanton",
+    "address": "2589 North Wyman Road",
+    "postal_code": "48888",
+    "phone": "+1 989 762 5043",
+    "url": "https://www.midmichmotorplex.com/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 43.3313847,
+      "lon": -85.0453846
+    },
+    "p2": {
+      "lat": 43.3314929,
+      "lon": -85.0453832
+    }
+  },
+  "logo_file": "Mid-Michigan Motorplex MMM DW_logo.png",
+  "svg_file": "Mid-Michigan Motorplex MMM DW.svg",
+  "gps_points": [
+    {
+      "lat": 43.3314388,
+      "lon": -85.0453839,
+      "alt_m": 290.0
+    },
+    {
+      "lat": 43.3314566,
+      "lon": -85.0480626,
+      "alt_m": 291.0
+    }
+  ]
+}

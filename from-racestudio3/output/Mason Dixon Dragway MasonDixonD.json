@@ -1,0 +1,52 @@
+{
+  "source_file": "171j4wpx.tkk",
+  "full_name": "Mason Dixon Dragway MasonDixonD",
+  "name": "Mason Dixon Dragway",
+  "venue_id": "171j4wpx",
+  "short_name": "MasonDixonD",
+  "country": "US",
+  "track_length_m": 420.8,
+  "reference_point": {
+    "lat": 39.5648398,
+    "lon": -77.6395275,
+    "alt_m": 163.0
+  },
+  "start_finish": {
+    "lat": 39.5658937,
+    "lon": -77.6414565
+  },
+  "surface": "asphalt",
+  "timezone": "America/New_York",
+  "timezone_label": "(UTC-05:00) Eastern Time (US & Canada)",
+  "contact": {
+    "city": "Boonsboro",
+    "address": "21003 National Pike",
+    "postal_code": "21713",
+    "phone": "+1 301 791 5193",
+    "url": "http://www.masondixondragway.com/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 39.5660036,
+      "lon": -77.6414652
+    },
+    "p2": {
+      "lat": 39.5658636,
+      "lon": -77.6415938
+    }
+  },
+  "logo_file": "Mason Dixon Dragway MasonDixonD_logo.png",
+  "svg_file": "Mason Dixon Dragway MasonDixonD.svg",
+  "gps_points": [
+    {
+      "lat": 39.5659336,
+      "lon": -77.6415295,
+      "alt_m": 163.0
+    },
+    {
+      "lat": 39.563746,
+      "lon": -77.6375255,
+      "alt_m": 157.0
+    }
+  ]
+}

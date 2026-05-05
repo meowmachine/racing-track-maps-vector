@@ -1,0 +1,52 @@
+{
+  "source_file": "173p0y38.tkk",
+  "full_name": "Kearney Raceway Park Kearney DW",
+  "name": "Kearney Raceway Park",
+  "venue_id": "173p0y38",
+  "short_name": "Kearney DW",
+  "country": "US",
+  "track_length_m": 418.7,
+  "reference_point": {
+    "lat": 40.7296344,
+    "lon": -98.9906819,
+    "alt_m": 649.0
+  },
+  "start_finish": {
+    "lat": 40.7281958,
+    "lon": -98.9892247
+  },
+  "surface": "asphalt",
+  "timezone": "America/Chicago",
+  "timezone_label": "(UTC-06:00) Central Time (US & Canada)",
+  "contact": {
+    "city": "Kearney",
+    "address": "4860 Imperial / Thunder Road",
+    "postal_code": "68847",
+    "phone": "+1 308 750 2049",
+    "url": "http://www.krpi.com/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 40.7280908,
+      "lon": -98.9892563
+    },
+    "p2": {
+      "lat": 40.7281918,
+      "lon": -98.9890827
+    }
+  },
+  "logo_file": null,
+  "svg_file": "Kearney Raceway Park Kearney DW.svg",
+  "gps_points": [
+    {
+      "lat": 40.7281413,
+      "lon": -98.9891695,
+      "alt_m": 649.0
+    },
+    {
+      "lat": 40.7311275,
+      "lon": -98.9921943,
+      "alt_m": 648.0
+    }
+  ]
+}

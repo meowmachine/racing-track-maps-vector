@@ -1,0 +1,52 @@
+{
+  "source_file": "171kcgal.tkk",
+  "full_name": "Barona Drags Barona DW",
+  "name": "Barona Drags",
+  "venue_id": "171kcgal",
+  "short_name": "Barona DW",
+  "country": "US",
+  "track_length_m": 217.2,
+  "reference_point": {
+    "lat": 32.9824447,
+    "lon": -116.8362399,
+    "alt_m": 514.0
+  },
+  "start_finish": {
+    "lat": 32.9821393,
+    "lon": -116.8372587
+  },
+  "surface": "asphalt",
+  "timezone": "America/Los_Angeles",
+  "timezone_label": "(UTC-08:00) Pacific Time (US & Canada)",
+  "contact": {
+    "city": "Lakeside",
+    "address": "1750 Wildcat Canyon Road",
+    "postal_code": "92040",
+    "phone": "+1 619 607 5449",
+    "url": "https://www.baronadrags.com/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 32.9821643,
+      "lon": -116.8373564
+    },
+    "p2": {
+      "lat": 32.9820681,
+      "lon": -116.8373154
+    }
+  },
+  "logo_file": "Barona Drags Barona DW_logo.png",
+  "svg_file": "Barona Drags Barona DW.svg",
+  "gps_points": [
+    {
+      "lat": 32.9821162,
+      "lon": -116.8373359,
+      "alt_m": 512.0
+    },
+    {
+      "lat": 32.9827731,
+      "lon": -116.8351438,
+      "alt_m": 516.0
+    }
+  ]
+}

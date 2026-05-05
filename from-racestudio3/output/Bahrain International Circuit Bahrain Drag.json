@@ -1,0 +1,52 @@
+{
+  "source_file": "1722cj7j.tkk",
+  "full_name": "Bahrain International Circuit Bahrain Drag",
+  "name": "Bahrain International Circuit",
+  "venue_id": "1722cj7j",
+  "short_name": "Bahrain Drag",
+  "country": "BH",
+  "track_length_m": 421.0,
+  "reference_point": {
+    "lat": 26.0329829,
+    "lon": 50.5122381,
+    "alt_m": 11.0
+  },
+  "start_finish": {
+    "lat": 26.0348051,
+    "lon": 50.5123162
+  },
+  "surface": "asphalt",
+  "timezone": "Asia/Bahrain",
+  "timezone_label": "(UTC+03:00) Kuwait, Riyadh",
+  "contact": {
+    "city": "Sakhir",
+    "address": "Gulf of Bahrain Avenue, Umm Jidar 1062",
+    "postal_code": "26381",
+    "phone": "+973 1745 0000",
+    "url": "https://www.bahraingp.com/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 26.0348701,
+      "lon": 50.512436
+    },
+    "p2": {
+      "lat": 26.0348781,
+      "lon": 50.5122024
+    }
+  },
+  "logo_file": "Bahrain International Circuit Bahrain Drag_logo.png",
+  "svg_file": "Bahrain International Circuit Bahrain Drag.svg",
+  "gps_points": [
+    {
+      "lat": 26.0348741,
+      "lon": 50.5123192,
+      "alt_m": 11.0
+    },
+    {
+      "lat": 26.0310916,
+      "lon": 50.512157,
+      "alt_m": 12.0
+    }
+  ]
+}

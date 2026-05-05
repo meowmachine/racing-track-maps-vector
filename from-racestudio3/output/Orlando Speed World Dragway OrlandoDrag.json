@@ -1,0 +1,52 @@
+{
+  "source_file": "171h9xti.tkk",
+  "full_name": "Orlando Speed World Dragway OrlandoDrag",
+  "name": "Orlando Speed World Dragway",
+  "venue_id": "171h9xti",
+  "short_name": "OrlandoDrag",
+  "country": "US",
+  "track_length_m": 419.2,
+  "reference_point": {
+    "lat": 28.5411211,
+    "lon": -81.0939191,
+    "alt_m": 27.0
+  },
+  "start_finish": {
+    "lat": 28.5429366,
+    "lon": -81.093921
+  },
+  "surface": "asphalt",
+  "timezone": "America/New_York",
+  "timezone_label": "(UTC-05:00) Eastern Time (US & Canada)",
+  "contact": {
+    "city": "Orlando",
+    "address": "19164 East Colonial Drive",
+    "postal_code": "32820",
+    "phone": "+1 407 568 5522",
+    "url": "http://www.raceosw.com/dragway/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 28.5430054,
+      "lon": -81.0938019
+    },
+    "p2": {
+      "lat": 28.5430052,
+      "lon": -81.0940403
+    }
+  },
+  "logo_file": "Orlando Speed World Dragway OrlandoDrag_logo.png",
+  "svg_file": "Orlando Speed World Dragway OrlandoDrag.svg",
+  "gps_points": [
+    {
+      "lat": 28.5430053,
+      "lon": -81.0939211,
+      "alt_m": 25.0
+    },
+    {
+      "lat": 28.5392368,
+      "lon": -81.0939171,
+      "alt_m": 22.0
+    }
+  ]
+}

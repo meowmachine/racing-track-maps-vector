@@ -1,0 +1,242 @@
+{
+  "source_file": "1gtd0s1b.tkk",
+  "full_name": "Autodromo Riccardo Paletti - Varano de' Melegari Varano Oval",
+  "name": "Autodromo Riccardo Paletti - Varano de' Melegari",
+  "venue_id": "1gtd0s1b",
+  "short_name": "Varano Oval",
+  "country": "IT",
+  "track_length_m": 496.6,
+  "reference_point": {
+    "lat": 44.6817347,
+    "lon": 10.0270185,
+    "alt_m": 173.0
+  },
+  "start_finish": {
+    "lat": 44.6819046,
+    "lon": 10.0268911
+  },
+  "surface": "asphalt",
+  "timezone": "Europe/Rome",
+  "timezone_label": "(UTC+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna",
+  "contact": {
+    "city": "Varano De' Melegari (Parma)",
+    "address": "Via Strada per Fosio 1",
+    "postal_code": "43040",
+    "phone": "+39 0525 551211",
+    "url": "https://www.autodromovarano.it/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 44.6818498,
+      "lon": 10.0269003
+    },
+    "p2": {
+      "lat": 44.6819594,
+      "lon": 10.0268819
+    }
+  },
+  "logo_file": "Autodromo Riccardo Paletti - Varano de' Melegari Varano Oval_logo.png",
+  "svg_file": "Autodromo Riccardo Paletti - Varano de' Melegari Varano Oval.svg",
+  "gps_points": [
+    {
+      "lat": 44.6819046,
+      "lon": 10.0268911,
+      "alt_m": 173.0
+    },
+    {
+      "lat": 44.6818137,
+      "lon": 10.0258247,
+      "alt_m": 173.0
+    },
+    {
+      "lat": 44.6818046,
+      "lon": 10.0257808,
+      "alt_m": 173.0
+    },
+    {
+      "lat": 44.6817903,
+      "lon": 10.0257364,
+      "alt_m": 173.0
+    },
+    {
+      "lat": 44.681772,
+      "lon": 10.0257006,
+      "alt_m": 173.0
+    },
+    {
+      "lat": 44.6817465,
+      "lon": 10.0256676,
+      "alt_m": 173.0
+    },
+    {
+      "lat": 44.6817149,
+      "lon": 10.0256418,
+      "alt_m": 173.0
+    },
+    {
+      "lat": 44.6816843,
+      "lon": 10.0256274,
+      "alt_m": 173.0
+    },
+    {
+      "lat": 44.6816497,
+      "lon": 10.0256217,
+      "alt_m": 173.0
+    },
+    {
+      "lat": 44.681616,
+      "lon": 10.0256231,
+      "alt_m": 173.0
+    },
+    {
+      "lat": 44.6815814,
+      "lon": 10.0256346,
+      "alt_m": 173.0
+    },
+    {
+      "lat": 44.6815457,
+      "lon": 10.0256561,
+      "alt_m": 173.0
+    },
+    {
+      "lat": 44.6815192,
+      "lon": 10.0256819,
+      "alt_m": 173.0
+    },
+    {
+      "lat": 44.6814948,
+      "lon": 10.0257149,
+      "alt_m": 173.0
+    },
+    {
+      "lat": 44.6814795,
+      "lon": 10.0257536,
+      "alt_m": 173.0
+    },
+    {
+      "lat": 44.6814734,
+      "lon": 10.0257908,
+      "alt_m": 173.0
+    },
+    {
+      "lat": 44.6814693,
+      "lon": 10.0258625,
+      "alt_m": 173.0
+    },
+    {
+      "lat": 44.6815427,
+      "lon": 10.0280773,
+      "alt_m": 171.0
+    },
+    {
+      "lat": 44.6815472,
+      "lon": 10.0281674,
+      "alt_m": 171.0
+    },
+    {
+      "lat": 44.681556,
+      "lon": 10.0282315,
+      "alt_m": 171.0
+    },
+    {
+      "lat": 44.681571,
+      "lon": 10.0282807,
+      "alt_m": 171.0
+    },
+    {
+      "lat": 44.6815924,
+      "lon": 10.0283178,
+      "alt_m": 171.0
+    },
+    {
+      "lat": 44.6816231,
+      "lon": 10.028356,
+      "alt_m": 171.0
+    },
+    {
+      "lat": 44.6816559,
+      "lon": 10.0283831,
+      "alt_m": 171.0
+    },
+    {
+      "lat": 44.6816902,
+      "lon": 10.0284031,
+      "alt_m": 171.0
+    },
+    {
+      "lat": 44.6817144,
+      "lon": 10.0284102,
+      "alt_m": 171.0
+    },
+    {
+      "lat": 44.681738,
+      "lon": 10.0284152,
+      "alt_m": 171.0
+    },
+    {
+      "lat": 44.6817672,
+      "lon": 10.0284142,
+      "alt_m": 171.0
+    },
+    {
+      "lat": 44.6818008,
+      "lon": 10.0284092,
+      "alt_m": 171.0
+    },
+    {
+      "lat": 44.6818301,
+      "lon": 10.0284032,
+      "alt_m": 171.0
+    },
+    {
+      "lat": 44.6818551,
+      "lon": 10.0283941,
+      "alt_m": 171.0
+    },
+    {
+      "lat": 44.6818808,
+      "lon": 10.0283791,
+      "alt_m": 171.0
+    },
+    {
+      "lat": 44.6819136,
+      "lon": 10.028353,
+      "alt_m": 171.0
+    },
+    {
+      "lat": 44.6819414,
+      "lon": 10.0283179,
+      "alt_m": 171.0
+    },
+    {
+      "lat": 44.6819686,
+      "lon": 10.0282687,
+      "alt_m": 171.0
+    },
+    {
+      "lat": 44.6819857,
+      "lon": 10.0282165,
+      "alt_m": 171.0
+    },
+    {
+      "lat": 44.6819978,
+      "lon": 10.0281513,
+      "alt_m": 171.0
+    },
+    {
+      "lat": 44.682,
+      "lon": 10.028079,
+      "alt_m": 171.0
+    },
+    {
+      "lat": 44.6819943,
+      "lon": 10.0279435,
+      "alt_m": 171.0
+    },
+    {
+      "lat": 44.6819046,
+      "lon": 10.0268911,
+      "alt_m": 173.0
+    }
+  ]
+}

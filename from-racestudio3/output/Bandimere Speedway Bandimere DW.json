@@ -1,0 +1,52 @@
+{
+  "source_file": "1725kr7k.tkk",
+  "full_name": "Bandimere Speedway Bandimere DW",
+  "name": "Bandimere Speedway",
+  "venue_id": "1725kr7k",
+  "short_name": "Bandimere DW",
+  "country": "US",
+  "track_length_m": 420.0,
+  "reference_point": {
+    "lat": 39.6619065,
+    "lon": -105.1875659,
+    "alt_m": 1779.0
+  },
+  "start_finish": {
+    "lat": 39.6600977,
+    "lon": -105.1873157
+  },
+  "surface": "asphalt",
+  "timezone": "America/Denver",
+  "timezone_label": "(UTC-07:00) Mountain Time (US & Canada)",
+  "contact": {
+    "city": "Morrison",
+    "address": "3051 South Rooney Road",
+    "postal_code": "80465",
+    "phone": "+1 303 697 6001",
+    "url": "https://bandimere.com/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 39.6600182,
+      "lon": -105.1874409
+    },
+    "p2": {
+      "lat": 39.6600402,
+      "lon": -105.1871715
+    }
+  },
+  "logo_file": "Bandimere Speedway Bandimere DW_logo.png",
+  "svg_file": "Bandimere Speedway Bandimere DW.svg",
+  "gps_points": [
+    {
+      "lat": 39.6600292,
+      "lon": -105.1873062,
+      "alt_m": 1785.0
+    },
+    {
+      "lat": 39.6637837,
+      "lon": -105.1878256,
+      "alt_m": 1784.0
+    }
+  ]
+}

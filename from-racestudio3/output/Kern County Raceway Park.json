@@ -1,0 +1,142 @@
+{
+  "source_file": "0rvjuexn.tkk",
+  "full_name": "Kern County Raceway Park",
+  "name": "Kern County Raceway Park",
+  "venue_id": "0rvjuexn",
+  "short_name": "Kern County",
+  "country": "US",
+  "track_length_m": 861.0,
+  "reference_point": {
+    "lat": 35.2927552,
+    "lon": -119.2562397,
+    "alt_m": 102.0
+  },
+  "start_finish": {
+    "lat": 35.2927719,
+    "lon": -119.2571213
+  },
+  "surface": "asphalt",
+  "timezone": "America/Los_Angeles",
+  "timezone_label": "(UTC-08:00) Pacific Time (US & Canada)",
+  "contact": {
+    "city": "Bakersfield, Kern County",
+    "address": "Raceway Blvd, 13500",
+    "postal_code": "93311",
+    "phone": "+1-661-835-1264",
+    "url": "http://www.kernraceway.com/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 35.2927706,
+      "lon": -119.2570167
+    },
+    "p2": {
+      "lat": 35.2927732,
+      "lon": -119.2572259
+    }
+  },
+  "logo_file": "Kern County Raceway Park_logo.png",
+  "svg_file": "Kern County Raceway Park.svg",
+  "gps_points": [
+    {
+      "lat": 35.2927719,
+      "lon": -119.2571213,
+      "alt_m": 0.0
+    },
+    {
+      "lat": 35.2920271,
+      "lon": -119.2570896,
+      "alt_m": 99.0
+    },
+    {
+      "lat": 35.2917905,
+      "lon": -119.257011,
+      "alt_m": 101.0
+    },
+    {
+      "lat": 35.2914804,
+      "lon": -119.2568237,
+      "alt_m": 102.0
+    },
+    {
+      "lat": 35.2913285,
+      "lon": -119.2566247,
+      "alt_m": 102.0
+    },
+    {
+      "lat": 35.2912182,
+      "lon": -119.2563694,
+      "alt_m": 101.0
+    },
+    {
+      "lat": 35.2912192,
+      "lon": -119.2560519,
+      "alt_m": 100.0
+    },
+    {
+      "lat": 35.2913197,
+      "lon": -119.2557123,
+      "alt_m": 100.0
+    },
+    {
+      "lat": 35.2914844,
+      "lon": -119.2555377,
+      "alt_m": 102.0
+    },
+    {
+      "lat": 35.2916654,
+      "lon": -119.2554086,
+      "alt_m": 102.0
+    },
+    {
+      "lat": 35.29189,
+      "lon": -119.2553915,
+      "alt_m": 102.0
+    },
+    {
+      "lat": 35.2937466,
+      "lon": -119.255358,
+      "alt_m": 100.0
+    },
+    {
+      "lat": 35.2939537,
+      "lon": -119.2554254,
+      "alt_m": 100.0
+    },
+    {
+      "lat": 35.2941677,
+      "lon": -119.2556672,
+      "alt_m": 99.0
+    },
+    {
+      "lat": 35.2942921,
+      "lon": -119.2560057,
+      "alt_m": 101.0
+    },
+    {
+      "lat": 35.2942816,
+      "lon": -119.2563116,
+      "alt_m": 102.0
+    },
+    {
+      "lat": 35.2941791,
+      "lon": -119.2567068,
+      "alt_m": 102.0
+    },
+    {
+      "lat": 35.2938811,
+      "lon": -119.2569744,
+      "alt_m": 102.0
+    },
+    {
+      "lat": 35.2935038,
+      "lon": -119.2570624,
+      "alt_m": 101.0
+    },
+    {
+      "lat": 35.2927719,
+      "lon": -119.2571213,
+      "alt_m": 99.0
+    }
+  ]
+}

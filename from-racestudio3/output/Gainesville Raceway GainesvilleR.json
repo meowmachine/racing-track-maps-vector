@@ -1,0 +1,52 @@
+{
+  "source_file": "171h5g81.tkk",
+  "full_name": "Gainesville Raceway GainesvilleR",
+  "name": "Gainesville Raceway",
+  "venue_id": "171h5g81",
+  "short_name": "GainesvilleR",
+  "country": "US",
+  "track_length_m": 418.3,
+  "reference_point": {
+    "lat": 29.7585687,
+    "lon": -82.2721994,
+    "alt_m": 0.0
+  },
+  "start_finish": {
+    "lat": 29.7585335,
+    "lon": -82.2742859
+  },
+  "surface": "asphalt",
+  "timezone": "America/New_York",
+  "timezone_label": "(UTC-05:00) Eastern Time (US & Canada)",
+  "contact": {
+    "city": "Gainesville",
+    "address": "11211 N, N County Road 225",
+    "postal_code": "32609",
+    "phone": "+1 352 377 0046",
+    "url": "http://www.gainesvilleraceway.com/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 29.7586366,
+      "lon": -82.2743672
+    },
+    "p2": {
+      "lat": 29.7584278,
+      "lon": -82.2743626
+    }
+  },
+  "logo_file": "Gainesville Raceway GainesvilleR_logo.png",
+  "svg_file": "Gainesville Raceway GainesvilleR.svg",
+  "gps_points": [
+    {
+      "lat": 29.7585322,
+      "lon": -82.2743649,
+      "alt_m": -32768.0
+    },
+    {
+      "lat": 29.7586052,
+      "lon": -82.2700339,
+      "alt_m": -32768.0
+    }
+  ]
+}

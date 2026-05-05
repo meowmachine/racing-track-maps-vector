@@ -1,0 +1,52 @@
+{
+  "source_file": "1711psp6.tkk",
+  "full_name": "Atmore Dragway AtmoreDrag",
+  "name": "Atmore Dragway",
+  "venue_id": "1711psp6",
+  "short_name": "AtmoreDrag",
+  "country": "US",
+  "track_length_m": 217.1,
+  "reference_point": {
+    "lat": 31.1012165,
+    "lon": -87.49949,
+    "alt_m": 89.0
+  },
+  "start_finish": {
+    "lat": 31.1012101,
+    "lon": -87.5005494
+  },
+  "surface": "asphalt",
+  "timezone": "America/Chicago",
+  "timezone_label": "(UTC-06:00) Central Time (US & Canada)",
+  "contact": {
+    "city": "Atmore",
+    "address": "1301 Racetrack Road",
+    "postal_code": "36502",
+    "phone": "+1 251 368 8363",
+    "url": "https://www.atmoredragway.com/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 31.1012638,
+      "lon": -87.50063
+    },
+    "p2": {
+      "lat": 31.1011554,
+      "lon": -87.5006292
+    }
+  },
+  "logo_file": "Atmore Dragway AtmoreDrag_logo.png",
+  "svg_file": "Atmore Dragway AtmoreDrag.svg",
+  "gps_points": [
+    {
+      "lat": 31.1012096,
+      "lon": -87.5006296,
+      "alt_m": 88.0
+    },
+    {
+      "lat": 31.1012234,
+      "lon": -87.4983503,
+      "alt_m": 88.0
+    }
+  ]
+}

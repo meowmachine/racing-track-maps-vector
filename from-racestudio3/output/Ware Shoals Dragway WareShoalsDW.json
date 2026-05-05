@@ -1,0 +1,52 @@
+{
+  "source_file": "174uyocu.tkk",
+  "full_name": "Ware Shoals Dragway WareShoalsDW",
+  "name": "Ware Shoals Dragway",
+  "venue_id": "174uyocu",
+  "short_name": "WareShoalsDW",
+  "country": "US",
+  "track_length_m": 217.7,
+  "reference_point": {
+    "lat": 34.4554323,
+    "lon": -82.253197,
+    "alt_m": 223.0
+  },
+  "start_finish": {
+    "lat": 34.4555863,
+    "lon": -82.2521097
+  },
+  "surface": "asphalt",
+  "timezone": "America/New_York",
+  "timezone_label": "(UTC-05:00) Eastern Time (US & Canada)",
+  "contact": {
+    "city": "Ware Shoals",
+    "address": "16924 US-25",
+    "postal_code": "29692",
+    "phone": "+1 864 861 2467",
+    "url": "http://www.wareshoalsdragway.com/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 34.4555452,
+      "lon": -82.2520163
+    },
+    "p2": {
+      "lat": 34.4556508,
+      "lon": -82.2520383
+    }
+  },
+  "logo_file": "Ware Shoals Dragway WareShoalsDW_logo.png",
+  "svg_file": "Ware Shoals Dragway WareShoalsDW.svg",
+  "gps_points": [
+    {
+      "lat": 34.455598,
+      "lon": -82.2520273,
+      "alt_m": 224.0
+    },
+    {
+      "lat": 34.4552666,
+      "lon": -82.2543667,
+      "alt_m": 218.0
+    }
+  ]
+}

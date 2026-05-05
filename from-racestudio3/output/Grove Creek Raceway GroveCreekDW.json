@@ -1,0 +1,52 @@
+{
+  "source_file": "173oz337.tkk",
+  "full_name": "Grove Creek Raceway GroveCreekDW",
+  "name": "Grove Creek Raceway",
+  "venue_id": "173oz337",
+  "short_name": "GroveCreekDW",
+  "country": "US",
+  "track_length_m": 216.7,
+  "reference_point": {
+    "lat": 45.1515266,
+    "lon": -94.6519856,
+    "alt_m": 348.0
+  },
+  "start_finish": {
+    "lat": 45.1520165,
+    "lon": -94.6530656
+  },
+  "surface": "asphalt",
+  "timezone": "America/Chicago",
+  "timezone_label": "(UTC-06:00) Central Time (US & Canada)",
+  "contact": {
+    "city": "Grove City",
+    "address": "55629 US Highway 12",
+    "postal_code": "56243",
+    "phone": "+1 320 857 2152",
+    "url": "http://www.grovecreek.com/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 45.1520919,
+      "lon": -94.6531125
+    },
+    "p2": {
+      "lat": 45.1520153,
+      "lon": -94.6531823
+    }
+  },
+  "logo_file": "Grove Creek Raceway GroveCreekDW_logo.png",
+  "svg_file": "Grove Creek Raceway GroveCreekDW.svg",
+  "gps_points": [
+    {
+      "lat": 45.1520536,
+      "lon": -94.6531474,
+      "alt_m": 348.0
+    },
+    {
+      "lat": 45.1509995,
+      "lon": -94.6508238,
+      "alt_m": 346.0
+    }
+  ]
+}

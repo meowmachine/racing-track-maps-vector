@@ -1,0 +1,52 @@
+{
+  "source_file": "174wl720.tkk",
+  "full_name": "Meremere Dragway Meremere DW",
+  "name": "Meremere Dragway",
+  "venue_id": "174wl720",
+  "short_name": "Meremere DW",
+  "country": "NZ",
+  "track_length_m": 418.8,
+  "reference_point": {
+    "lat": -37.3388553,
+    "lon": 175.0568038,
+    "alt_m": 7.0
+  },
+  "start_finish": {
+    "lat": -37.3373336,
+    "lon": 175.0580455
+  },
+  "surface": "asphalt",
+  "timezone": "Pacific/Auckland",
+  "timezone_label": "(UTC+12:00) Auckland, Wellington",
+  "contact": {
+    "city": "Meremere",
+    "address": "State Highway 1",
+    "postal_code": "2696",
+    "phone": "+64 09 232 6745",
+    "url": "http://www.meremeredragway.co.nz/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": -37.3373238,
+      "lon": 175.0581851
+    },
+    "p2": {
+      "lat": -37.3372282,
+      "lon": 175.0579999
+    }
+  },
+  "logo_file": null,
+  "svg_file": "Meremere Dragway Meremere DW.svg",
+  "gps_points": [
+    {
+      "lat": -37.337276,
+      "lon": 175.0580925,
+      "alt_m": 8.0
+    },
+    {
+      "lat": -37.3404346,
+      "lon": 175.0555151,
+      "alt_m": 17.0
+    }
+  ]
+}

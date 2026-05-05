@@ -1,0 +1,52 @@
+{
+  "source_file": "174vgk84.tkk",
+  "full_name": "Pine Valley Raceway PineValleyDW",
+  "name": "Pine Valley Raceway",
+  "venue_id": "174vgk84",
+  "short_name": "PineValleyDW",
+  "country": "US",
+  "track_length_m": 418.8,
+  "reference_point": {
+    "lat": 31.2479102,
+    "lon": -94.8056848,
+    "alt_m": 56.0
+  },
+  "start_finish": {
+    "lat": 31.2489936,
+    "lon": -94.8039828
+  },
+  "surface": "asphalt",
+  "timezone": "America/Chicago",
+  "timezone_label": "(UTC-06:00) Central Time (US & Canada)",
+  "contact": {
+    "city": "Lufkin",
+    "address": "3427 FM 2497",
+    "postal_code": "75941",
+    "phone": "+1 936 699 3227",
+    "url": "http://www.pinevalleyracing.com/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 31.2489673,
+      "lon": -94.8038597
+    },
+    "p2": {
+      "lat": 31.2491019,
+      "lon": -94.8039769
+    }
+  },
+  "logo_file": "Pine Valley Raceway PineValleyDW_logo.png",
+  "svg_file": "Pine Valley Raceway PineValleyDW.svg",
+  "gps_points": [
+    {
+      "lat": 31.2490346,
+      "lon": -94.8039183,
+      "alt_m": 55.0
+    },
+    {
+      "lat": 31.2467858,
+      "lon": -94.8074512,
+      "alt_m": 57.0
+    }
+  ]
+}

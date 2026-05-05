@@ -1,0 +1,52 @@
+{
+  "source_file": "174c46c4.tkk",
+  "full_name": "Maryland International Raceway MIR DW",
+  "name": "Maryland International Raceway",
+  "venue_id": "174c46c4",
+  "short_name": "MIR DW",
+  "country": "US",
+  "track_length_m": 417.8,
+  "reference_point": {
+    "lat": 38.3957401,
+    "lon": -76.8436664,
+    "alt_m": 41.0
+  },
+  "start_finish": {
+    "lat": 38.3949302,
+    "lon": -76.8457314
+  },
+  "surface": "asphalt",
+  "timezone": "America/New_York",
+  "timezone_label": "(UTC-05:00) Eastern Time (US & Canada)",
+  "contact": {
+    "city": "Mechanicsville",
+    "address": "27861 Budds Creek Road",
+    "postal_code": "20659",
+    "phone": "+1 301 884 9833",
+    "url": "http://www.racemdir.com/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 38.394983,
+      "lon": -76.845863
+    },
+    "p2": {
+      "lat": 38.394816,
+      "lon": -76.8457564
+    }
+  },
+  "logo_file": "Maryland International Raceway MIR DW_logo.png",
+  "svg_file": "Maryland International Raceway MIR DW.svg",
+  "gps_points": [
+    {
+      "lat": 38.3948995,
+      "lon": -76.8458097,
+      "alt_m": 41.0
+    },
+    {
+      "lat": 38.3965807,
+      "lon": -76.8415231,
+      "alt_m": 40.0
+    }
+  ]
+}

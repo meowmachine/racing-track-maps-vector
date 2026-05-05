@@ -1,0 +1,52 @@
+{
+  "source_file": "1749yr2r.tkk",
+  "full_name": "U.S. 13 Dragway US13 DW",
+  "name": "U.S. 13 Dragway",
+  "venue_id": "1749yr2r",
+  "short_name": "US13 DW",
+  "country": "US",
+  "track_length_m": 420.2,
+  "reference_point": {
+    "lat": 38.4715215,
+    "lon": -75.5627107,
+    "alt_m": 15.0
+  },
+  "start_finish": {
+    "lat": 38.4733382,
+    "lon": -75.5628473
+  },
+  "surface": "asphalt",
+  "timezone": "America/New_York",
+  "timezone_label": "(UTC-05:00) Eastern Time (US & Canada)",
+  "contact": {
+    "city": "Delmar",
+    "address": "36952 Sussex Highway",
+    "postal_code": "19940",
+    "phone": "+1 302 846 3911",
+    "url": "http://delawareracing.com/DragStrip/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 38.4734132,
+      "lon": -75.5627189
+    },
+    "p2": {
+      "lat": 38.4734008,
+      "lon": -75.5629861
+    }
+  },
+  "logo_file": "U.S. 13 Dragway US13 DW_logo.png",
+  "svg_file": "U.S. 13 Dragway US13 DW.svg",
+  "gps_points": [
+    {
+      "lat": 38.473407,
+      "lon": -75.5628525,
+      "alt_m": 13.0
+    },
+    {
+      "lat": 38.4696359,
+      "lon": -75.5625689,
+      "alt_m": 13.0
+    }
+  ]
+}

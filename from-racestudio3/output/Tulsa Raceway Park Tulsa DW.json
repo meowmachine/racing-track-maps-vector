@@ -1,0 +1,52 @@
+{
+  "source_file": "1723f5gk.tkk",
+  "full_name": "Tulsa Raceway Park Tulsa DW",
+  "name": "Tulsa Raceway Park",
+  "venue_id": "1723f5gk",
+  "short_name": "Tulsa DW",
+  "country": "US",
+  "track_length_m": 417.6,
+  "reference_point": {
+    "lat": 36.1974027,
+    "lon": -95.8458445,
+    "alt_m": 191.0
+  },
+  "start_finish": {
+    "lat": 36.1974066,
+    "lon": -95.8480858
+  },
+  "surface": "asphalt",
+  "timezone": "America/Chicago",
+  "timezone_label": "(UTC-06:00) Central Time (US & Canada)",
+  "contact": {
+    "city": "Tulsa",
+    "address": "3101 North Garnett Road",
+    "postal_code": "74116",
+    "phone": "+1 918 437 7223",
+    "url": "http://www.tulsaracewaypark.com/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 36.197511,
+      "lon": -95.8481704
+    },
+    "p2": {
+      "lat": 36.1973024,
+      "lon": -95.848171
+    }
+  },
+  "logo_file": "Tulsa Raceway Park Tulsa DW_logo.png",
+  "svg_file": "Tulsa Raceway Park Tulsa DW.svg",
+  "gps_points": [
+    {
+      "lat": 36.1974067,
+      "lon": -95.8481707,
+      "alt_m": 188.0
+    },
+    {
+      "lat": 36.1973987,
+      "lon": -95.8435182,
+      "alt_m": 193.0
+    }
+  ]
+}

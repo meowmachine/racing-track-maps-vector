@@ -1,0 +1,52 @@
+{
+  "source_file": "174cpy17.tkk",
+  "full_name": "Lancaster International Dragway Lancaster DW",
+  "name": "Lancaster International Dragway",
+  "venue_id": "174cpy17",
+  "short_name": "Lancaster DW",
+  "country": "US",
+  "track_length_m": 217.2,
+  "reference_point": {
+    "lat": 42.9508223,
+    "lon": -78.6269551,
+    "alt_m": 223.0
+  },
+  "start_finish": {
+    "lat": 42.9499146,
+    "lon": -78.6269617
+  },
+  "surface": "asphalt",
+  "timezone": "America/New_York",
+  "timezone_label": "(UTC-05:00) Eastern Time (US & Canada)",
+  "contact": {
+    "city": "Lancaster",
+    "address": "57 Gunnville Road",
+    "postal_code": "14086",
+    "phone": "+1 716 759 6818",
+    "url": "https://lancastermotorsportspark.com/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 42.9498462,
+      "lon": -78.6270363
+    },
+    "p2": {
+      "lat": 42.9498456,
+      "lon": -78.6268881
+    }
+  },
+  "logo_file": "Lancaster International Dragway Lancaster DW_logo.png",
+  "svg_file": "Lancaster International Dragway Lancaster DW.svg",
+  "gps_points": [
+    {
+      "lat": 42.9498459,
+      "lon": -78.6269622,
+      "alt_m": 223.0
+    },
+    {
+      "lat": 42.9517988,
+      "lon": -78.626948,
+      "alt_m": 224.0
+    }
+  ]
+}

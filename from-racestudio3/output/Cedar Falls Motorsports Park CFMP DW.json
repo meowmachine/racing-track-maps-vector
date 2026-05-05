@@ -1,0 +1,52 @@
+{
+  "source_file": "1725n6t7.tkk",
+  "full_name": "Cedar Falls Motorsports Park CFMP DW",
+  "name": "Cedar Falls Motorsports Park",
+  "venue_id": "1725n6t7",
+  "short_name": "CFMP DW",
+  "country": "US",
+  "track_length_m": 418.5,
+  "reference_point": {
+    "lat": 42.6016029,
+    "lon": -92.4592922,
+    "alt_m": 270.0
+  },
+  "start_finish": {
+    "lat": 42.5997902,
+    "lon": -92.4592935
+  },
+  "surface": "asphalt",
+  "timezone": "America/Chicago",
+  "timezone_label": "(UTC-06:00) Central Time (US & Canada)",
+  "contact": {
+    "city": "Cedar Falls",
+    "address": "7227 Waverly Road",
+    "postal_code": "50613",
+    "phone": "+1 319 987 2537",
+    "url": "https://www.racecfmp.com/"
+  },
+  "start_finish_line": {
+    "p1": {
+      "lat": 42.5997216,
+      "lon": -92.4594355
+    },
+    "p2": {
+      "lat": 42.5997214,
+      "lon": -92.4591515
+    }
+  },
+  "logo_file": "Cedar Falls Motorsports Park CFMP DW_logo.png",
+  "svg_file": "Cedar Falls Motorsports Park CFMP DW.svg",
+  "gps_points": [
+    {
+      "lat": 42.5997215,
+      "lon": -92.4592935,
+      "alt_m": 271.0
+    },
+    {
+      "lat": 42.6034843,
+      "lon": -92.4592908,
+      "alt_m": 271.0
+    }
+  ]
+}
